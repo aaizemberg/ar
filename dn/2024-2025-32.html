@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+   <title>voting patterns</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+</head>
+<body>
+
+  <div class="container my-4">
+  <h1>Patrones de votación de los Diputados 2024/25</h1>
+  <p>Cada diputado está representado por un círculo, coloreado según su bloque o partido. Los que aparecen más cerca comparten patrones similares de votación.</p>
+  
+  <div id="observablehq-viewof-bloques_sel-4ed7ea22"></div>
+  <div id="observablehq-chart-4ed7ea22"></div>
+  <div id="observablehq-referencia-4ed7ea22"></div>
+    
+  </div>  
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/781c3fdb3b8cacb4@1095.js?v=4";
+new Runtime().module(define, name => {
+  if (name === "viewof bloques_sel") return new Inspector(document.querySelector("#observablehq-viewof-bloques_sel-4ed7ea22"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-4ed7ea22"));
+  if (name === "referencia") return new Inspector(document.querySelector("#observablehq-referencia-4ed7ea22"));
+});
+</script>
+  
+</body>
+</html>
