@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Escuchando noticias</title>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+</head>
+<body>
+  <h1>Escuchando las noticias del día</h1>
+  <div id="links"></div>
+  <footer style="text-align: right;">
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CC_BY_icon.svg/120px-CC_BY_icon.svg.png" width="10%" height="10%" alt="CC-BY Autor: Ariel Aizemberg"> Ariel Aizemberg @aaizemberg</p>
+  </footer>
+  
+<script>
+const date = new Date();
+
+const yyyy = date.getFullYear();
+const mm = String(date.getMonth() + 1).padStart(2, "0");
+const dd = String(date.getDate()).padStart(2, "0");
+
+const formattedDate = `${yyyy}/${mm}/${dd}`;
+
+const radios = [
+  { station: "rivadavia", hour: "05", label: "Rivadavia 630 AM - 5 AM" },
+  { station: "urbana-play", hour: "06", label: "Urbana Play 104.3 FM - 6 AM" },
+  { station: "urbana-play", hour: "07", label: "Urbana Play 104.3 FM - 7 AM" },
+  { station: "urbana-play", hour: "08", label: "Urbana Play 104.3 FM - 8 AM" }
+];
+
+d3.select("#links")
+  .selectAll("a")
+  .data(radios)
+  .join("a")
+  .attr("href", d =>
+    `https://radiocut.fm/radiostation/${d.station}/listen/${formattedDate}/${d.hour}/00/00/`
+  )
+  .attr("target", "_blank")
+  .text(d => d.label)
+  .append("br");
+</script>  
+  
+</body>
+</html>
