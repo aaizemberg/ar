@@ -4,5 +4,5 @@
 4. https://aaizemberg.github.io/ar/dn/2024-2025-32.html
 5. https://aaizemberg.github.io/ar/dn/2025-12.html
 6. https://aaizemberg.github.io/ar/dn/reforma-laboral-2026-02-20.html
-7. glaciares
-8. https://aaizemberg.github.io/ar/dn/2026.html
+8. https://aaizemberg.github.io/ar/dn/2026-glaciares.html
+9. https://aaizemberg.github.io/ar/dn/2026.html
