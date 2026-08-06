@@ -120,7 +120,7 @@
   }
 
   footer img {
-    width: 20px;
+    width: auto;
     height: 20px;
     opacity: 0.7;
   }
@@ -132,6 +132,22 @@
 
   footer a:hover {
     color: var(--accent);
+  }
+
+  footer .credits {
+    margin-top: 0.6rem;
+  }
+
+  footer .credits img {
+    width: auto;
+    height: 16px;
+    opacity: 0.6;
+    vertical-align: middle;
+    transition: opacity 0.15s ease;
+  }
+
+  footer .credits a:hover img {
+    opacity: 1;
   }
 </style>
 </head>
@@ -145,6 +161,12 @@
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CC_BY_icon.svg/120px-CC_BY_icon.svg.png" alt="CC-BY Autor: Ariel Aizemberg">
     Ariel Aizemberg @aaizemberg
+  </p>
+  <p class="credits">
+    muchas gracias por el registro    
+    <a href="https://radiocut.fm" target="_blank">
+      <img src="https://static.radiocut.com.ar/prelaunch/logo_new.svg" alt="RadioCut">
+    </a>
   </p>
 </footer>
 
