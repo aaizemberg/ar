@@ -1,25 +1,158 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Escuchando noticias</title>
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Escuchando noticias</title>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<style>
+  :root {
+    --bg: #f7f7f9;
+    --card-bg: #ffffff;
+    --text: #1c1c1e;
+    --muted: #6b7280;
+    --accent: #2563eb;
+    --accent-hover: #1d4ed8;
+    --border: #e5e7eb;
+    --shadow: 0 1px 2px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.06);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115;
+      --card-bg: #1a1d23;
+      --text: #f2f2f3;
+      --muted: #9ca3af;
+      --accent: #60a5fa;
+      --accent-hover: #93c5fd;
+      --border: #2a2d34;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.4);
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 1.25rem;
+  }
+
+  main {
+    width: 100%;
+    max-width: 560px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: -0.01em;
+    margin: 0 0 2rem;
+  }
+
+  #links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  #links a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 0.9rem 1.1rem;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.95rem;
+    font-weight: 500;
+    box-shadow: var(--shadow);
+    transition: transform 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  }
+
+  #links a:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+    color: var(--accent-hover);
+  }
+
+  #links a::after {
+    content: "▶";
+    font-size: 0.7rem;
+    color: var(--muted);
+    margin-left: 0.75rem;
+  }
+
+  #links a:hover::after {
+    color: var(--accent-hover);
+  }
+
+  /* el <br> que agrega d3 después de cada <a> ya no hace falta visualmente */
+  #links br {
+    display: none;
+  }
+
+  footer {
+    width: 100%;
+    max-width: 560px;
+    margin-top: 2.5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--border);
+  }
+
+  footer p {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin: 0;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  footer img {
+    width: 20px;
+    height: 20px;
+    opacity: 0.7;
+  }
+
+  footer a {
+    color: var(--muted);
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    color: var(--accent);
+  }
+</style>
 </head>
 <body>
+<main>
   <h1>Escuchando las noticias del día</h1>
   <div id="links"></div>
-  <footer style="text-align: center;">
-    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CC_BY_icon.svg/120px-CC_BY_icon.svg.png" width="10%" height="10%" alt="CC-BY Autor: Ariel Aizemberg"> Ariel Aizemberg @aaizemberg</p>
-  </footer>
-  
+</main>
+
+<footer>
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CC_BY_icon.svg/120px-CC_BY_icon.svg.png" alt="CC-BY Autor: Ariel Aizemberg">
+    Ariel Aizemberg @aaizemberg
+  </p>
+</footer>
+
 <script>
   const date = new Date();
-
   const yyyy = date.getFullYear();
   const mm = String(date.getMonth() + 1).padStart(2, "0");
   const dd = String(date.getDate()).padStart(2, "0");
-
   const formattedDate = `${yyyy}/${mm}/${dd}`;
 
   const radios = [
@@ -33,13 +166,10 @@
     .selectAll("a")
     .data(radios)
     .join("a")
-    .attr("href", d =>
-      `https://radiocut.fm/radiostation/${d.station}/listen/${formattedDate}/${d.hour}/00/00/`
-    )
+    .attr("href", d => `https://radiocut.fm/radiostation/${d.station}/listen/${formattedDate}/${d.hour}/00/00/`)
     .attr("target", "_blank")
     .text(d => d.label)
     .append("br");
-</script>  
-  
+</script>
 </body>
 </html>
