@@ -1,0 +1,4024 @@
+Código Provincia	Código Departamento	Departamento	Código Localidad	Localidad
+02	02007	Comuna 1	02007010	Ciudad de Buenos Aires
+02	02014	Comuna 2	02014010	Ciudad de Buenos Aires
+02	02021	Comuna 3	02021010	Ciudad de Buenos Aires
+02	02028	Comuna 4	02028010	Ciudad de Buenos Aires
+02	02035	Comuna 5	02035010	Ciudad de Buenos Aires
+02	02042	Comuna 6	02042010	Ciudad de Buenos Aires
+02	02049	Comuna 7	02049010	Ciudad de Buenos Aires
+02	02056	Comuna 8	02056010	Ciudad de Buenos Aires
+02	02063	Comuna 9	02063010	Ciudad de Buenos Aires
+02	02070	Comuna 10	02070010	Ciudad de Buenos Aires
+02	02077	Comuna 11	02077010	Ciudad de Buenos Aires
+02	02084	Comuna 12	02084010	Ciudad de Buenos Aires
+02	02091	Comuna 13	02091010	Ciudad de Buenos Aires
+02	02098	Comuna 14	02098010	Ciudad de Buenos Aires
+02	02105	Comuna 15	02105010	Ciudad de Buenos Aires
+06	06028	Almirante Brown	06028010	Almirante Brown
+06	06035	Avellaneda	06035010	Avellaneda
+06	06091	Berazategui	06091010	Berazategui
+06	06098	Berisso	06098010	Berisso
+06	06119	Brandsen	06119010	Altamirano
+06	06119	Brandsen	06119015	Barrio El Mirador
+06	06119	Brandsen	06119020	Barrio Las Golondrinas
+06	06119	Brandsen	06119030	Barrio Los Bosquecitos
+06	06119	Brandsen	06119040	Barrio Parque Las Acacias
+06	06119	Brandsen	06119045	Campos de Roca - Posada de Los Lagos
+06	06119	Brandsen	06119050	Brandsen
+06	06119	Brandsen	06119060	Gómez
+06	06119	Brandsen	06119070	Jeppener
+06	06119	Brandsen	06119080	Oliden
+06	06126	Campana	06126020	Barrio Los Pioneros (Barrio Tavella)
+06	06126	Campana	06126030	Campana
+06	06134	Cañuelas	06134020	Barrio El Taladro
+06	06134	Cañuelas	06134030	Cañuelas
+06	06134	Cañuelas	06134040	Gobernador Udaondo
+06	06134	Cañuelas	06134050	Máximo Paz
+06	06134	Cañuelas	06134060	Barrio San Esteban - Barrio Los Pozos
+06	06134	Cañuelas	06134070	Uribelarrea
+06	06134	Cañuelas	06134100	Chacras de La Trinidad
+06	06245	Ensenada	06245010	Ensenada
+06	06252	Escobar	06252010	Escobar
+06	06252	Escobar	06252020	Paraná de las Palmas
+06	06260	Esteban Echeverría	06260010	Esteban Echeverría
+06	06266	Exaltación de la Cruz	06266020	Capilla del Señor
+06	06266	Exaltación de la Cruz	06266030	Diego Gaynor
+06	06266	Exaltación de la Cruz	06266040	Los Cardales
+06	06266	Exaltación de la Cruz	06266060	Pavón - Barrio El Remanso - Barrio Los Pinos
+06	06266	Exaltación de la Cruz	06266120	El Chajá
+06	06266	Exaltación de la Cruz	06266130	El Malacate
+06	06266	Exaltación de la Cruz	06266140	La Macarena
+06	06266	Exaltación de la Cruz	06266150	Las Vizcachas
+06	06266	Exaltación de la Cruz	06266160	Torres
+06	06270	Ezeiza	06270010	Ezeiza
+06	06274	Florencio Varela	06274010	Florencio Varela
+06	06364	General Rodríguez	06364005	Aero Country Club
+06	06364	General Rodríguez	06364015	Barrio Ruta 24 Km 23,5
+06	06364	General Rodríguez	06364030	General Rodríguez
+06	06371	General San Martín	06371010	General San Martín
+06	06408	Hurlingham	06408010	Hurlingham
+06	06410	Ituzaingó	06410010	Ituzaingó
+06	06412	José C. Paz	06412010	José C. Paz
+06	06427	La Matanza	06427010	La Matanza
+06	06441	La Plata	06441030	La Plata
+06	06441	La Plata	06441060	Martín García
+06	06434	Lanús	06434010	Lanús
+06	06490	Lomas de Zamora	06490010	Lomas de Zamora
+06	06497	Luján	06497020	Carlos Keen
+06	06497	Luján	06497025	Club de Campo Los Puentes
+06	06497	Luján	06497060	Luján
+06	06497	Luján	06497070	Olivera
+06	06497	Luján	06497100	La Catalina
+06	06497	Luján	06497120	Estancia Las Lilas
+06	06497	Luján	06497110	Loma Escondida
+06	06497	Luján	06497090	Torres
+06	06515	Malvinas Argentinas	06515010	Malvinas Argentinas
+06	06525	Marcos Paz	06525005	Barrio Lisandro de La Torre y Santa Marta
+06	06525	Marcos Paz	06525010	Barrio Santa Rosa
+06	06525	Marcos Paz	06525030	Villars
+06	06525	Marcos Paz	06525020	Marcos Paz
+06	06539	Merlo	06539010	Merlo
+06	06560	Moreno	06560010	Moreno
+06	06568	Morón	06568010	Morón
+06	06638	Pilar	06638040	Pilar
+06	06648	Presidente Perón	06648010	Presidente Perón
+06	06658	Quilmes	06658010	Quilmes
+06	06749	San Fernando	06749010	San Fernando
+06	06756	San Isidro	06756010	San Isidro
+06	06760	San Miguel	06760010	San Miguel
+06	06778	San Vicente	06778010	Domselaar
+06	06778	San Vicente	06778015	El Lauquen - Principado
+06	06778	San Vicente	06778020	San Vicente
+06	06778	San Vicente	06778030	Santa Rita - San Lucas
+06	06805	Tigre	06805010	Tigre
+06	06840	Tres de Febrero	06840010	Tres de Febrero
+06	06861	Vicente López	06861010	Vicente López
+06	06882	Zárate	06882040	Lima
+06	06882	Zárate	06882050	Zárate
+06	06882	Zárate	06882060	Barrio El Mangrullo
+06	06882	Zárate	06882070	Chacras de Olivia
+06	06882	Zárate	06882080	Chacras del Paraná
+06	06882	Zárate	06882090	Puente Urquiza
+06	06882	Zárate	06882100	Puerto Panal
+06	06882	Zárate	06882110	Ruta 9 Km 107
+06	06882	Zárate	06882120	Acceso a Lima
+06	06007	Adolfo Alsina	06007010	Carhué
+06	06007	Adolfo Alsina	06007020	Colonia San Miguel Arcángel
+06	06007	Adolfo Alsina	06007030	Delfín Huergo
+06	06007	Adolfo Alsina	06007040	Espartillar
+06	06007	Adolfo Alsina	06007050	Esteban Agustín Gascón - Villa Margarita
+06	06007	Adolfo Alsina	06007060	La Pala
+06	06007	Adolfo Alsina	06007095	Leubucó
+06	06007	Adolfo Alsina	06007070	Maza
+06	06007	Adolfo Alsina	06007080	Rivera
+06	06007	Adolfo Alsina	06007110	Yutuyaco
+06	06014	Adolfo Gonzales Chaves	06014010	Adolfo Gonzales Chaves
+06	06014	Adolfo Gonzales Chaves	06014020	De La Garma
+06	06014	Adolfo Gonzales Chaves	06014030	Juan Eulogio Barra
+06	06014	Adolfo Gonzales Chaves	06014040	Vásquez
+06	06021	Alberti	06021010	Alberti
+06	06021	Alberti	06021020	Coronel Seguí
+06	06021	Alberti	06021030	Mechita
+06	06021	Alberti	06021040	Pla
+06	06021	Alberti	06021050	Achupallas
+06	06021	Alberti	06021060	Villa María
+06	06021	Alberti	06021070	Coronel Mom
+06	06077	Arrecifes	06077010	Arrecifes
+06	06077	Arrecifes	06077030	Viña
+06	06042	Ayacucho	06042010	Ayacucho
+06	06042	Ayacucho	06042020	La Constancia
+06	06042	Ayacucho	06042030	Solanet
+06	06042	Ayacucho	06042040	Udaquiola
+06	06049	Azul	06049010	Ariel
+06	06049	Azul	06049020	Azul
+06	06049	Azul	06049030	Cacharí
+06	06049	Azul	06049040	Chillar
+06	06049	Azul	06049050	16 de Julio
+06	06049	Azul	06049060	Parish
+06	06056	Bahía Blanca	06056010	Bahía Blanca
+06	06056	Bahía Blanca	06056020	Cabildo
+06	06056	Bahía Blanca	06056030	General Daniel Cerri
+06	06063	Balcarce	06063010	Balcarce
+06	06063	Balcarce	06063020	Los Pinos
+06	06063	Balcarce	06063030	Napaleofú
+06	06063	Balcarce	06063040	Ramos Otero
+06	06063	Balcarce	06063050	San Agustín
+06	06063	Balcarce	06063060	Villa Laguna La Brava
+06	06070	Baradero	06070010	Baradero
+06	06070	Baradero	06070020	Irineo Portela
+06	06070	Baradero	06070030	Santa Coloma
+06	06070	Baradero	06070040	Villa Alsina
+06	06070	Baradero	06070050	Quebradas
+06	06084	Benito Juárez	06084020	Benito Juárez
+06	06084	Benito Juárez	06084030	López
+06	06084	Benito Juárez	06084040	Tedín Uriburu
+06	06084	Benito Juárez	06084050	Villa Cacique - Barker
+06	06105	Bolívar	06105010	Hale
+06	06105	Bolívar	06105020	Juan Francisco Ibarra
+06	06105	Bolívar	06105040	Paula
+06	06105	Bolívar	06105050	Pirovano
+06	06105	Bolívar	06105060	San Carlos de Bolívar
+06	06105	Bolívar	06105070	Urdampilleta
+06	06105	Bolívar	06105080	Villa Lynch Pueyrredón
+06	06112	Bragado	06112010	Asamblea
+06	06112	Bragado	06112020	Bragado
+06	06112	Bragado	06112030	Comodoro Py
+06	06112	Bragado	06112040	Eduardo O'Brien
+06	06112	Bragado	06112050	Irala
+06	06112	Bragado	06112060	Juan F. Salaberry
+06	06112	Bragado	06112070	La Limpia
+06	06112	Bragado	06112080	Mechita
+06	06112	Bragado	06112090	Olascoaga
+06	06112	Bragado	06112100	Warnes
+06	06140	Capitán Sarmiento	06140010	Capitán Sarmiento
+06	06140	Capitán Sarmiento	06140020	La Luisa
+06	06147	Carlos Casares	06147010	Bellocq
+06	06147	Carlos Casares	06147020	Cadret
+06	06147	Carlos Casares	06147030	Carlos Casares
+06	06147	Carlos Casares	06147040	Colonia Mauricio
+06	06147	Carlos Casares	06147050	Hortensia
+06	06147	Carlos Casares	06147060	La Sofía
+06	06147	Carlos Casares	06147070	Mauricio Hirsch
+06	06147	Carlos Casares	06147080	Moctezuma
+06	06147	Carlos Casares	06147090	Ordoqui
+06	06147	Carlos Casares	06147095	Santo Tomás
+06	06147	Carlos Casares	06147100	Smith
+06	06154	Carlos Tejedor	06154010	Carlos Tejedor
+06	06154	Carlos Tejedor	06154020	Colonia Seré
+06	06154	Carlos Tejedor	06154030	Curarú
+06	06154	Carlos Tejedor	06154040	Timote
+06	06154	Carlos Tejedor	06154050	Tres Algarrobos
+06	06161	Carmen de Areco	06161010	Carmen de Areco
+06	06161	Carmen de Areco	06161020	Pueblo Gouin
+06	06161	Carmen de Areco	06161030	Tres Sargentos
+06	06168	Castelli	06168010	Castelli
+06	06168	Castelli	06168020	Centro Guerrero
+06	06168	Castelli	06168030	Cerro de la Gloria
+06	06210	Chacabuco	06210010	Castilla
+06	06210	Chacabuco	06210020	Chacabuco
+06	06210	Chacabuco	06210030	Los Ángeles
+06	06210	Chacabuco	06210040	O' Higgins
+06	06210	Chacabuco	06210050	Rawson
+06	06218	Chascomús	06218070	Adela
+06	06218	Chascomús	06218003	Barrio Lomas Altas
+06	06218	Chascomús	06218010	Chascomús
+06	06218	Chascomús	06218080	Don Cipriano
+06	06218	Chascomús	06218015	Laguna Vitel
+06	06218	Chascomús	06218030	Villa Parque Girado
+06	06224	Chivilcoy	06224005	Benítez
+06	06224	Chivilcoy	06224010	Chivilcoy
+06	06224	Chivilcoy	06224020	Emilio Ayarza
+06	06224	Chivilcoy	06224030	Gorostiaga
+06	06224	Chivilcoy	06224040	La Rica
+06	06224	Chivilcoy	06224050	Moquehuá
+06	06224	Chivilcoy	06224090	Palemón Huergo
+06	06224	Chivilcoy	06224060	Ramón Biaus
+06	06224	Chivilcoy	06224070	San Sebastián
+06	06175	Colón	06175010	Colón
+06	06175	Colón	06175030	Pearson
+06	06175	Colón	06175040	Sarasa
+06	06175	Colón	06175020	Villa Manuel Pomar
+06	06182	Coronel de Marina Leonardo Rosales	06182010	Bajo Hondo
+06	06182	Coronel de Marina Leonardo Rosales	06182070	Calderón
+06	06182	Coronel de Marina Leonardo Rosales	06182020	Pehuen Có
+06	06182	Coronel de Marina Leonardo Rosales	06182030	Punta Alta
+06	06189	Coronel Dorrego	06189010	Aparicio
+06	06189	Coronel Dorrego	06189030	Coronel Dorrego
+06	06189	Coronel Dorrego	06189040	El Perdido
+06	06189	Coronel Dorrego	06189050	Faro
+06	06189	Coronel Dorrego	06189060	Irene
+06	06189	Coronel Dorrego	06189100	Los Eucaliptus
+06	06189	Coronel Dorrego	06189020	Balneario Marisol
+06	06189	Coronel Dorrego	06189070	Oriente
+06	06189	Coronel Dorrego	06189075	Paraje La Ruta
+06	06189	Coronel Dorrego	06189080	San Román
+06	06196	Coronel Pringles	06196010	Coronel Pringles
+06	06196	Coronel Pringles	06196020	El Divisorio
+06	06196	Coronel Pringles	06196030	El Pensamiento
+06	06196	Coronel Pringles	06196040	Indio Rico
+06	06196	Coronel Pringles	06196050	Lartigau
+06	06203	Coronel Suárez	06203010	Cascada
+06	06203	Coronel Suárez	06203020	Coronel Suárez
+06	06203	Coronel Suárez	06203030	Curamalal
+06	06203	Coronel Suárez	06203040	D' Orbigny
+06	06203	Coronel Suárez	06203050	Huanguelén
+06	06203	Coronel Suárez	06203060	Pasman
+06	06203	Coronel Suárez	06203080	Santa María
+06	06203	Coronel Suárez	06203100	Villa Arcadia
+06	06231	Daireaux	06231010	Andant
+06	06231	Daireaux	06231020	Arboledas
+06	06231	Daireaux	06231030	Daireaux
+06	06231	Daireaux	06231040	La Larga
+06	06231	Daireaux	06231050	La Manuela
+06	06231	Daireaux	06231060	Salazar
+06	06238	Dolores	06238010	Dolores
+06	06238	Dolores	06238020	Sevigné
+06	06277	Florentino Ameghino	06277010	Blaquier
+06	06277	Florentino Ameghino	06277020	Florentino Ameghino
+06	06277	Florentino Ameghino	06277030	Porvenir
+06	06280	General Alvarado	06280005	Centinela del Mar
+06	06280	General Alvarado	06280010	Comandante Nicanor Otamendi
+06	06280	General Alvarado	06280020	Mar del Sur
+06	06280	General Alvarado	06280030	Mechongué
+06	06280	General Alvarado	06280040	Miramar
+06	06287	General Alvear	06287010	General Alvear
+06	06294	General Arenales	06294010	Arribeños
+06	06294	General Arenales	06294020	Ascensión
+06	06294	General Arenales	06294030	Estación Arenales
+06	06294	General Arenales	06294040	Ferré - La Trinidad
+06	06294	General Arenales	06294050	General Arenales
+06	06294	General Arenales	06294060	La Angelita
+06	06301	General Belgrano	06301030	Chas
+06	06301	General Belgrano	06301010	General Belgrano
+06	06301	General Belgrano	06301020	Gorchs
+06	06308	General Guido	06308010	General Guido
+06	06308	General Guido	06308020	Labardén
+06	06315	General Juan Madariaga	06315020	Divisadero
+06	06315	General Juan Madariaga	06315010	General Juan Madariaga
+06	06322	General La Madrid	06322010	General La Madrid
+06	06322	General La Madrid	06322020	La Colina
+06	06322	General La Madrid	06322030	Las Martinetas
+06	06322	General La Madrid	06322040	Líbano
+06	06322	General La Madrid	06322050	Pontaut
+06	06329	General Las Heras	06329020	General Las Heras
+06	06329	General Las Heras	06329030	La Choza
+06	06329	General Las Heras	06329050	Plomer
+06	06329	General Las Heras	06329060	Villars
+06	06336	General Lavalle	06336020	General Lavalle
+06	06336	General Lavalle	06336030	Pavón
+06	06343	General Paz	06343020	Loma Verde
+06	06343	General Paz	06343030	Ranchos
+06	06343	General Paz	06343040	Villanueva - Río Salado
+06	06351	General Pinto	06351010	Iriarte
+06	06351	General Pinto	06351020	General Pinto
+06	06351	General Pinto	06351030	Germania
+06	06351	General Pinto	06351035	Günther
+06	06351	General Pinto	06351040	Coronel Granada
+06	06351	General Pinto	06351050	Villa Roth
+06	06357	General Pueyrredón	06357020	Barrio El Boquerón
+06	06357	General Pueyrredón	06357060	Barrio Santa Paula
+06	06357	General Pueyrredón	06357080	Chapadmalal
+06	06357	General Pueyrredón	06357090	El Marquesado
+06	06357	General Pueyrredón	06357110	Mar del Plata
+06	06357	General Pueyrredón	06357120	Sierra de los Padres
+06	06385	General Viamonte	06385010	Baigorrita
+06	06385	General Viamonte	06385020	La Delfina
+06	06385	General Viamonte	06385030	Los Toldos
+06	06385	General Viamonte	06385040	San Emilio
+06	06385	General Viamonte	06385050	Zavalía
+06	06392	General Villegas	06392010	Banderaló
+06	06392	General Villegas	06392020	Cañada Seca
+06	06392	General Villegas	06392030	Coronel Charlone
+06	06392	General Villegas	06392040	Emilio V. Bunge
+06	06392	General Villegas	06392050	General Villegas
+06	06392	General Villegas	06392060	Massey
+06	06392	General Villegas	06392070	Pichincha
+06	06392	General Villegas	06392080	Piedritas
+06	06392	General Villegas	06392090	Santa Eleodora
+06	06392	General Villegas	06392100	Santa Regina
+06	06392	General Villegas	06392110	Villa Saboya
+06	06392	General Villegas	06392120	Villa Sauze
+06	06399	Guaminí	06399010	Arroyo Venado
+06	06399	Guaminí	06399020	Casbas
+06	06399	Guaminí	06399060	Balneario Cochicó
+06	06399	Guaminí	06399030	Garré
+06	06399	Guaminí	06399040	Guaminí
+06	06399	Guaminí	06399050	Laguna Alsina
+06	06406	Hipólito Yrigoyen	06406010	Henderson
+06	06406	Hipólito Yrigoyen	06406020	Herrera Vegas
+06	06413	Junín	06413010	Agustín Roca
+06	06413	Junín	06413020	Agustina
+06	06413	Junín	06413040	Fortín Tiburcio
+06	06413	Junín	06413050	Junín
+06	06413	Junín	06413055	Paraje La Agraria
+06	06413	Junín	06413060	Laplacette
+06	06413	Junín	06413070	Morse
+06	06413	Junín	06413080	Saforcada
+06	06420	La Costa	06420030	San Clemente del Tuyú
+06	06420	La Costa	06420040	Mar del Tuyú - Mar de Ajó - San Bernardo
+06	06420	La Costa	06420050	Costa Esmeralda
+06	06420	La Costa	06420080	Kilómetro 314
+06	06420	La Costa	06420060	Punta Médanos
+06	06420	La Costa	06420070	Villa Robles
+06	06448	Laprida	06448010	Laprida
+06	06448	Laprida	06448020	Pueblo Nuevo
+06	06448	Laprida	06448030	Pueblo San Jorge
+06	06455	Las Flores	06455010	Coronel Boerr
+06	06455	Las Flores	06455020	El Trigo
+06	06455	Las Flores	06455030	Las Flores
+06	06455	Las Flores	06455040	Pardo
+06	06455	Las Flores	06455050	Rosas
+06	06462	Leandro N. Alem	06462010	Alberdi Viejo
+06	06462	Leandro N. Alem	06462020	El Dorado
+06	06462	Leandro N. Alem	06462030	Fortín Acha
+06	06462	Leandro N. Alem	06462040	Juan Bautista Alberdi
+06	06462	Leandro N. Alem	06462050	Leandro N. Alem
+06	06462	Leandro N. Alem	06462060	Vedia
+06	06466	Lezama	06466020	El Destino
+06	06466	Lezama	06466010	Lezama
+06	06466	Lezama	06466030	Monasterio
+06	06469	Lincoln	06469010	Arenaza
+06	06469	Lincoln	06469020	Bayauca
+06	06469	Lincoln	06469030	Bermúdez
+06	06469	Lincoln	06469040	Carlos Salas
+06	06469	Lincoln	06469050	Coronel Martínez de Hoz
+06	06469	Lincoln	06469060	El Triunfo
+06	06469	Lincoln	06469070	Las Toscas
+06	06469	Lincoln	06469080	Lincoln
+06	06469	Lincoln	06469090	Pasteur
+06	06469	Lincoln	06469100	Roberts
+06	06469	Lincoln	06469110	Triunvirato
+06	06476	Lobería	06476010	Arenas Verdes
+06	06476	Lobería	06476020	Licenciado Matienzo
+06	06476	Lobería	06476030	Lobería
+06	06476	Lobería	06476040	Pieres
+06	06476	Lobería	06476050	San Manuel
+06	06476	Lobería	06476060	Tamangueyú
+06	06483	Lobos	06483010	Antonio Carboni
+06	06483	Lobos	06483020	Elvira
+06	06483	Lobos	06483040	Lobos
+06	06483	Lobos	06483050	Salvador María - Laguna de Lobos
+06	06483	Lobos	06483060	Zapiola
+06	06483	Lobos	06483070	La Federala
+06	06505	Magdalena	06505010	Atalaya
+06	06505	Magdalena	06505020	Bartolomé Bavio
+06	06505	Magdalena	06505080	Camping Magdalena
+06	06505	Magdalena	06505070	Julio Arditi
+06	06505	Magdalena	06505030	Los Naranjos
+06	06505	Magdalena	06505040	Magdalena
+06	06505	Magdalena	06505060	Vieytes
+06	06511	Maipú	06511010	Las Armas
+06	06511	Maipú	06511020	Maipú
+06	06511	Maipú	06511030	Santo Domingo
+06	06518	Mar Chiquita	06518010	Coronel Vidal
+06	06518	Mar Chiquita	06518020	General Pirán
+06	06518	Mar Chiquita	06518030	La Armonía
+06	06518	Mar Chiquita	06518040	Mar Chiquita
+06	06518	Mar Chiquita	06518050	Mar de Cobo
+06	06518	Mar Chiquita	06518060	Santa Clara del Mar
+06	06518	Mar Chiquita	06518070	Vivoratá
+06	06532	Mercedes	06532005	Goldney
+06	06532	Mercedes	06532030	Jorge Born
+06	06532	Mercedes	06532020	Mercedes
+06	06547	Monte	06547010	Abbott
+06	06547	Monte	06547040	Francisco A. Berra
+06	06547	Monte	06547020	San Miguel del Monte
+06	06547	Monte	06547030	Zenón Videla Dorna
+06	06553	Monte Hermoso	06553010	Balneario Sauce Grande
+06	06553	Monte Hermoso	06553020	Monte Hermoso
+06	06574	Navarro	06574010	José Juan Almeyra
+06	06574	Navarro	06574020	Las Marianas
+06	06574	Navarro	06574030	Navarro
+06	06574	Navarro	06574040	Villa Moll
+06	06581	Necochea	06581080	Balneario Los Ángeles
+06	06581	Necochea	06581010	Claraz
+06	06581	Necochea	06581025	Energía
+06	06581	Necochea	06581030	Juan N. Fernández
+06	06581	Necochea	06581040	Necochea – Quequén
+06	06581	Necochea	06581050	Nicanor Olivera
+06	06581	Necochea	06581060	Ramón Santamarina
+06	06588	9 de Julio	06588010	Facundo Quiroga
+06	06588	9 de Julio	06588020	Carlos María Naón
+06	06588	9 de Julio	06588030	12 de Octubre
+06	06588	9 de Julio	06588040	Dudignac
+06	06588	9 de Julio	06588050	La Niña
+06	06588	9 de Julio	06588060	French
+06	06588	9 de Julio	06588070	Dennehy
+06	06588	9 de Julio	06588080	Morea
+06	06588	9 de Julio	06588090	Norumbega
+06	06588	9 de Julio	06588100	9 de Julio
+06	06588	9 de Julio	06588110	Patricios
+06	06595	Olavarría	06595010	Blancagrande
+06	06595	Olavarría	06595030	Colonia Nievas
+06	06595	Olavarría	06595040	Colonia San Miguel
+06	06595	Olavarría	06595050	Espigas
+06	06595	Olavarría	06595060	Hinojo
+06	06595	Olavarría	06595070	Olavarría
+06	06595	Olavarría	06595080	Recalde
+06	06595	Olavarría	06595090	Santa Luisa
+06	06595	Olavarría	06595100	Sierra Chica
+06	06595	Olavarría	06595110	Sierras Bayas
+06	06595	Olavarría	06595120	Villa Alfredo Fortabat - Villa La Serranía
+06	06602	Patagones	06602010	Bahía San Blas
+06	06602	Patagones	06602020	Cardenal Cagliero
+06	06602	Patagones	06602030	Carmen de Patagones
+06	06602	Patagones	06602040	José B. Casas
+06	06602	Patagones	06602050	Juan A. Pradere
+06	06602	Patagones	06602060	Stroeder
+06	06602	Patagones	06602070	Villalonga
+06	06609	Pehuajó	06609010	Capitán Castro
+06	06609	Pehuajó	06609020	Chiclana
+06	06609	Pehuajó	06609030	Francisco Madero
+06	06609	Pehuajó	06609035	Inocencio Sosa
+06	06609	Pehuajó	06609040	Juan José Paso
+06	06609	Pehuajó	06609050	Magdala
+06	06609	Pehuajó	06609060	Mones Cazón
+06	06609	Pehuajó	06609070	Nueva Plata
+06	06609	Pehuajó	06609080	Pehuajó
+06	06609	Pehuajó	06609090	Guanaco
+06	06616	Pellegrini	06616010	Bocayuva
+06	06616	Pellegrini	06616020	De Bary
+06	06616	Pellegrini	06616030	Pellegrini
+06	06623	Pergamino	06623010	Acevedo
+06	06623	Pergamino	06623020	Fontezuela
+06	06623	Pergamino	06623030	Guerrico
+06	06623	Pergamino	06623040	Juan A. de la Peña
+06	06623	Pergamino	06623050	Urquiza
+06	06623	Pergamino	06623060	La Violeta
+06	06623	Pergamino	06623070	Manuel Ocampo
+06	06623	Pergamino	06623080	Mariano Benítez
+06	06623	Pergamino	06623090	Mariano H. Alfonzo
+06	06623	Pergamino	06623100	Pergamino
+06	06623	Pergamino	06623110	Pinzón
+06	06623	Pergamino	06623120	Rancagua
+06	06623	Pergamino	06623130	El Socorro
+06	06623	Pergamino	06623140	Villa San José
+06	06630	Pila	06630020	Casalins
+06	06630	Pila	06630010	Pila
+06	06644	Pinamar	06644020	Montecarlo
+06	06644	Pinamar	06644010	Pinamar
+06	06651	Puan	06651010	Azopardo
+06	06651	Puan	06651020	Bordenave
+06	06651	Puan	06651030	Darregueira
+06	06651	Puan	06651040	17 de Agosto
+06	06651	Puan	06651100	Erize
+06	06651	Puan	06651050	Estela
+06	06651	Puan	06651060	Felipe Solá
+06	06651	Puan	06651070	López Lecube
+06	06651	Puan	06651080	Puan
+06	06651	Puan	06651090	San Germán
+06	06651	Puan	06651110	Villa Iris
+06	06655	Punta Indio	06655010	Álvarez Jonte
+06	06655	Punta Indio	06655015	Base Aeronaval Punta Indio
+06	06655	Punta Indio	06655060	La Viruta
+06	06655	Punta Indio	06655030	Pipinas
+06	06655	Punta Indio	06655040	Punta Indio
+06	06655	Punta Indio	06655050	Verónica
+06	06665	Ramallo	06665010	El Paraíso
+06	06665	Ramallo	06665020	Las Bahamas
+06	06665	Ramallo	06665030	Pérez Millán
+06	06665	Ramallo	06665040	Ramallo
+06	06665	Ramallo	06665050	Villa General Savio
+06	06672	Rauch	06672020	Martín Colman
+06	06672	Rauch	06672030	Miranda
+06	06672	Rauch	06672010	Rauch
+06	06679	Rivadavia	06679010	América
+06	06679	Rivadavia	06679020	Fortín Olavarría
+06	06679	Rivadavia	06679030	González Moreno
+06	06679	Rivadavia	06679040	Mira Pampa
+06	06679	Rivadavia	06679050	Roosevelt
+06	06679	Rivadavia	06679060	San Mauricio
+06	06679	Rivadavia	06679070	Sansinena
+06	06679	Rivadavia	06679080	Sundblad
+06	06686	Rojas	06686010	La Beba
+06	06686	Rojas	06686020	Las Carabelas
+06	06686	Rojas	06686030	Los Indios
+06	06686	Rojas	06686040	Rafael Obligado
+06	06686	Rojas	06686050	Roberto Cano
+06	06686	Rojas	06686060	Rojas
+06	06686	Rojas	06686070	Sol de Mayo
+06	06686	Rojas	06686080	Villa Manuel Pomar
+06	06693	Roque Pérez	06693010	Carlos Beguerie
+06	06693	Roque Pérez	06693020	Roque Pérez
+06	06700	Saavedra	06700010	Arroyo Corto
+06	06700	Saavedra	06700020	Colonia San Martín
+06	06700	Saavedra	06700030	Dufaur
+06	06700	Saavedra	06700040	Espartillar
+06	06700	Saavedra	06700050	Goyena
+06	06700	Saavedra	06700090	Club de Pesca Saavedra
+06	06700	Saavedra	06700055	Las Encadenadas
+06	06700	Saavedra	06700060	Pigüé
+06	06700	Saavedra	06700070	Saavedra
+06	06707	Saladillo	06707010	Álvarez de Toledo
+06	06707	Saladillo	06707030	Cazón
+06	06707	Saladillo	06707040	Del Carril
+06	06707	Saladillo	06707050	Polvaredas
+06	06707	Saladillo	06707060	Saladillo
+06	06721	Salliqueló	06721010	Quenumá
+06	06721	Salliqueló	06721020	Salliqueló
+06	06714	Salto	06714010	Arroyo Dulce
+06	06714	Salto	06714020	Berdier
+06	06714	Salto	06714030	Gahan
+06	06714	Salto	06714040	Inés Indart
+06	06714	Salto	06714050	La Invencible
+06	06714	Salto	06714060	Salto
+06	06728	San Andrés de Giles	06728010	Azcuénaga
+06	06728	San Andrés de Giles	06728020	Cucullú
+06	06728	San Andrés de Giles	06728030	Franklin
+06	06728	San Andrés de Giles	06728040	San Andrés de Giles
+06	06728	San Andrés de Giles	06728050	Solís
+06	06728	San Andrés de Giles	06728060	Villa Espil
+06	06728	San Andrés de Giles	06728070	Villa Ruiz
+06	06728	San Andrés de Giles	06728080	Chacras de Villa Espil
+06	06735	San Antonio de Areco	06735010	Duggan
+06	06735	San Antonio de Areco	06735020	San Antonio de Areco
+06	06735	San Antonio de Areco	06735040	Vagues
+06	06735	San Antonio de Areco	06735030	Villa Lía
+06	06742	San Cayetano	06742010	Balneario San Cayetano
+06	06742	San Cayetano	06742040	Cristiano Muerto
+06	06742	San Cayetano	06742020	Ochandio
+06	06742	San Cayetano	06742030	San Cayetano
+06	06763	San Nicolás	06763010	Conesa
+06	06763	San Nicolás	06763020	Erézcano
+06	06763	San Nicolás	06763030	General Rojo
+06	06763	San Nicolás	06763050	San Nicolás de los Arroyos
+06	06763	San Nicolás	06763060	Villa Esperanza
+06	06770	San Pedro	06770010	Gobernador Castro
+06	06770	San Pedro	06770015	Ingeniero Moneta
+06	06770	San Pedro	06770020	Obligado
+06	06770	San Pedro	06770030	Pueblo Doyle
+06	06770	San Pedro	06770040	Río Tala
+06	06770	San Pedro	06770050	San Pedro
+06	06770	San Pedro	06770060	Santa Lucía
+06	06784	Suipacha	06784010	General Rivas
+06	06784	Suipacha	06784020	Suipacha
+06	06791	Tandil	06791060	Azucena
+06	06791	Tandil	06791090	Barrio Cerrado La Mata
+06	06791	Tandil	06791010	De La Canal
+06	06791	Tandil	06791070	Fulton
+06	06791	Tandil	06791030	Gardey
+06	06791	Tandil	06791080	Iraola
+06	06791	Tandil	06791040	María Ignacia 
+06	06791	Tandil	06791050	Tandil
+06	06798	Tapalqué	06798010	Crotto
+06	06798	Tapalqué	06798020	Tapalqué
+06	06798	Tapalqué	06798030	Velloso
+06	06812	Tordillo	06812010	General Conesa
+06	06812	Tordillo	06812020	Villa Roch
+06	06819	Tornquist	06819010	Chasicó
+06	06819	Tornquist	06819060	Villa Serrana La Gruta
+06	06819	Tornquist	06819110	Club de Pesca Pigüé
+06	06819	Tornquist	06819100	Pelicurá
+06	06819	Tornquist	06819020	Saldungaray
+06	06819	Tornquist	06819030	Sierra de la Ventana
+06	06819	Tornquist	06819040	Tornquist
+06	06819	Tornquist	06819050	Tres Picos
+06	06819	Tornquist	06819070	Villa Ventana
+06	06826	Trenque Lauquen	06826010	Berutti
+06	06826	Trenque Lauquen	06826020	Girodías
+06	06826	Trenque Lauquen	06826030	La Carreta
+06	06826	Trenque Lauquen	06826040	30 de Agosto
+06	06826	Trenque Lauquen	06826050	Trenque Lauquen
+06	06826	Trenque Lauquen	06826060	Trongé
+06	06826	Trenque Lauquen	06826070	Garré Norte
+06	06833	Tres Arroyos	06833010	Balneario Orense
+06	06833	Tres Arroyos	06833020	Claromecó
+06	06833	Tres Arroyos	06833030	Copetonas
+06	06833	Tres Arroyos	06833050	Micaela Cascallares
+06	06833	Tres Arroyos	06833060	Orense
+06	06833	Tres Arroyos	06833070	Reta
+06	06833	Tres Arroyos	06833080	San Francisco de Bellocq
+06	06833	Tres Arroyos	06833090	San Mayol
+06	06833	Tres Arroyos	06833100	Tres Arroyos
+06	06833	Tres Arroyos	06833110	Villa Rodríguez
+06	06847	Tres Lomas	06847010	Ingeniero Thompson
+06	06847	Tres Lomas	06847020	Tres Lomas
+06	06854	25 de Mayo	06854010	Agustín Mosconi
+06	06854	25 de Mayo	06854020	Del Valle
+06	06854	25 de Mayo	06854030	Ernestina
+06	06854	25 de Mayo	06854040	Gobernador Ugarte
+06	06854	25 de Mayo	06854050	Lucas Monteverde
+06	06854	25 de Mayo	06854060	Norberto de la Riestra
+06	06854	25 de Mayo	06854070	Pedernales
+06	06854	25 de Mayo	06854080	San Enrique
+06	06854	25 de Mayo	06854090	Valdés
+06	06854	25 de Mayo	06854100	25 de Mayo
+06	06868	Villa Gesell	06868020	Villa Gesell
+06	06875	Villarino	06875010	Argerich
+06	06875	Villarino	06875110	Chapalcó
+06	06875	Villarino	06875100	Colonia San Adolfo
+06	06875	Villarino	06875025	Country Club Los Médanos
+06	06875	Villarino	06875030	Hilario Ascasubi
+06	06875	Villarino	06875040	Juan Cousté 
+06	06875	Villarino	06875090	Lago Parque La Salada
+06	06875	Villarino	06875050	Mayor Buratovich
+06	06875	Villarino	06875060	Médanos
+06	06875	Villarino	06875070	Pedro Luro
+06	06875	Villarino	06875080	Teniente Origone
+10	10007	Ambato	10007010	Chuchucaruana
+10	10007	Ambato	10007020	Colpes
+10	10007	Ambato	10007030	El Bolsón
+10	10007	Ambato	10007040	El Rodeo
+10	10007	Ambato	10007050	Huaycama
+10	10007	Ambato	10007055	Isla Larga
+10	10007	Ambato	10007060	La Puerta
+10	10007	Ambato	10007070	Las Chacritas
+10	10007	Ambato	10007080	Las Juntas
+10	10007	Ambato	10007090	Los Castillos
+10	10007	Ambato	10007100	Los Talas
+10	10007	Ambato	10007110	Los Varela
+10	10007	Ambato	10007120	Singuil
+10	10014	Ancasti	10014010	Ancasti
+10	10014	Ancasti	10014020	Anquincila
+10	10014	Ancasti	10014030	La Candelaria
+10	10014	Ancasti	10014040	La Majada
+10	10014	Ancasti	10014050	Yerba Buena
+10	10021	Andalgalá	10021010	Amanao
+10	10021	Andalgalá	10021020	Andalgalá
+10	10021	Andalgalá	10021030	Chaquiago
+10	10021	Andalgalá	10021040	Choya
+10	10021	Andalgalá	10021050	El Alamito
+10	10021	Andalgalá	10021060	El Lindero
+10	10021	Andalgalá	10021070	El Potrero
+10	10028	Antofagasta de la Sierra	10028010	Antofagasta de la Sierra
+10	10028	Antofagasta de la Sierra	10028030	El Peñón
+10	10028	Antofagasta de la Sierra	10028040	Los Nacimientos
+10	10035	Belén	10035010	Barranca Larga
+10	10035	Belén	10035020	Belén
+10	10035	Belén	10035030	Cóndor Huasi
+10	10035	Belén	10035040	Corral Quemado
+10	10035	Belén	10035050	El Durazno
+10	10035	Belén	10035055	El Eje
+10	10035	Belén	10035060	Farallón Negro
+10	10035	Belén	10035070	Hualfín
+10	10035	Belén	10035080	Jacipunco
+10	10035	Belén	10035085	La Ciénaga
+10	10035	Belén	10035090	La Puntilla
+10	10035	Belén	10035092	La Toma
+10	10035	Belén	10035095	Laguna Blanca
+10	10035	Belén	10035097	Las Barrancas
+10	10035	Belén	10035100	Las Juntas
+10	10035	Belén	10035110	Londres
+10	10035	Belén	10035120	Los Nacimientos
+10	10035	Belén	10035125	Pozo de Piedra
+10	10035	Belén	10035130	Puerta de Corral Quemado
+10	10035	Belén	10035140	Puerta de San José
+10	10035	Belén	10035145	San Fernando
+10	10035	Belén	10035147	La Soledad
+10	10035	Belén	10035150	Villa Vil
+10	10042	Capayán	10042030	Capayán
+10	10042	Capayán	10042040	Chumbicha
+10	10042	Capayán	10042050	Colonia del Valle
+10	10042	Capayán	10042060	Colonia Nueva Coneta
+10	10042	Capayán	10042070	Concepción
+10	10042	Capayán	10042080	Coneta
+10	10042	Capayán	10042090	El Bañado
+10	10042	Capayán	10042100	Huillapima
+10	10042	Capayán	10042105	Las Palmas
+10	10042	Capayán	10042110	Los Ángeles
+10	10042	Capayán	10042120	Miraflores
+10	10042	Capayán	10042130	San Martín
+10	10042	Capayán	10042140	San Pablo
+10	10042	Capayán	10042150	San Pedro
+10	10049	Capital	10049030	San Fernando del Valle de Catamarca
+10	10049	Capital	10049050	La Estancita
+10	10056	El Alto	10056010	Villa Concepción del Alto
+10	10056	El Alto	10056020	Guayamba
+10	10056	El Alto	10056030	Infanzón
+10	10056	El Alto	10056040	Los Corrales
+10	10056	El Alto	10056050	Tapso
+10	10056	El Alto	10056060	Vilismán
+10	10063	Fray Mamerto Esquiú	10063020	Pomancillo Este
+10	10063	Fray Mamerto Esquiú	10063030	Pomancillo Oeste
+10	10063	Fray Mamerto Esquiú	10063040	San José
+10	10063	Fray Mamerto Esquiú	10063050	Villa Las Pirquitas
+10	10070	La Paz	10070010	Casa de Piedra
+10	10070	La Paz	10070020	El Aybal
+10	10070	La Paz	10070030	El Bañado
+10	10070	La Paz	10070040	El Divisadero
+10	10070	La Paz	10070050	El Quimilo
+10	10070	La Paz	10070060	Esquiú
+10	10070	La Paz	10070070	Icaño
+10	10070	La Paz	10070080	La Dorada
+10	10070	La Paz	10070090	La Guardia
+10	10070	La Paz	10070100	Las Esquinas
+10	10070	La Paz	10070110	Las Palmitas
+10	10070	La Paz	10070120	Quirós
+10	10070	La Paz	10070130	Ramblones
+10	10070	La Paz	10070140	Recreo
+10	10070	La Paz	10070150	San Antonio
+10	10077	Paclín	10077010	Amadores
+10	10077	Paclín	10077040	La Higuera
+10	10077	Paclín	10077050	La Merced
+10	10077	Paclín	10077060	La Viña
+10	10077	Paclín	10077070	Las Lajas
+10	10077	Paclín	10077080	Monte Potrero
+10	10077	Paclín	10077090	Palo Labrado
+10	10077	Paclín	10077100	San Antonio
+10	10077	Paclín	10077110	Villa de Balcozna
+10	10084	Pomán	10084020	Colana
+10	10084	Pomán	10084030	Colpes
+10	10084	Pomán	10084040	El Pajonal
+10	10084	Pomán	10084060	Mutquín
+10	10084	Pomán	10084070	Pomán
+10	10084	Pomán	10084080	Rincón
+10	10084	Pomán	10084090	San Miguel
+10	10084	Pomán	10084100	Saujil
+10	10084	Pomán	10084110	Siján
+10	10091	Santa María	10091010	Andalhualá
+10	10091	Santa María	10091030	Chañar Punco
+10	10091	Santa María	10091040	El Cajón
+10	10091	Santa María	10091050	El Desmonte
+10	10091	Santa María	10091060	El Puesto
+10	10091	Santa María	10091070	Famatanca
+10	10091	Santa María	10091080	Fuerte Quemado
+10	10091	Santa María	10091090	La Hoyada
+10	10091	Santa María	10091110	Las Mojarras
+10	10091	Santa María	10091130	Punta de Balasto
+10	10091	Santa María	10091150	Santa María
+10	10091	Santa María	10091140	San José
+10	10091	Santa María	10091160	Yapes
+10	10098	Santa Rosa	10098010	Alijilán
+10	10098	Santa Rosa	10098015	Ampolla
+10	10098	Santa Rosa	10098020	Bañado de Ovanta
+10	10098	Santa Rosa	10098030	Las Cañas
+10	10098	Santa Rosa	10098035	Las Tunas
+10	10098	Santa Rosa	10098040	Lavalle
+10	10098	Santa Rosa	10098050	Los Altos
+10	10098	Santa Rosa	10098060	Manantiales
+10	10098	Santa Rosa	10098065	Monte Redondo
+10	10098	Santa Rosa	10098070	San Pedro
+10	10105	Tinogasta	10105010	Anillaco
+10	10105	Tinogasta	10105050	Copacabana
+10	10105	Tinogasta	10105090	El Puesto
+10	10105	Tinogasta	10105100	El Salado
+10	10105	Tinogasta	10105110	Fiambalá
+10	10105	Tinogasta	10105130	Medanitos
+10	10105	Tinogasta	10105140	Palo Blanco
+10	10105	Tinogasta	10105160	Saujil
+10	10105	Tinogasta	10105180	Tinogasta
+10	10112	Valle Viejo	10112010	El Portezuelo
+10	10112	Valle Viejo	10112020	Huaycama
+10	10112	Valle Viejo	10112027	Las Esquinas
+10	10112	Valle Viejo	10112030	Las Tejas
+10	10112	Valle Viejo	10112040	San Isidro
+10	10112	Valle Viejo	10112050	Santa Cruz
+14	14007	Calamuchita	14007020	Arroyo San Antonio
+14	14007	Calamuchita	14007030	Cañada del Sauce
+14	14007	Calamuchita	14007055	El Durazno
+14	14007	Calamuchita	14007060	Embalse
+14	14007	Calamuchita	14007065	Embalse Ingeniero Reolín
+14	14007	Calamuchita	14007075	Intiyaco
+14	14007	Calamuchita	14007070	La Cruz
+14	14007	Calamuchita	14007080	La Cumbrecita
+14	14007	Calamuchita	14007085	La Estancia
+14	14007	Calamuchita	14007090	Las Bajadas
+14	14007	Calamuchita	14007100	Las Caleras
+14	14007	Calamuchita	14007110	Los Cóndores
+14	14007	Calamuchita	14007120	Los Molinos
+14	14007	Calamuchita	14007130	Los Reartes
+14	14007	Calamuchita	14007270	Villa Ciudad Parque Los Reartes 
+14	14007	Calamuchita	14007140	Lutti
+14	14007	Calamuchita	14007163	Parador de la Montaña
+14	14007	Calamuchita	14007160	Parque Calmayo
+14	14007	Calamuchita	14007165	Paso Cabral
+14	14007	Calamuchita	14007167	Puerto Muchita
+14	14007	Calamuchita	14007170	Río de los Sauces
+14	14007	Calamuchita	14007180	San Agustín
+14	14007	Calamuchita	14007190	San Ignacio (Loteo San Javier)
+14	14007	Calamuchita	14007050	El Corcovado - El Torreón
+14	14007	Calamuchita	14007191	San Ignacio (Loteo Vélez Crespo)
+14	14007	Calamuchita	14007210	Santa Rosa de Calamuchita
+14	14007	Calamuchita	14007310	Villa General Belgrano
+14	14007	Calamuchita	14007220	Segunda Usina
+14	14007	Calamuchita	14007230	Solar de los Molinos
+14	14007	Calamuchita	14007235	Tercera Usina
+14	14007	Calamuchita	14007240	Villa Alpina
+14	14007	Calamuchita	14007250	Villa Amancay
+14	14007	Calamuchita	14007010	Amboy
+14	14007	Calamuchita	14007260	Villa Berna
+14	14007	Calamuchita	14007290	Villa del Dique
+14	14007	Calamuchita	14007340	Villa Rumipal
+14	14007	Calamuchita	14007300	Villa El Tala 
+14	14007	Calamuchita	14007320	Villa La Ribera
+14	14007	Calamuchita	14007330	Villa Quillinzo
+14	14007	Calamuchita	14007360	Villa Yacanto
+14	14014	Capital	14014010	Córdoba
+14	14021	Colón	14021010	Agua de Oro
+14	14021	Colón	14021110	El Manzano
+14	14021	Colón	14021150	La Calera
+14	14021	Colón	14021160	La Granja
+14	14021	Colón	14021173	Las Chacras
+14	14021	Colón	14021190	Malvinas Argentinas
+14	14021	Colón	14021200	Mendiolaza
+14	14021	Colón	14021310	Parque Norte - Guiñazú Norte
+14	14021	Colón	14021105	Finca del Sol - San Francisco - Catalina Norte
+14	14021	Colón	14021230	Río Ceballos
+14	14021	Colón	14021240	Saldán
+14	14021	Colón	14021250	Salsipuedes
+14	14021	Colón	14021280	Unquillo
+14	14021	Colón	14021290	Villa Allende
+14	14021	Colón	14021300	Villa Cerro Azul
+14	14021	Colón	14021020	Ascochinga
+14	14021	Colón	14021060	Colonia Tirolesa
+14	14021	Colón	14021070	Colonia Vicente Agüero
+14	14021	Colón	14021130	General Paz
+14	14021	Colón	14021140	Jesús María
+14	14021	Colón	14021050	Colonia Caroya
+14	14021	Colón	14021170	La Puerta
+14	14021	Colón	14021210	Mi Granja
+14	14021	Colón	14021270	Tinoco
+14	14021	Colón	14021075	Villa Corazón de María
+14	14021	Colón	14021320	Villa Los Llanos - Juárez Celman
+14	14028	Cruz del Eje	14028010	Alto de los Quebrachos
+14	14028	Cruz del Eje	14028020	Bañado de Soto
+14	14028	Cruz del Eje	14028035	Characato
+14	14028	Cruz del Eje	14028040	Cruz de Caña
+14	14028	Cruz del Eje	14028050	Cruz del Eje
+14	14028	Cruz del Eje	14028060	El Brete
+14	14028	Cruz del Eje	14028150	Media Naranja
+14	14028	Cruz del Eje	14028080	Guanaco Muerto
+14	14028	Cruz del Eje	14028100	La Batea
+14	14028	Cruz del Eje	14028110	La Higuera
+14	14028	Cruz del Eje	14028120	Las Cañadas
+14	14028	Cruz del Eje	14028130	Las Playas
+14	14028	Cruz del Eje	14028140	Los Chañaritos
+14	14028	Cruz del Eje	14028145	Los Sauces
+14	14028	Cruz del Eje	14028155	Negro Huasi
+14	14028	Cruz del Eje	14028160	Paso Viejo
+14	14028	Cruz del Eje	14028175	Santa Ana
+14	14028	Cruz del Eje	14028170	San Marcos Sierra
+14	14028	Cruz del Eje	14028180	Serrezuela
+14	14028	Cruz del Eje	14028190	Tuclame
+14	14028	Cruz del Eje	14028200	Villa de Soto
+14	14035	General Roca	14035030	Buchardo
+14	14035	General Roca	14035015	De la Serna
+14	14035	General Roca	14035010	Del Campillo
+14	14035	General Roca	14035020	Estación Lecueder
+14	14035	General Roca	14035040	Huinca Renancó
+14	14035	General Roca	14035050	Italó
+14	14035	General Roca	14035060	Mattaldi
+14	14035	General Roca	14035070	Nicolás Bruzzone
+14	14035	General Roca	14035080	Onagoity
+14	14035	General Roca	14035090	Pincén
+14	14035	General Roca	14035100	Ranqueles
+14	14035	General Roca	14035110	Jovita
+14	14035	General Roca	14035120	Villa Huidobro
+14	14035	General Roca	14035130	Villa Sarmiento
+14	14035	General Roca	14035140	Villa Valeria
+14	14042	General San Martín	14042010	Arroyo Algodón
+14	14042	General San Martín	14042020	Arroyo Cabral
+14	14042	General San Martín	14042030	Ausonia
+14	14042	General San Martín	14042040	Chazón
+14	14042	General San Martín	14042045	Colonia Santa Rita
+14	14042	General San Martín	14042050	Etruria
+14	14042	General San Martín	14042060	La Laguna
+14	14042	General San Martín	14042070	La Palestina
+14	14042	General San Martín	14042080	La Playosa
+14	14042	General San Martín	14042090	Las Mojarras
+14	14042	General San Martín	14042100	Luca
+14	14042	General San Martín	14042110	Pasco
+14	14042	General San Martín	14042120	Sanabria
+14	14042	General San Martín	14042130	Silvio Pellico
+14	14042	General San Martín	14042140	Ticino
+14	14042	General San Martín	14042150	Tío Pujio
+14	14042	General San Martín	14042170	Villa María
+14	14042	General San Martín	14042180	Villa Nueva
+14	14042	General San Martín	14042190	Villa Oeste
+14	14049	Ischilín	14049010	Avellaneda
+14	14049	Ischilín	14049020	Cañada de Río Pinto
+14	14049	Ischilín	14049025	Cerro Negro
+14	14049	Ischilín	14049030	Chuña
+14	14049	Ischilín	14049040	Copacabana
+14	14049	Ischilín	14049050	Deán Funes
+14	14049	Ischilín	14049055	Huascha
+14	14049	Ischilín	14049057	Ischilín
+14	14049	Ischilín	14049070	Jaime Peter
+14	14049	Ischilín	14049075	La Cantera
+14	14049	Ischilín	14049080	Los Pozos
+14	14049	Ischilín	14049090	Olivares de San Nicolás
+14	14049	Ischilín	14049100	Quilino
+14	14049	Ischilín	14049110	San Pedro de Toyos
+14	14049	Ischilín	14049112	San Vicente
+14	14049	Ischilín	14049115	Villa Albertina
+14	14049	Ischilín	14049117	Villa Colimba
+14	14049	Ischilín	14049120	Villa Gutiérrez
+14	14056	Juárez Celman	14056010	Alejandro Roca
+14	14056	Juárez Celman	14056020	Assunta
+14	14056	Juárez Celman	14056030	Bengolea
+14	14056	Juárez Celman	14056040	Carnerillo
+14	14056	Juárez Celman	14056050	Charras
+14	14056	Juárez Celman	14056060	El Rastreador
+14	14056	Juárez Celman	14056070	General Cabrera
+14	14056	Juárez Celman	14056080	General Deheza
+14	14056	Juárez Celman	14056090	Huanchilla
+14	14056	Juárez Celman	14056100	La Carlota
+14	14056	Juárez Celman	14056110	Los Cisnes
+14	14056	Juárez Celman	14056120	Olaeta
+14	14056	Juárez Celman	14056130	Pacheco de Melo
+14	14056	Juárez Celman	14056140	Paso del Durazno
+14	14056	Juárez Celman	14056170	Reducción
+14	14056	Juárez Celman	14056150	Santa Eufemia
+14	14056	Juárez Celman	14056160	Ucacha
+14	14063	Marcos Juárez	14063010	Alejo Ledesma
+14	14063	Marcos Juárez	14063020	Arias
+14	14063	Marcos Juárez	14063030	Camilo Aldao
+14	14063	Marcos Juárez	14063040	Capitán General Bernardo O'Higgins
+14	14063	Marcos Juárez	14063050	Cavanagh
+14	14063	Marcos Juárez	14063060	Colonia Barge
+14	14063	Marcos Juárez	14063070	Colonia Italiana
+14	14063	Marcos Juárez	14063080	Colonia Veinticinco
+14	14063	Marcos Juárez	14063090	Corral de Bustos Ifflinger
+14	14063	Marcos Juárez	14063100	Cruz Alta
+14	14063	Marcos Juárez	14063110	General Baldissera
+14	14063	Marcos Juárez	14063120	General Roca
+14	14063	Marcos Juárez	14063130	Guatimozín
+14	14063	Marcos Juárez	14063140	Inriville
+14	14063	Marcos Juárez	14063150	Isla Verde
+14	14063	Marcos Juárez	14063160	Leones
+14	14063	Marcos Juárez	14063170	Los Surgentes
+14	14063	Marcos Juárez	14063180	Marcos Juárez
+14	14063	Marcos Juárez	14063190	Monte Buey
+14	14063	Marcos Juárez	14063210	Saira
+14	14063	Marcos Juárez	14063220	Saladillo
+14	14063	Marcos Juárez	14063230	Villa Elisa
+14	14070	Minas	14070010	Ciénaga del Coro
+14	14070	Minas	14070020	El Chacho
+14	14070	Minas	14070030	Estancia de Guadalupe
+14	14070	Minas	14070040	Guasapampa
+14	14070	Minas	14070045	La Argentina
+14	14070	Minas	14070050	La Playa
+14	14070	Minas	14070055	Rumi Huasi
+14	14070	Minas	14070060	San Carlos Minas
+14	14070	Minas	14070070	Talaini
+14	14070	Minas	14070080	Tosno
+14	14077	Pocho	14077005	Cañada de Salas
+14	14077	Pocho	14077010	Chancani
+14	14077	Pocho	14077020	Las Palmas
+14	14077	Pocho	14077030	Los Talares
+14	14077	Pocho	14077040	Salsacate
+14	14077	Pocho	14077050	San Gerónimo
+14	14077	Pocho	14077053	San Gerónimo Sur
+14	14077	Pocho	14077060	Tala Cañada
+14	14077	Pocho	14077080	Villa de Pocho
+14	14084	Presidente Roque Sáenz Peña	14084010	General Levalle
+14	14084	Presidente Roque Sáenz Peña	14084020	La Cesira
+14	14084	Presidente Roque Sáenz Peña	14084030	Laboulaye
+14	14084	Presidente Roque Sáenz Peña	14084040	Leguizamón
+14	14084	Presidente Roque Sáenz Peña	14084050	Melo
+14	14084	Presidente Roque Sáenz Peña	14084060	Río Bamba
+14	14084	Presidente Roque Sáenz Peña	14084070	Rosales
+14	14084	Presidente Roque Sáenz Peña	14084080	San Joaquín
+14	14084	Presidente Roque Sáenz Peña	14084090	Serrano
+14	14084	Presidente Roque Sáenz Peña	14084100	Villa Rossi
+14	14091	Punilla	14091040	Capilla del Monte
+14	14091	Punilla	14091060	Charbonier
+14	14091	Punilla	14091110	La Cumbre
+14	14091	Punilla	14091140	Los Cocos
+14	14091	Punilla	14091190	San Esteban
+14	14091	Punilla	14091130	Las Jarillas
+14	14091	Punilla	14091135	Las Vertientes
+14	14091	Punilla	14091150	Mallín
+14	14091	Punilla	14091250	Villa Carlos Paz
+14	14091	Punilla	14091070	Cosquín
+14	14091	Punilla	14091020	Bialet Massé
+14	14091	Punilla	14091030	Cabalango
+14	14091	Punilla	14091050	Casa Grande
+14	14091	Punilla	14091080	Cuesta Blanca
+14	14091	Punilla	14091090	Estancia Vieja
+14	14091	Punilla	14091100	Huerta Grande
+14	14091	Punilla	14091120	La Falda
+14	14091	Punilla	14091160	Mayu Sumaj
+14	14091	Punilla	14091180	San Antonio de Arredondo
+14	14091	Punilla	14091200	San Roque
+14	14091	Punilla	14091210	Santa María de Punilla
+14	14091	Punilla	14091220	Tala Huasi
+14	14091	Punilla	14091230	Tanti
+14	14091	Punilla	14091240	Valle Hermoso
+14	14091	Punilla	14091270	Villa Giardino
+14	14091	Punilla	14091290	Villa Parque Síquiman
+14	14091	Punilla	14091300	Villa Río Icho Cruz
+14	14091	Punilla	14091320	Villa Santa Cruz del Lago
+14	14091	Punilla	14091260	Villa Flor Serrana
+14	14091	Punilla	14091280	Villa Lago Azul
+14	14091	Punilla	14091325	Wallala
+14	14098	Río Cuarto	14098010	Achiras
+14	14098	Río Cuarto	14098020	Adelia María
+14	14098	Río Cuarto	14098030	Alcira
+14	14098	Río Cuarto	14098040	Alpa Corral
+14	14098	Río Cuarto	14098050	Berrotarán
+14	14098	Río Cuarto	14098060	Bulnes
+14	14098	Río Cuarto	14098070	Chaján
+14	14098	Río Cuarto	14098080	Chucul
+14	14098	Río Cuarto	14098090	Coronel Baigorria
+14	14098	Río Cuarto	14098100	Coronel Moldes
+14	14098	Río Cuarto	14098105	Cuatro Vientos
+14	14098	Río Cuarto	14098110	Elena
+14	14098	Río Cuarto	14098115	General Paunero
+14	14098	Río Cuarto	14098120	La Carolina El Potosí
+14	14098	Río Cuarto	14098130	La Cautiva
+14	14098	Río Cuarto	14098140	La Gilda
+14	14098	Río Cuarto	14098150	Las Acequias
+14	14098	Río Cuarto	14098160	Las Albahacas
+14	14098	Río Cuarto	14098300	Villa El Chacay
+14	14098	Río Cuarto	14098180	Las Peñas Sud
+14	14098	Río Cuarto	14098190	Las Vertientes
+14	14098	Río Cuarto	14098200	Malena
+14	14098	Río Cuarto	14098210	Monte de los Gauchos
+14	14098	Río Cuarto	14098220	Paso del Durazno
+14	14098	Río Cuarto	14098230	Río Cuarto
+14	14098	Río Cuarto	14098170	Las Higueras
+14	14098	Río Cuarto	14098240	Sampacho
+14	14098	Río Cuarto	14098245	San Bartolomé
+14	14098	Río Cuarto	14098250	San Basilio
+14	14098	Río Cuarto	14098260	Santa Catalina
+14	14098	Río Cuarto	14098270	Suco
+14	14098	Río Cuarto	14098280	Tosquita
+14	14098	Río Cuarto	14098290	Vicuña Mackenna
+14	14098	Río Cuarto	14098320	Washington
+14	14105	Río Primero	14105010	Atahona
+14	14105	Río Primero	14105020	Cañada de Machado
+14	14105	Río Primero	14105030	Capilla de los Remedios
+14	14105	Río Primero	14105040	Chalacea
+14	14105	Río Primero	14105050	Colonia Las Cuatro Esquinas
+14	14105	Río Primero	14105230	Comechingones
+14	14105	Río Primero	14105060	Diego de Rojas
+14	14105	Río Primero	14105070	El Alcalde
+14	14105	Río Primero	14105080	El Crispín
+14	14105	Río Primero	14105090	Esquina
+14	14105	Río Primero	14105100	Kilómetro 658
+14	14105	Río Primero	14105105	Kilómetro 691
+14	14105	Río Primero	14105110	La Para
+14	14105	Río Primero	14105120	La Posta
+14	14105	Río Primero	14105130	La Puerta
+14	14105	Río Primero	14105140	La Quinta
+14	14105	Río Primero	14105150	Las Gramillas
+14	14105	Río Primero	14105160	Las Saladas
+14	14105	Río Primero	14105170	Maquinista Gallini
+14	14105	Río Primero	14105180	Monte del Rosario
+14	14105	Río Primero	14105190	Montecristo
+14	14105	Río Primero	14105200	Obispo Trejo
+14	14105	Río Primero	14105210	Piquillín
+14	14105	Río Primero	14105220	Plaza de Mercedes
+14	14105	Río Primero	14105235	Punta de Agua
+14	14105	Río Primero	14105240	Río Primero
+14	14105	Río Primero	14105250	Sagrada Familia
+14	14105	Río Primero	14105270	Villa Fontana
+14	14105	Río Primero	14105260	Villa Santa Rosa
+14	14112	Río Seco	14112010	Cerro Colorado
+14	14112	Río Seco	14112020	Chañar Viejo
+14	14112	Río Seco	14112030	Eufrasio Loza
+14	14112	Río Seco	14112040	Gutemberg
+14	14112	Río Seco	14112045	La Costa
+14	14112	Río Seco	14112050	La Rinconada
+14	14112	Río Seco	14112060	Los Hoyos
+14	14112	Río Seco	14112070	Puesto de Castro
+14	14112	Río Seco	14112080	Rayo Cortado
+14	14112	Río Seco	14112090	San Pedro de Gutemberg
+14	14112	Río Seco	14112100	Santa Elena
+14	14112	Río Seco	14112110	Sebastián Elcano
+14	14112	Río Seco	14112120	Villa Candelaria
+14	14112	Río Seco	14112130	Villa de María
+14	14112	Río Seco	14112140	Villa de María Este
+14	14119	Río Segundo	14119010	Calchín
+14	14119	Río Segundo	14119020	Calchín Oeste
+14	14119	Río Segundo	14119030	Capilla del Carmen
+14	14119	Río Segundo	14119040	Carrilobo
+14	14119	Río Segundo	14119050	Colazo
+14	14119	Río Segundo	14119060	Colonia Videla
+14	14119	Río Segundo	14119070	Costa Sacate
+14	14119	Río Segundo	14119080	Impira
+14	14119	Río Segundo	14119090	Laguna Larga
+14	14119	Río Segundo	14119100	Las Junturas
+14	14119	Río Segundo	14119110	Los Chañaritos
+14	14119	Río Segundo	14119120	Luque
+14	14119	Río Segundo	14119130	Manfredi
+14	14119	Río Segundo	14119140	Matorrales
+14	14119	Río Segundo	14119150	Oncativo
+14	14119	Río Segundo	14119165	Plaza Colazo
+14	14119	Río Segundo	14119170	Pozo del Molle
+14	14119	Río Segundo	14119180	Rincón
+14	14119	Río Segundo	14119190	Río Segundo
+14	14119	Río Segundo	14119160	Pilar
+14	14119	Río Segundo	14119200	Santiago Temple
+14	14119	Río Segundo	14119210	Villa del Rosario
+14	14126	San Alberto	14126005	Altautina
+14	14126	San Alberto	14126010	Ambul
+14	14126	San Alberto	14126025	Bajo de Corrales
+14	14126	San Alberto	14126026	Ciénaga de Allende
+14	14126	San Alberto	14126027	El Bañado
+14	14126	San Alberto	14126085	Los Morteritos
+14	14126	San Alberto	14126090	Mina Clavero
+14	14126	San Alberto	14126200	Villa Cura Brochero
+14	14126	San Alberto	14126020	Arroyo de los Patos
+14	14126	San Alberto	14126050	Las Calles
+14	14126	San Alberto	14126070	Las Rabonas
+14	14126	San Alberto	14126110	Nono
+14	14126	San Alberto	14126140	San Lorenzo
+14	14126	San Alberto	14126100	Mussi
+14	14126	San Alberto	14126120	Panaholma
+14	14126	San Alberto	14126150	San Martín
+14	14126	San Alberto	14126160	San Pedro
+14	14126	San Alberto	14126210	Villa Sarmiento
+14	14126	San Alberto	14126180	Sauce Arriba
+14	14126	San Alberto	14126170	San Vicente
+14	14126	San Alberto	14126205	Villa Rafael Benegas
+14	14133	San Javier	14133005	Boca del Río
+14	14133	San Javier	14133007	Capilla de Romero
+14	14133	San Javier	14133010	Conlara
+14	14133	San Javier	14133060	La Paz
+14	14133	San Javier	14133015	Corralito
+14	14133	San Javier	14133070	La Población
+14	14133	San Javier	14133090	La Travesía
+14	14133	San Javier	14133110	Los Cerrillos
+14	14133	San Javier	14133120	Los Hornillos
+14	14133	San Javier	14133150	Luyaba
+14	14133	San Javier	14133170	San Javier y Yacanto
+14	14133	San Javier	14133180	San José
+14	14133	San Javier	14133200	Villa Dolores
+14	14133	San Javier	14133190	Villa de las Rosas
+14	14133	San Javier	14133100	Las Tapias
+14	14133	San Javier	14133210	Villa La Viña
+14	14140	San Justo	14140010	Alicia
+14	14140	San Justo	14140020	Altos de Chipión
+14	14140	San Justo	14140030	Arroyito
+14	14140	San Justo	14140040	Balnearia
+14	14140	San Justo	14140050	Brinkmann
+14	14140	San Justo	14140060	Colonia Anita
+14	14140	San Justo	14140070	Colonia 10 de Julio
+14	14140	San Justo	14140215	Colonia Iturraspe
+14	14140	San Justo	14140080	Colonia Las Pichanas
+14	14140	San Justo	14140090	Colonia Marina
+14	14140	San Justo	14140100	Colonia Prosperidad
+14	14140	San Justo	14140110	Colonia San Bartolomé
+14	14140	San Justo	14140120	Colonia San Pedro
+14	14140	San Justo	14140130	Colonia Santa María
+14	14140	San Justo	14140140	Colonia Valtelina
+14	14140	San Justo	14140150	Colonia Vignaud
+14	14140	San Justo	14140160	Devoto
+14	14140	San Justo	14140170	El Arañado
+14	14140	San Justo	14140180	El Fortín
+14	14140	San Justo	14140190	El Fuertecito
+14	14140	San Justo	14140200	El Tío
+14	14140	San Justo	14140210	Estación Luxardo
+14	14140	San Justo	14140220	Freyre
+14	14140	San Justo	14140225	La Curva
+14	14140	San Justo	14140230	La Francia
+14	14140	San Justo	14140240	La Paquita
+14	14140	San Justo	14140250	La Tordilla
+14	14140	San Justo	14140260	Las Varas
+14	14140	San Justo	14140270	Las Varillas
+14	14140	San Justo	14140280	Marull
+14	14140	San Justo	14140290	Miramar de Ansenuza
+14	14140	San Justo	14140300	Morteros
+14	14140	San Justo	14140310	Plaza Luxardo
+14	14140	San Justo	14140320	Plaza San Francisco
+14	14140	San Justo	14140330	Porteña
+14	14140	San Justo	14140340	Quebracho Herrado
+14	14140	San Justo	14140350	Sacanta
+14	14140	San Justo	14140360	San Francisco
+14	14140	San Justo	14140370	Saturnino María Laspiur
+14	14140	San Justo	14140380	Seeber
+14	14140	San Justo	14140390	Toro Pujio
+14	14140	San Justo	14140400	Tránsito
+14	14140	San Justo	14140420	Villa Concepción del Tío
+14	14140	San Justo	14140430	Villa del Tránsito
+14	14140	San Justo	14140440	Villa San Esteban
+14	14147	Santa María	14147010	Alta Gracia
+14	14147	Santa María	14147020	Anisacate
+14	14147	Santa María	14147110	Falda del Carmen
+14	14147	Santa María	14147170	La Rancherita y Las Cascadas
+14	14147	Santa María	14147180	La Serranita
+14	14147	Santa María	14147195	Los Talas de Anisacate
+14	14147	Santa María	14147300	Valle de Anisacate
+14	14147	Santa María	14147330	Villa La Bolsa
+14	14147	Santa María	14147340	Villa Los Aromos
+14	14147	Santa María	14147030	Barrio Gilbert (1º de Mayo)
+14	14147	Santa María	14147050	Bouwer
+14	14147	Santa María	14147060	Caseros Centro
+14	14147	Santa María	14147270	Socavones
+14	14147	Santa María	14147063	Caseros Este
+14	14147	Santa María	14147080	Despeñaderos
+14	14147	Santa María	14147090	Dique Chico
+14	14147	Santa María	14147100	Falda del Cañete
+14	14147	Santa María	14147113	Falda del Carmen Norte
+14	14147	Santa María	14147120	La Boca del Río
+14	14147	Santa María	14147145	La Lagunilla
+14	14147	Santa María	14147150	La Paisanita
+14	14147	Santa María	14147190	Los Cedros
+14	14147	Santa María	14147193	Los Espinillos
+14	14147	Santa María	14147200	Lozada
+14	14147	Santa María	14147210	Malagueño
+14	14147	Santa María	14147220	Monte Ralo
+14	14147	Santa María	14147223	Pampa Alta
+14	14147	Santa María	14147235	Potrerillo
+14	14147	Santa María	14147230	Potrero de Garay
+14	14147	Santa María	14147310	Villa Ciudad de América
+14	14147	Santa María	14147240	Rafael García
+14	14147	Santa María	14147250	San Clemente
+14	14147	Santa María	14147265	San Pedro
+14	14147	Santa María	14147280	Toledo
+14	14147	Santa María	14147320	Villa del Prado
+14	14147	Santa María	14147350	Villa Parque Santa Ana
+14	14147	Santa María	14147360	Villa San Isidro
+14	14147	Santa María	14147115	José de la Quintana
+14	14154	Sobremonte	14154010	Caminiaga
+14	14154	Sobremonte	14154030	Chuña Huasi
+14	14154	Sobremonte	14154040	Pozo Nuevo
+14	14154	Sobremonte	14154050	San Francisco del Chañar
+14	14161	Tercero Arriba	14161010	Almafuerte
+14	14161	Tercero Arriba	14161020	Colonia Almada
+14	14161	Tercero Arriba	14161030	Corralito
+14	14161	Tercero Arriba	14161040	Dalmacio Vélez
+14	14161	Tercero Arriba	14161050	General Fotheringham
+14	14161	Tercero Arriba	14161060	Hernando
+14	14161	Tercero Arriba	14161070	James Craik
+14	14161	Tercero Arriba	14161080	Las Isletillas
+14	14161	Tercero Arriba	14161090	Las Perdices
+14	14161	Tercero Arriba	14161100	Los Zorros
+14	14161	Tercero Arriba	14161110	Oliva
+14	14161	Tercero Arriba	14161130	Pampayasta Sud
+14	14161	Tercero Arriba	14161120	Pampayasta Norte
+14	14161	Tercero Arriba	14161140	Punta del Agua
+14	14161	Tercero Arriba	14161150	Río Tercero
+14	14161	Tercero Arriba	14161160	Tancacha
+14	14161	Tercero Arriba	14161170	Villa Ascasubi
+14	14168	Totoral	14168005	Agua de las Piedras
+14	14168	Totoral	14168010	Candelaria Sud
+14	14168	Totoral	14168020	Cañada de Luque
+14	14168	Totoral	14168030	Capilla de Sitón
+14	14168	Totoral	14168035	Colonia Hogar
+14	14168	Totoral	14168040	La Pampa
+14	14168	Totoral	14168060	Las Peñas
+14	14168	Totoral	14168070	Los Mistoles
+14	14168	Totoral	14168080	Santa Catalina
+14	14168	Totoral	14168090	Sarmiento
+14	14168	Totoral	14168100	Simbolar
+14	14168	Totoral	14168110	Sinsacate
+14	14168	Totoral	14168120	Villa del Totoral
+14	14175	Tulumba	14175020	Churqui Cañada
+14	14175	Tulumba	14175030	El Rodeo
+14	14175	Tulumba	14175040	El Tuscal
+14	14175	Tulumba	14175045	Guayascate
+14	14175	Tulumba	14175050	Las Arrias
+14	14175	Tulumba	14175060	Lucio V. Mansilla
+14	14175	Tulumba	14175070	Rosario del Saladillo
+14	14175	Tulumba	14175080	San José de la Dormida
+14	14175	Tulumba	14175090	San José de las Salinas
+14	14175	Tulumba	14175100	San Pedro Norte
+14	14175	Tulumba	14175103	San Vicente
+14	14175	Tulumba	14175110	Villa Tulumba
+14	14182	Unión	14182010	Aldea Santa María
+14	14182	Unión	14182020	Alto Alegre
+14	14182	Unión	14182030	Ana Zumarán
+14	14182	Unión	14182040	Ballesteros
+14	14182	Unión	14182050	Ballesteros Sud
+14	14182	Unión	14182060	Bell Ville
+14	14182	Unión	14182070	Benjamín Gould
+14	14182	Unión	14182080	Canals
+14	14182	Unión	14182090	Chilibroste
+14	14182	Unión	14182100	Cintra
+14	14182	Unión	14182110	Colonia Bismarck
+14	14182	Unión	14182120	Colonia Bremen
+14	14182	Unión	14182130	Idiazábal
+14	14182	Unión	14182140	Justiniano Posse
+14	14182	Unión	14182150	Laborde
+14	14182	Unión	14182160	Monte Leña
+14	14182	Unión	14182170	Monte Maíz
+14	14182	Unión	14182180	Morrison
+14	14182	Unión	14182190	Noetinger
+14	14182	Unión	14182200	Ordóñez
+14	14182	Unión	14182210	Pascanas
+14	14182	Unión	14182220	Pueblo Italiano
+14	14182	Unión	14182230	Ramón J. Cárcano
+14	14182	Unión	14182240	San Antonio de Litín
+14	14182	Unión	14182250	San Marcos Sud
+14	14182	Unión	14182260	San Severo
+14	14182	Unión	14182270	Viamonte
+14	14182	Unión	14182280	Villa Los Patos
+14	14182	Unión	14182290	Wenceslao Escalante
+18	18007	Bella Vista	18007010	Bella Vista
+18	18007	Bella Vista	18007020	Tres de Abril
+18	18014	Berón de Astrada	18014010	San Antonio de Itatí
+18	18014	Berón de Astrada	18014020	Yahapé
+18	18021	Capital	18021015	Barrio Santa Lucía
+18	18021	Capital	18021020	Corrientes
+18	18021	Capital	18021040	Riachuelo
+18	18021	Capital	18021050	San Cayetano
+18	18021	Capital	18021060	Santa Ana de los Guácaras
+18	18028	Concepción	18028010	Concepción del Yaguareté Corá
+18	18028	Concepción	18028020	Santa Rosa
+18	18028	Concepción	18028030	Tabay
+18	18028	Concepción	18028031	Tabay
+18	18028	Concepción	18028040	Tatacuá
+18	18035	Curuzú Cuatiá	18035010	Cazadores Correntinos
+18	18035	Curuzú Cuatiá	18035020	Curuzú Cuatiá
+18	18035	Curuzú Cuatiá	18035030	Perugorría
+18	18042	Empedrado	18042005	Barrio Santa Rosa
+18	18042	Empedrado	18042010	El Sombrero
+18	18042	Empedrado	18042020	Empedrado
+18	18042	Empedrado	18042030	Manuel Derqui
+18	18042	Empedrado	18042040	San Isidro
+18	18049	Esquina	18049010	Esquina
+18	18049	Esquina	18049015	Los Flotadores
+18	18049	Esquina	18049020	Pueblo Libertador
+18	18056	General Alvear	18056010	Alvear
+18	18056	General Alvear	18056020	Estación Torrent
+18	18063	General Paz	18063010	Itá Ibaté
+18	18063	General Paz	18063020	Lomas de Vallejos
+18	18063	General Paz	18063030	Nuestra Señora del Rosario de Caá Catí
+18	18063	General Paz	18063040	Palmar Grande
+18	18070	Goya	18070005	Barrio Balneario
+18	18070	Goya	18070010	Carolina
+18	18070	Goya	18070011	Carolina
+18	18070	Goya	18070020	Goya
+18	18070	Goya	18070030	San Isidro
+18	18077	Itatí	18077010	Itatí
+18	18077	Itatí	18077020	Ramada Paso
+18	18084	Ituzaingó	18084005	Bahía Carayá
+18	18084	Ituzaingó	18084010	Colonia Liebig
+18	18084	Ituzaingó	18084020	Ituzaingó
+18	18084	Ituzaingó	18084023	Puerto San Gará
+18	18084	Ituzaingó	18084025	Puerto Valle
+18	18084	Ituzaingó	18084027	Rincón Ombú Chico
+18	18084	Ituzaingó	18084030	San Antonio de Apipé Grande
+18	18084	Ituzaingó	18084040	San Carlos
+18	18084	Ituzaingó	18084050	Villa Olivari
+18	18091	Lavalle	18091007	Cecilio Echavarría
+18	18091	Lavalle	18091010	Cruz de los Milagros
+18	18091	Lavalle	18091020	Gobernador Martínez
+18	18091	Lavalle	18091030	Lavalle
+18	18091	Lavalle	18091040	Santa Lucía
+18	18091	Lavalle	18091050	Villa Córdoba
+18	18091	Lavalle	18091060	Yatay Ti Calle
+18	18098	Mburucuyá	18098010	Mburucuyá
+18	18105	Mercedes	18105010	Felipe Yofre
+18	18105	Mercedes	18105020	Mariano Indalecio Loza (Estación Justino Solari)
+18	18105	Mercedes	18105030	Mercedes
+18	18112	Monte Caseros	18112010	Colonia Libertad
+18	18112	Monte Caseros	18112020	Estación Libertad
+18	18112	Monte Caseros	18112030	Juan Pujol
+18	18112	Monte Caseros	18112040	Mocoretá
+18	18112	Monte Caseros	18112050	Monte Caseros
+18	18112	Monte Caseros	18112060	Parada Acuña
+18	18112	Monte Caseros	18112070	Parada Labougle
+18	18119	Paso de los Libres	18119010	Bonpland
+18	18119	Paso de los Libres	18119020	Parada Pucheta
+18	18119	Paso de los Libres	18119030	Paso de los Libres
+18	18119	Paso de los Libres	18119040	Tapebicuá
+18	18126	Saladas	18126005	Pago de los Deseos
+18	18126	Saladas	18126010	Saladas
+18	18126	Saladas	18126020	San Lorenzo
+18	18133	San Cosme	18133005	Barrio Paraíso del Paso
+18	18133	San Cosme	18133010	Ingenio Primer Correntino
+18	18133	San Cosme	18133020	Paso de la Patria
+18	18133	San Cosme	18133030	San Cosme
+18	18133	San Cosme	18133040	Santa Ana de los Guácaras
+18	18140	San Luis del Palmar	18140010	San Luis del Palmar
+18	18147	San Martín	18147010	Colonia Carlos Pellegrini
+18	18147	San Martín	18147020	Guaviraví
+18	18147	San Martín	18147030	La Cruz
+18	18147	San Martín	18147040	Yapeyú
+18	18154	San Miguel	18154005	El Caimán
+18	18154	San Miguel	18154010	Loreto
+18	18154	San Miguel	18154020	San Miguel
+18	18161	San Roque	18161010	Chavarría
+18	18161	San Roque	18161020	Colonia Pando
+18	18161	San Roque	18161030	9 de Julio
+18	18161	San Roque	18161040	Pedro Ramón Fernández (Estación Mantilla)
+18	18161	San Roque	18161050	San Roque
+18	18168	Santo Tomé	18168005	Coronel Desiderio Sosa
+18	18168	Santo Tomé	18168010	Garaví
+18	18168	Santo Tomé	18168020	Garruchos
+18	18168	Santo Tomé	18168030	Gobernador Ingeniero Valentín Virasoro
+18	18168	Santo Tomé	18168035	San Alonso
+18	18168	Santo Tomé	18168040	Santo Tomé
+18	18175	Sauce	18175010	Sauce
+22	22007	Almirante Brown	22007010	Concepción del Bermejo
+22	22007	Almirante Brown	22007020	Los Frentones
+22	22007	Almirante Brown	22007030	Pampa del Infierno
+22	22007	Almirante Brown	22007040	Río Muerto
+22	22007	Almirante Brown	22007050	Taco Pozo
+22	22014	Bermejo	22014030	La Leonesa
+22	22014	Bermejo	22014040	Las Palmas
+22	22014	Bermejo	22014010	General Vedia
+22	22014	Bermejo	22014020	Isla del Cerrito
+22	22014	Bermejo	22014050	Puerto Bermejo Nuevo
+22	22014	Bermejo	22014060	Puerto Bermejo Viejo
+22	22014	Bermejo	22014070	Puerto Eva Perón
+22	22028	Chacabuco	22028010	Charata
+22	22021	Comandante Fernández	22021010	Presidencia Roque Sáenz Peña
+22	22036	12 de Octubre	22036010	Gancedo
+22	22036	12 de Octubre	22036020	General Capdevila
+22	22036	12 de Octubre	22036030	General Pinedo
+22	22036	12 de Octubre	22036040	Mesón de Fierro
+22	22036	12 de Octubre	22036050	Pampa Landriel
+22	22039	2 de Abril	22039010	Hermoso Campo
+22	22039	2 de Abril	22039020	Itín
+22	22043	Fray Justo Santa María de Oro	22043010	Chorotis
+22	22043	Fray Justo Santa María de Oro	22043020	Santa Sylvina
+22	22043	Fray Justo Santa María de Oro	22043030	Venados Grandes
+22	22049	General Belgrano	22049010	Corzuela
+22	22056	General Donovan	22056010	La Escondida
+22	22056	General Donovan	22056020	La Verde
+22	22056	General Donovan	22056030	Lapachito
+22	22056	General Donovan	22056040	Makallé
+22	22063	General Güemes	22063005	Comandancia Frías
+22	22063	General Güemes	22063010	El Espinillo
+22	22063	General Güemes	22063020	El Sauzal
+22	22063	General Güemes	22063030	El Sauzalito
+22	22063	General Güemes	22063035	Fortín Belgrano
+22	22063	General Güemes	22063040	Fortín Lavalle
+22	22063	General Güemes	22063050	Fuerte Esperanza
+22	22063	General Güemes	22063060	Juan José Castelli
+22	22063	General Güemes	22063065	Las Hacheras
+22	22063	General Güemes	22063070	Miraflores
+22	22063	General Güemes	22063080	Nueva Pompeya
+22	22063	General Güemes	22063090	Puerto Lavalle
+22	22063	General Güemes	22063095	Tartagal
+22	22063	General Güemes	22063097	Tres Pozos
+22	22063	General Güemes	22063100	Villa Río Bermejito
+22	22063	General Güemes	22063110	Wichi
+22	22063	General Güemes	22063120	Zaparinqui
+22	22070	Independencia	22070010	Avia Terai
+22	22070	Independencia	22070025	Colonia José Mármol
+22	22070	Independencia	22070020	Campo Largo
+22	22070	Independencia	22070030	Fortín Las Chuñas
+22	22070	Independencia	22070040	Napenay
+22	22077	Libertad	22077010	Colonia Popular
+22	22077	Libertad	22077020	Estación General Obligado
+22	22077	Libertad	22077030	Laguna Blanca
+22	22077	Libertad	22077040	Puerto Tirol
+22	22084	Libertador General San Martín	22084010	Ciervo Petiso
+22	22084	Libertador General San Martín	22084020	General José de San Martín
+22	22084	Libertador General San Martín	22084030	La Eduvigis
+22	22084	Libertador General San Martín	22084040	Laguna Limpia
+22	22084	Libertador General San Martín	22084050	Pampa Almirón
+22	22084	Libertador General San Martín	22084060	Pampa del Indio
+22	22084	Libertador General San Martín	22084070	Presidencia Roca
+22	22084	Libertador General San Martín	22084080	Selvas del Río de Oro
+22	22091	Maipú	22091002	Colonia La Matanza
+22	22091	Maipú	22091004	Kilómetro 855
+22	22091	Maipú	22091005	Kilómetro 884
+22	22091	Maipú	22091007	La Curva
+22	22091	Maipú	22091010	Tres Isletas
+22	22098	Mayor Luis J. Fontana	22098005	Colonia Pegouriel
+22	22098	Mayor Luis J. Fontana	22098010	Coronel Du Graty
+22	22098	Mayor Luis J. Fontana	22098015	El Pastoril
+22	22098	Mayor Luis J. Fontana	22098020	Enrique Urién
+22	22098	Mayor Luis J. Fontana	22098030	Villa Ángela
+22	22105	9 de Julio	22105010	Las Breñas
+22	22105	9 de Julio	22105015	Las Piedritas
+22	22112	O'Higgins	22112010	La Clotilde
+22	22112	O'Higgins	22112020	La Tigra
+22	22112	O'Higgins	22112030	San Bernardo
+22	22119	Presidencia de la Plaza	22119010	Presidencia de la Plaza
+22	22126	1º de Mayo	22126010	Barrio de los Pescadores
+22	22126	1º de Mayo	22126020	Colonia Benítez
+22	22126	1º de Mayo	22126025	Lote 1
+22	22126	1º de Mayo	22126030	Margarita Belén
+22	22133	Quitilipi	22133010	Quitilipi
+22	22133	Quitilipi	22133020	Villa El Palmar
+22	22133	Quitilipi	22133033	El Paraisal
+22	22140	San Fernando	22140010	Barranqueras
+22	22140	San Fernando	22140040	Fontana
+22	22140	San Fernando	22140050	Puerto Vilelas
+22	22140	San Fernando	22140060	Resistencia
+22	22140	San Fernando	22140020	Basail
+22	22140	San Fernando	22140030	Colonia Baranda
+22	22140	San Fernando	22140036	El Naranjito
+22	22140	San Fernando	22140033	El Paraisal
+22	22147	San Lorenzo	22147010	Samuhú
+22	22147	San Lorenzo	22147020	Villa Berthet
+22	22154	Sargento Cabral	22154010	Capitán Solari
+22	22154	Sargento Cabral	22154020	Colonia Elisa
+22	22154	Sargento Cabral	22154030	Colonias Unidas
+22	22154	Sargento Cabral	22154040	Ingeniero Barbet
+22	22154	Sargento Cabral	22154050	Las Garcitas
+22	22161	Tapenagá	22161010	Charadai
+22	22161	Tapenagá	22161020	Cote Lai
+22	22161	Tapenagá	22161030	Haumonia
+22	22161	Tapenagá	22161040	Horquilla
+22	22161	Tapenagá	22161050	La Sabana
+22	22168	25 de Mayo	22168010	Colonia Aborigen
+22	22168	25 de Mayo	22168020	Machagai
+22	22168	25 de Mayo	22168030	Napalpí
+26	26007	Biedma	26007010	Arroyo Verde
+26	26007	Biedma	26007020	Puerto Madryn
+26	26007	Biedma	26007030	Puerto Pirámides
+26	26007	Biedma	26007040	Quintas del Mirador
+26	26007	Biedma	26007050	Reserva Área Protegida El Doradillo
+26	26014	Cushamen	26014005	Arroyo El Pedregoso
+26	26014	Cushamen	26014010	Buenos Aires Chico
+26	26014	Cushamen	26014020	Cholila
+26	26014	Cushamen	26014025	Costa del Chubut
+26	26014	Cushamen	26014030	Cushamen Centro
+26	26014	Cushamen	26014037	El Blanco
+26	26014	Cushamen	26014040	El Hoyo
+26	26014	Cushamen	26014050	El Maitén
+26	26014	Cushamen	26014060	Epuyén
+26	26014	Cushamen	26014065	Fofo Cahuel
+26	26014	Cushamen	26014070	Gualjaina
+26	26014	Cushamen	26014080	Lago Epuyén
+26	26014	Cushamen	26014090	Lago Puelo
+26	26014	Cushamen	26014100	Leleque
+26	26014	Cushamen	26014110	Villa Lago Rivadavia
+26	26021	Escalante	26021010	Astra
+26	26021	Escalante	26021020	Bahía Bustamante
+26	26021	Escalante	26021030	Comodoro Rivadavia
+26	26021	Escalante	26021040	Diadema Argentina
+26	26021	Escalante	26021045	La Herradura
+26	26021	Escalante	26021050	Rada Tilly
+26	26028	Florentino Ameghino	26028010	Camarones
+26	26028	Florentino Ameghino	26028020	Garayalde
+26	26035	Futaleufú	26035010	Aldea Escolar (Los Rápidos)
+26	26035	Futaleufú	26035015	Cerro Centinela
+26	26035	Futaleufú	26035020	Corcovado
+26	26035	Futaleufú	26035030	Esquel
+26	26035	Futaleufú	26035040	Lago Rosario
+26	26035	Futaleufú	26035050	Los Cipreses
+26	26035	Futaleufú	26035060	Trevelin
+26	26035	Futaleufú	26035070	Villa Futalaufquen
+26	26042	Gaiman	26042010	Dique Florentino Ameghino
+26	26042	Gaiman	26042020	Dolavon
+26	26042	Gaiman	26042030	Gaiman
+26	26042	Gaiman	26042040	28 de Julio
+26	26049	Gastre	26049010	Blancuntre
+26	26049	Gastre	26049020	El Escorial
+26	26049	Gastre	26049030	Gastre
+26	26049	Gastre	26049040	Lagunita Salada
+26	26049	Gastre	26049050	Yala Laubat
+26	26056	Languiñeo	26056010	Aldea Epulef
+26	26056	Languiñeo	26056020	Carrenleufú
+26	26056	Languiñeo	26056030	Colan Conhué
+26	26056	Languiñeo	26056040	Paso del Sapo
+26	26056	Languiñeo	26056050	Tecka
+26	26063	Mártires	26063010	El Mirasol
+26	26063	Mártires	26063020	Las Plumas
+26	26070	Paso de Indios	26070010	Cerro Cóndor
+26	26070	Paso de Indios	26070020	Los Altares
+26	26070	Paso de Indios	26070030	Paso de Indios
+26	26077	Rawson	26077003	Barrio Aldea Casa Blanca
+26	26077	Rawson	26077005	Barrio Rodaj Park
+26	26077	Rawson	26077007	Don Emilio
+26	26077	Rawson	26077010	Playa Magagna
+26	26077	Rawson	26077020	Playa Unión
+26	26077	Rawson	26077030	Rawson
+26	26077	Rawson	26077040	Trelew
+26	26084	Río Senguer	26084010	Aldea Apeleg
+26	26084	Río Senguer	26084020	Aldea Beleiro
+26	26084	Río Senguer	26084030	Alto Río Senguer
+26	26084	Río Senguer	26084040	Doctor Ricardo Rojas
+26	26084	Río Senguer	26084050	Facundo
+26	26084	Río Senguer	26084060	Lago Blanco
+26	26084	Río Senguer	26084070	Río Mayo
+26	26091	Sarmiento	26091010	Buen Pasto
+26	26091	Sarmiento	26091020	Sarmiento
+26	26098	Tehuelches	26098010	Doctor Atilio Oscar Viglione (Frontera de Río Pico)
+26	26098	Tehuelches	26098020	Gobernador Costa
+26	26098	Tehuelches	26098030	José de San Martín
+26	26098	Tehuelches	26098040	Río Pico
+26	26105	Telsen	26105010	Gan Gan
+26	26105	Telsen	26105020	Telsen
+30	30008	Colón	30008005	Aldea San Gregorio
+30	30008	Colón	30008010	Arroyo Barú
+30	30008	Colón	30008020	Colón
+30	30008	Colón	30008030	Colonia Hugues
+30	30008	Colón	30008040	Hambis
+30	30008	Colón	30008050	Hocker
+30	30008	Colón	30008060	La Clarita
+30	30008	Colón	30008070	Pueblo Cazes
+30	30008	Colón	30008080	Pueblo Liebig
+30	30008	Colón	30008090	San José
+30	30008	Colón	30008100	Ubajay
+30	30008	Colón	30008110	Villa Elisa
+30	30015	Concordia	30015005	Barrio Coelho
+30	30015	Concordia	30015007	Barrio Yuquerí Chico
+30	30015	Concordia	30015010	Calabacilla
+30	30015	Concordia	30015020	Clodomiro Ledesma
+30	30015	Concordia	30015030	Colonia Ayuí
+30	30015	Concordia	30015060	Concordia
+30	30015	Concordia	30015080	Estación Yeruá
+30	30015	Concordia	30015083	Estación Yuquerí
+30	30015	Concordia	30015087	Estancia Grande
+30	30015	Concordia	30015040	General Roca
+30	30015	Concordia	30015090	La Criolla
+30	30015	Concordia	30015095	Lago Salto Grande
+30	30015	Concordia	30015100	Los Charrúas
+30	30015	Concordia	30015110	Nueva Escocia
+30	30015	Concordia	30015120	Osvaldo Magnasco
+30	30015	Concordia	30015130	Pedernal
+30	30015	Concordia	30015140	Puerto Yeruá
+30	30015	Concordia	30015150	Punta Bonita
+30	30021	Diamante	30021010	Aldea Brasilera
+30	30021	Diamante	30021070	Colonia Ensayo
+30	30021	Diamante	30021015	Aldea Grapschental
+30	30021	Diamante	30021020	Aldea Protestante
+30	30021	Diamante	30021030	Aldea Salto
+30	30021	Diamante	30021040	Aldea San Francisco
+30	30021	Diamante	30021050	Aldea Spatzenkutter
+30	30021	Diamante	30021060	Aldea Valle María
+30	30021	Diamante	30021065	Barrio San José
+30	30021	Diamante	30021080	Diamante
+30	30021	Diamante	30021090	Estación Camps
+30	30021	Diamante	30021100	General Alvear
+30	30021	Diamante	30021120	General Ramírez
+30	30021	Diamante	30021110	General Racedo
+30	30021	Diamante	30021123	La Juanita
+30	30021	Diamante	30021125	Las Cuevas
+30	30021	Diamante	30021127	Las Jaulas
+30	30021	Diamante	30021128	Las Masitas
+30	30021	Diamante	30021130	Paraje La Virgen
+30	30021	Diamante	30021140	Puerto Las Cuevas
+30	30021	Diamante	30021150	Villa Libertador San Martín
+30	30028	Federación	30028010	Chajarí
+30	30028	Federación	30028020	Colonia Alemana
+30	30028	Federación	30028040	Colonia La Argentina
+30	30028	Federación	30028070	Federación
+30	30028	Federación	30028073	Gualeguaycito
+30	30028	Federación	30028075	La Florida
+30	30028	Federación	30028077	La Muela
+30	30028	Federación	30028080	Los Conquistadores
+30	30028	Federación	30028090	San Jaime de la Frontera
+30	30028	Federación	30028100	San Pedro
+30	30028	Federación	30028105	San Ramón
+30	30028	Federación	30028110	Santa Ana
+30	30028	Federación	30028115	Santa María y Las Margaritas
+30	30028	Federación	30028120	Villa del Rosario
+30	30035	Federal	30035010	Conscripto Bernardi
+30	30035	Federal	30035020	El Cimarrón
+30	30035	Federal	30035030	Federal
+30	30035	Federal	30035035	Las Delicias
+30	30035	Federal	30035040	Nueva Vizcaya
+30	30035	Federal	30035050	Sauce de Luna
+30	30042	Feliciano	30042005	La Verbena
+30	30042	Feliciano	30042010	San José de Feliciano
+30	30042	Feliciano	30042020	San Víctor
+30	30049	Gualeguay	30049010	Aldea Asunción
+30	30049	Gualeguay	30049020	Estación Lazo
+30	30049	Gualeguay	30049030	General Galarza
+30	30049	Gualeguay	30049040	Gualeguay
+30	30049	Gualeguay	30049050	Puerto Ruiz
+30	30049	Gualeguay	30049060	Punta del Monte
+30	30056	Gualeguaychú	30056070	Gualeguaychú
+30	30056	Gualeguaychú	30056100	Pueblo General Belgrano
+30	30056	Gualeguaychú	30056010	Aldea San Antonio
+30	30056	Gualeguaychú	30056020	Aldea San Juan
+30	30056	Gualeguaychú	30056025	Camino al Ñandubaysal
+30	30056	Gualeguaychú	30056027	Cuchilla Redonda
+30	30056	Gualeguaychú	30056030	Enrique Carbó
+30	30056	Gualeguaychú	30056035	Estación Escriña
+30	30056	Gualeguaychú	30056040	Faustino M. Parera
+30	30056	Gualeguaychú	30056050	General Almada
+30	30056	Gualeguaychú	30056060	Gilbert
+30	30056	Gualeguaychú	30056080	Irazusta
+30	30056	Gualeguaychú	30056090	Larroque
+30	30056	Gualeguaychú	30056095	Pastor Britos
+30	30056	Gualeguaychú	30056110	Urdinarrain
+30	30063	Islas del Ibicuy	30063015	Brazo Largo
+30	30063	Islas del Ibicuy	30063020	Ceibas
+30	30063	Islas del Ibicuy	30063030	Ibicuy
+30	30063	Islas del Ibicuy	30063035	Mazaruca
+30	30063	Islas del Ibicuy	30063040	Médanos
+30	30063	Islas del Ibicuy	30063050	Ñancay
+30	30063	Islas del Ibicuy	30063060	Villa Paranacito
+30	30070	La Paz	30070005	Alcaraz
+30	30070	La Paz	30070010	Bovril
+30	30070	La Paz	30070020	Colonia Avigdor
+30	30070	La Paz	30070025	El Quebracho
+30	30070	La Paz	30070030	El Solar
+30	30070	La Paz	30070040	La Paz
+30	30070	La Paz	30070041	La Providencia
+30	30070	La Paz	30070043	Ombú
+30	30070	La Paz	30070047	Paso Telégrafo
+30	30070	La Paz	30070048	Picada Berón
+30	30070	La Paz	30070050	Piedras Blancas
+30	30070	La Paz	30070065	Puerto Algarrobo
+30	30070	La Paz	30070070	San Gustavo
+30	30070	La Paz	30070075	San Ramírez
+30	30070	La Paz	30070080	Santa Elena
+30	30070	La Paz	30070090	Sir Leonard
+30	30070	La Paz	30070095	Yacaré
+30	30070	La Paz	30070100	Yeso Oeste
+30	30077	Nogoyá	30077015	Barrio Parque El Morajú
+30	30077	Nogoyá	30077020	Betbeder
+30	30077	Nogoyá	30077030	Don Cristóbal II
+30	30077	Nogoyá	30077040	Febre
+30	30077	Nogoyá	30077060	Lucas González
+30	30077	Nogoyá	30077070	Nogoyá
+30	30077	Nogoyá	30077080	XX de Septiembre
+30	30077	Nogoyá	30077010	Villa Aranguren
+30	30077	Nogoyá	30077050	Villa Sabá Z. Hernández
+30	30084	Paraná	30084060	Colonia Avellaneda
+30	30084	Paraná	30084150	Oro Verde
+30	30084	Paraná	30084160	Paraná
+30	30084	Paraná	30084200	San Benito
+30	30084	Paraná	30084210	Sauce Montrull
+30	30084	Paraná	30084010	Aldea María Luisa
+30	30084	Paraná	30084013	Aldea San Antonio
+30	30084	Paraná	30084015	Aldea San Juan
+30	30084	Paraná	30084020	Aldea San Rafael
+30	30084	Paraná	30084030	Aldea Santa María
+30	30084	Paraná	30084040	Aldea Santa Rosa
+30	30084	Paraná	30084050	Cerrito
+30	30084	Paraná	30084065	Colonia Crespo
+30	30084	Paraná	30084067	Colonia Nueva
+30	30084	Paraná	30084070	Crespo
+30	30084	Paraná	30084080	El Palenque
+30	30084	Paraná	30084090	El Pingo
+30	30084	Paraná	30084095	El Ramblón
+30	30084	Paraná	30084240	Estación Sosa
+30	30084	Paraná	30084290	Gobernador Etchevehere
+30	30084	Paraná	30084100	Hasenkamp
+30	30084	Paraná	30084110	Hernandarias
+30	30084	Paraná	30084120	La Picada
+30	30084	Paraná	30084125	Las Colinas
+30	30084	Paraná	30084170	Las Garzas
+30	30084	Paraná	30084140	María Grande
+30	30084	Paraná	30084130	Paraje Las Tunas
+30	30084	Paraná	30084180	Pueblo Brugo
+30	30084	Paraná	30084185	Pueblo General Paz
+30	30084	Paraná	30084190	Puerto Curtiembre
+30	30084	Paraná	30084220	Sauce Pinto
+30	30084	Paraná	30084230	Seguí
+30	30084	Paraná	30084250	Tabossi
+30	30084	Paraná	30084260	Tezanos Pinto
+30	30084	Paraná	30084270	Viale
+30	30084	Paraná	30084280	Villa Fontana
+30	30084	Paraná	30084300	Villa Urquiza
+30	30088	San Salvador	30088010	General Campos
+30	30088	San Salvador	30088020	San Salvador
+30	30091	Tala	30091010	Altamirano Sur
+30	30091	Tala	30091030	Arroyo Clé
+30	30091	Tala	30091020	Durazno
+30	30091	Tala	30091040	Gobernador Echagüe
+30	30091	Tala	30091050	Gobernador Mansilla
+30	30091	Tala	30091060	Gobernador Sola
+30	30091	Tala	30091070	Guardamonte
+30	30091	Tala	30091080	Las Guachas
+30	30091	Tala	30091090	Maciá
+30	30091	Tala	30091095	Parque Balneario Delio Panizza
+30	30091	Tala	30091100	Rosario del Tala
+30	30098	Uruguay	30098010	Basavilbaso
+30	30098	Uruguay	30098020	Caseros
+30	30098	Uruguay	30098030	Colonia Elía
+30	30098	Uruguay	30098040	Concepción del Uruguay
+30	30098	Uruguay	30098060	Herrera
+30	30098	Uruguay	30098070	Las Moscas
+30	30098	Uruguay	30098080	Líbaros
+30	30098	Uruguay	30098090	1° de Mayo
+30	30098	Uruguay	30098100	Pronunciamiento
+30	30098	Uruguay	30098110	Rocamora
+30	30098	Uruguay	30098115	San Cipriano
+30	30098	Uruguay	30098140	San Justo
+30	30098	Uruguay	30098150	San Marcial
+30	30098	Uruguay	30098120	Santa Anita
+30	30098	Uruguay	30098130	Villa Mantero
+30	30105	Victoria	30105010	Antelo
+30	30105	Victoria	30105015	Ruta Provincial 11 Km 140
+30	30105	Victoria	30105035	Los Cerros
+30	30105	Victoria	30105040	Molino Doll
+30	30105	Victoria	30105043	Paraje La Tacuara
+30	30105	Victoria	30105045	Puerto Esquina
+30	30105	Victoria	30105050	Rincón de Nogoyá
+30	30105	Victoria	30105052	Rincón de Nogoyá Sur
+30	30105	Victoria	30105055	Rincón del Doll
+30	30105	Victoria	30105060	Victoria
+30	30113	Villaguay	30113010	Estación Raíces
+30	30113	Villaguay	30113020	Ingeniero Miguel Sajaroff
+30	30113	Villaguay	30113030	Jubileo
+30	30113	Villaguay	30113050	Paso de La Laguna
+30	30113	Villaguay	30113060	Villa Clara
+30	30113	Villaguay	30113070	Villa Domínguez
+30	30113	Villaguay	30113080	Villaguay
+34	34007	Bermejo	34007002	El Quemado
+34	34007	Bermejo	34007003	Fortín Soledad
+34	34007	Bermejo	34007005	Guadalcazar
+34	34007	Bermejo	34007006	La Libertad
+34	34007	Bermejo	34007007	La Rinconada
+34	34007	Bermejo	34007010	Laguna Yema
+34	34007	Bermejo	34007015	Lamadrid
+34	34007	Bermejo	34007020	Los Chiriguanos
+34	34007	Bermejo	34007030	Pozo de Maza
+34	34007	Bermejo	34007040	Pozo del Mortero
+34	34007	Bermejo	34007043	Río Muerto
+34	34007	Bermejo	34007045	Santa Isabel
+34	34007	Bermejo	34007047	Sumayén
+34	34007	Bermejo	34007050	Vaca Perdida
+34	34014	Formosa	34014005	Boca Riacho Pilagás
+34	34014	Formosa	34014010	Colonia Pastoril
+34	34014	Formosa	34014020	Formosa
+34	34014	Formosa	34014030	Gran Guardia
+34	34014	Formosa	34014040	Mariano Boedo
+34	34014	Formosa	34014050	Mojón de Fierro
+34	34014	Formosa	34014060	San Hilario
+34	34021	Laishi	34021010	Banco Payaguá
+34	34021	Laishi	34021020	General Lucio Victorio Mansilla
+34	34021	Laishi	34021030	Herradura
+34	34021	Laishi	34021040	San Francisco de Laishi
+34	34021	Laishi	34021050	Tatané
+34	34021	Laishi	34021060	Villa Escolar
+34	34028	Matacos	34028004	Campo Grande
+34	34028	Matacos	34028010	Ingeniero Guillermo Nicasio Juárez
+34	34028	Matacos	34028020	Misión Pozo Yacaré
+34	34035	Patiño	34035010	Bartolomé de las Casas
+34	34035	Patiño	34035012	Campo del Cielo
+34	34035	Patiño	34035014	Campo Tres Pozos
+34	34035	Patiño	34035015	Comunidad Aborigen Bartolomé de las Casas
+34	34035	Patiño	34035018	Colonia Javier Muñiz
+34	34035	Patiño	34035020	Colonia Sarmiento
+34	34035	Patiño	34035025	Colonia Unión Escuela
+34	34035	Patiño	34035030	Comandante Fontana
+34	34035	Patiño	34035033	Comunidad Aborigen Laka Wichi
+34	34035	Patiño	34035040	El Recreo
+34	34035	Patiño	34035050	Estanislao del Campo
+34	34035	Patiño	34035060	Fortín Cabo 1º Lugones
+34	34035	Patiño	34035070	Fortín Sargento 1° Leyes
+34	34035	Patiño	34035170	Villa General Manuel Belgrano
+34	34035	Patiño	34035080	Ibarreta
+34	34035	Patiño	34035090	Juan G. Bazán
+34	34035	Patiño	34035100	Las Lomitas
+34	34035	Patiño	34035110	Posta Cambio Zalazar
+34	34035	Patiño	34035120	Pozo del Tigre
+34	34035	Patiño	34035140	San Martín Dos
+34	34035	Patiño	34035130	San Martín I
+34	34035	Patiño	34035150	Subteniente Perín
+34	34035	Patiño	34035160	Villa General Güemes
+34	34042	Pilagás	34042010	Buena Vista
+34	34042	Pilagás	34042020	El Espinillo
+34	34042	Pilagás	34042030	Laguna Gallo
+34	34042	Pilagás	34042035	Loro Cue
+34	34042	Pilagás	34042040	Misión Tacaaglé
+34	34042	Pilagás	34042050	Portón Negro
+34	34042	Pilagás	34042060	Tres Lagunas
+34	34049	Pilcomayo	34049010	Clorinda
+34	34049	Pilcomayo	34049013	Colonia Sudamérica
+34	34049	Pilcomayo	34049020	Laguna Blanca
+34	34049	Pilcomayo	34049030	Laguna Naick Neck
+34	34049	Pilcomayo	34049035	Lucero Cué
+34	34049	Pilcomayo	34049040	Palma Sola
+34	34049	Pilcomayo	34049050	Puerto Pilcomayo
+34	34049	Pilcomayo	34049060	Riacho He-Hé
+34	34049	Pilcomayo	34049070	Riacho Negro
+34	34049	Pilcomayo	34049080	Siete Palmas
+34	34056	Pirané	34056010	Colonia Campo Villafañe
+34	34056	Pirané	34056020	El Colorado
+34	34056	Pirané	34056025	Los Matacos
+34	34056	Pirané	34056027	Monte Lindo
+34	34056	Pirané	34056030	Palo Santo
+34	34056	Pirané	34056040	Pirané
+34	34056	Pirané	34056050	Villa Kilómetro 213
+34	34063	Ramón Lista	34063005	Comunidad Aborigen Wichi Oblitaj
+34	34063	Ramón Lista	34063007	El Breal
+34	34063	Ramón Lista	34063020	El Chorro
+34	34063	Ramón Lista	34063010	El Potrillo
+34	34063	Ramón Lista	34063030	El Quebracho
+34	34063	Ramón Lista	34063040	La Brea
+34	34063	Ramón Lista	34063050	Las Cañitas
+34	34063	Ramón Lista	34063060	Lote 8
+34	34063	Ramón Lista	34063070	María Cristina
+34	34063	Ramón Lista	34063080	Misión San Andrés
+34	34063	Ramón Lista	34063090	Palmar Largo
+34	34063	Ramón Lista	34063100	Pozo La Chiva
+38	38007	Cochinoca	38007010	Abdón Castro Tolay
+38	38007	Cochinoca	38007020	Abra Pampa
+38	38007	Cochinoca	38007030	Abralaite
+38	38007	Cochinoca	38007035	Agua de Castilla
+38	38007	Cochinoca	38007040	Casabindo
+38	38007	Cochinoca	38007050	Cochinoca
+38	38007	Cochinoca	38007055	La Redonda
+38	38007	Cochinoca	38007060	Puesto del Marquéz
+38	38007	Cochinoca	38007063	Quebraleña
+38	38007	Cochinoca	38007067	Quera
+38	38007	Cochinoca	38007069	Rachaite
+38	38007	Cochinoca	38007070	Rinconadillas
+38	38007	Cochinoca	38007080	San Francisco de Alfarcito
+38	38007	Cochinoca	38007085	Santa Ana de la Puna
+38	38007	Cochinoca	38007090	Santuario de Tres Pozos
+38	38007	Cochinoca	38007093	Sauzalito
+38	38007	Cochinoca	38007095	Tambillos
+38	38007	Cochinoca	38007100	Tusaquillas
+38	38021	Dr. Manuel Belgrano	38021010	Guerrero
+38	38021	Dr. Manuel Belgrano	38021020	La Almona
+38	38021	Dr. Manuel Belgrano	38021030	León
+38	38021	Dr. Manuel Belgrano	38021040	Lozano
+38	38021	Dr. Manuel Belgrano	38021050	Ocloyas
+38	38021	Dr. Manuel Belgrano	38021060	San Salvador de Jujuy
+38	38021	Dr. Manuel Belgrano	38021070	Yala
+38	38021	Dr. Manuel Belgrano	38021065	Tesorero
+38	38014	El Carmen	38014010	Aguas Calientes
+38	38014	El Carmen	38014020	Barrio El Milagro
+38	38014	El Carmen	38014030	Barrio ODIJ
+38	38014	El Carmen	38014035	Barrio Parque La Ciénaga
+38	38014	El Carmen	38014040	El Carmen
+38	38014	El Carmen	38014042	La Ovejería
+38	38014	El Carmen	38014043	Las Pampitas
+38	38014	El Carmen	38014045	Los Ávalos
+38	38014	El Carmen	38014050	Los Lapachos
+38	38014	El Carmen	38014060	Manantiales
+38	38014	El Carmen	38014070	Monterrico
+38	38014	El Carmen	38014080	Pampa Blanca
+38	38014	El Carmen	38014090	Perico
+38	38014	El Carmen	38014100	Puesto Viejo
+38	38014	El Carmen	38014110	San Isidro
+38	38014	El Carmen	38014120	San Juancito
+38	38028	Humahuaca	38028003	Aparzo
+38	38028	Humahuaca	38028007	Cianzo
+38	38028	Humahuaca	38028010	Coctaca
+38	38028	Humahuaca	38028020	El Aguilar 
+38	38028	Humahuaca	38028030	Hipólito Yrigoyen
+38	38028	Humahuaca	38028040	Humahuaca
+38	38028	Humahuaca	38028042	Miyuyoc
+38	38028	Humahuaca	38028043	Palca de Aparzo
+38	38028	Humahuaca	38028047	Rodero
+38	38028	Humahuaca	38028050	Tres Cruces
+38	38028	Humahuaca	38028060	Uquía
+38	38028	Humahuaca	38028045	Varas
+38	38035	Ledesma	38035010	Bananal
+38	38035	Ledesma	38035020	Bermejito
+38	38035	Ledesma	38035030	Caimancito
+38	38035	Ledesma	38035040	Calilegua
+38	38035	Ledesma	38035050	Chalicán
+38	38035	Ledesma	38035060	Fraile Pintado
+38	38035	Ledesma	38035070	Libertad
+38	38035	Ledesma	38035080	Libertador General San Martín
+38	38035	Ledesma	38035090	Maíz Negro
+38	38035	Ledesma	38035100	Paulina
+38	38035	Ledesma	38035110	Yuto
+38	38042	Palpalá	38042040	Palpalá
+38	38042	Palpalá	38042010	Carahunco
+38	38042	Palpalá	38042020	Centro Forestal
+38	38049	Rinconada	38049003	Casa Colorada
+38	38049	Rinconada	38049007	Coyaguaima
+38	38049	Rinconada	38049010	Lagunillas de Farallón
+38	38049	Rinconada	38049020	Liviara
+38	38049	Rinconada	38049025	Loma Blanca
+38	38049	Rinconada	38049030	Nuevo Pirquitas
+38	38049	Rinconada	38049035	Orosmayo
+38	38049	Rinconada	38049040	Rinconada
+38	38049	Rinconada	38049050	Santo Domingo
+38	38056	San Antonio	38056010	El Ceibal
+38	38056	San Antonio	38056015	La Toma
+38	38056	San Antonio	38056016	Loma Hermosa
+38	38056	San Antonio	38056017	Los Alisos
+38	38056	San Antonio	38056018	Los Paños
+38	38056	San Antonio	38056020	Loteo Navea
+38	38056	San Antonio	38056025	Nuestra Señora del Rosario
+38	38056	San Antonio	38056030	San Antonio
+38	38063	San Pedro	38063010	Arrayanal
+38	38063	San Pedro	38063020	Arroyo Colorado
+38	38063	San Pedro	38063030	Don Emilio
+38	38063	San Pedro	38063040	El Acheral
+38	38063	San Pedro	38063050	El Puesto
+38	38063	San Pedro	38063060	El Quemado
+38	38063	San Pedro	38063080	La Manga
+38	38063	San Pedro	38063090	La Mendieta
+38	38063	San Pedro	38063095	Lobaton
+38	38063	San Pedro	38063110	Palos Blancos
+38	38063	San Pedro	38063130	Piedritas
+38	38063	San Pedro	38063140	Rodeito
+38	38063	San Pedro	38063150	Rosario de Río Grande
+38	38063	San Pedro	38063160	San Antonio
+38	38063	San Pedro	38063165	San Juan de Dios
+38	38063	San Pedro	38063170	San Lucas
+38	38063	San Pedro	38063180	San Pedro
+38	38063	San Pedro	38063070	La Esperanza
+38	38070	Santa Bárbara	38070010	El Fuerte
+38	38070	Santa Bárbara	38070020	El Piquete
+38	38070	Santa Bárbara	38070030	El Talar
+38	38070	Santa Bárbara	38070040	Palma Sola
+38	38070	Santa Bárbara	38070050	Puente Lavayén
+38	38070	Santa Bárbara	38070060	Santa Clara
+38	38070	Santa Bárbara	38070070	Vinalito
+38	38077	Santa Catalina	38077010	Casira
+38	38077	Santa Catalina	38077020	Ciénega de Paicone
+38	38077	Santa Catalina	38077030	Cieneguillas
+38	38077	Santa Catalina	38077040	Cusi Cusi
+38	38077	Santa Catalina	38077045	El Angosto
+38	38077	Santa Catalina	38077050	La Ciénega
+38	38077	Santa Catalina	38077060	Misarrumi
+38	38077	Santa Catalina	38077070	Oratorio
+38	38077	Santa Catalina	38077080	Paicone
+38	38077	Santa Catalina	38077090	San Juan de Oros
+38	38077	Santa Catalina	38077100	Santa Catalina
+38	38077	Santa Catalina	38077105	Timón Cruz
+38	38077	Santa Catalina	38077110	Yoscaba
+38	38084	Susques	38084010	Catua
+38	38084	Susques	38084020	Coranzuli
+38	38084	Susques	38084030	El Toro
+38	38084	Susques	38084040	Huáncar
+38	38084	Susques	38084045	Jama
+38	38084	Susques	38084050	Mina Providencia
+38	38084	Susques	38084055	Olacapato
+38	38084	Susques	38084060	Olaroz Chico
+38	38084	Susques	38084070	Pastos Chicos
+38	38084	Susques	38084080	Puesto Sey
+38	38084	Susques	38084090	San Juan de Quillaques
+38	38084	Susques	38084100	Susques
+38	38094	Tilcara	38094010	Colonia San José
+38	38094	Tilcara	38094020	Huacalera
+38	38094	Tilcara	38094030	Juella
+38	38094	Tilcara	38094035	Las Peras
+38	38094	Tilcara	38094040	Maimará
+38	38094	Tilcara	38094050	Tilcara
+38	38098	Tumbaya	38098010	Bárcena
+38	38098	Tumbaya	38098015	Comunidad Coquena
+38	38098	Tumbaya	38098020	El Moreno
+38	38098	Tumbaya	38098025	San Miguel de Colorados
+38	38098	Tumbaya	38098030	Purmamarca
+38	38098	Tumbaya	38098035	Pozo Colorado
+38	38098	Tumbaya	38098040	Tumbaya
+38	38098	Tumbaya	38098050	Volcán
+38	38105	Valle Grande	38105010	Caspalá
+38	38105	Valle Grande	38105020	Pampichuela
+38	38105	Valle Grande	38105030	San Francisco
+38	38105	Valle Grande	38105040	Santa Ana
+38	38105	Valle Grande	38105050	Valle Colorado
+38	38105	Valle Grande	38105060	Valle Grande
+38	38112	Yavi	38112010	Barrios
+38	38112	Yavi	38112020	Cangrejillos
+38	38112	Yavi	38112022	Cerro Colorado
+38	38112	Yavi	38112024	Chalguamayoc
+38	38112	Yavi	38112026	Corral Blanco
+38	38112	Yavi	38112030	El Cóndor
+38	38112	Yavi	38112033	Hornaditas de la Cordillera
+38	38112	Yavi	38112035	Inticancha
+38	38112	Yavi	38112040	La Intermedia
+38	38112	Yavi	38112050	La Quiaca
+38	38112	Yavi	38112060	Llulluchayoc
+38	38112	Yavi	38112070	Pumahuasi
+38	38112	Yavi	38112075	Suripugio
+38	38112	Yavi	38112080	Yavi
+38	38112	Yavi	38112090	Yavi Chico
+42	42007	Atreucó	42007010	Doblas
+42	42007	Atreucó	42007020	Macachín
+42	42007	Atreucó	42007030	Miguel Riglos
+42	42007	Atreucó	42007040	Rolón
+42	42007	Atreucó	42007050	Tomás M. Anchorena
+42	42014	Caleu Caleu	42014020	La Adela
+42	42014	Caleu Caleu	42014010	Anzoátegui
+42	42021	Capital	42021010	Anguil
+42	42021	Capital	42021020	Santa Rosa
+42	42028	Catriló	42028010	Catriló
+42	42028	Catriló	42028020	La Gloria
+42	42028	Catriló	42028030	Lonquimay
+42	42028	Catriló	42028040	Uriburu
+42	42049	Chalileo	42049010	Santa Isabel
+42	42056	Chapaleufú	42056010	Bernardo Larroudé
+42	42056	Chapaleufú	42056020	Ceballos
+42	42056	Chapaleufú	42056030	Coronel Hilario Lagos
+42	42056	Chapaleufú	42056040	Intendente Alvear
+42	42056	Chapaleufú	42056050	Sarah
+42	42056	Chapaleufú	42056060	Vértiz
+42	42063	Chical Co	42063010	Algarrobo del Águila
+42	42063	Chical Co	42063020	La Humada
+42	42035	Conhelo	42035010	Conhelo
+42	42035	Conhelo	42035020	Eduardo Castex
+42	42035	Conhelo	42035030	Mauricio Mayer
+42	42035	Conhelo	42035040	Monte Nievas
+42	42035	Conhelo	42035050	Rucanelo
+42	42035	Conhelo	42035060	Winifreda
+42	42042	Curacó	42042010	Gobernador Duval
+42	42042	Curacó	42042020	Puelches
+42	42070	Guatraché	42070010	Alpachiri
+42	42070	Guatraché	42070050	Santa Teresa
+42	42070	Guatraché	42070020	General Manuel J. Campos
+42	42070	Guatraché	42070030	Guatraché
+42	42070	Guatraché	42070040	Perú
+42	42077	Hucal	42077010	Abramo
+42	42077	Hucal	42077020	Bernasconi
+42	42077	Hucal	42077030	General San Martín
+42	42077	Hucal	42077040	Hucal
+42	42077	Hucal	42077050	Jacinto Aráuz
+42	42084	Lihuel Calel	42084010	Cuchillo Có
+42	42091	Limay Mahuida	42091010	La Reforma
+42	42091	Limay Mahuida	42091020	Limay Mahuida
+42	42098	Loventué	42098010	Carro Quemado
+42	42098	Loventué	42098020	Loventuel
+42	42098	Loventué	42098030	Luan Toro
+42	42098	Loventué	42098040	Telén
+42	42098	Loventué	42098050	Victorica
+42	42105	Maracó	42105010	Agustoni
+42	42105	Maracó	42105020	Dorila
+42	42105	Maracó	42105030	General Pico
+42	42105	Maracó	42105040	Speluzzi
+42	42105	Maracó	42105050	Trebolares
+42	42112	Puelén	42112020	25 de Mayo
+42	42112	Puelén	42112005	Casa de Piedra
+42	42112	Puelén	42112010	Puelén
+42	42119	Quemú Quemú	42119010	Colonia Barón
+42	42119	Quemú Quemú	42119020	Colonia San José
+42	42119	Quemú Quemú	42119030	Miguel Cané
+42	42119	Quemú Quemú	42119040	Quemú Quemú
+42	42119	Quemú Quemú	42119050	Relmo
+42	42119	Quemú Quemú	42119060	Villa Mirasol
+42	42126	Rancul	42126010	Caleufú
+42	42126	Rancul	42126020	Ingeniero Foster
+42	42126	Rancul	42126030	La Maruja
+42	42126	Rancul	42126040	Parera
+42	42126	Rancul	42126050	Pichi Huinca
+42	42126	Rancul	42126060	Quetrequén
+42	42126	Rancul	42126070	Rancul
+42	42133	Realicó	42133010	Adolfo Van Praet
+42	42133	Realicó	42133020	Alta Italia
+42	42133	Realicó	42133030	Damián Maisonave
+42	42133	Realicó	42133040	Embajador Martini
+42	42133	Realicó	42133050	Falucho
+42	42133	Realicó	42133060	Ingeniero Luiggi
+42	42133	Realicó	42133070	Ojeda
+42	42133	Realicó	42133080	Realicó
+42	42140	Toay	42140005	Cachirulo
+42	42140	Toay	42140007	Cuesta del Sur
+42	42140	Toay	42140010	Naicó
+42	42140	Toay	42140020	Toay
+42	42147	Trenel	42147010	Arata
+42	42147	Trenel	42147020	Metileo
+42	42147	Trenel	42147030	Trenel
+42	42154	Utracán	42154010	Ataliva Roca
+42	42154	Utracán	42154020	Chacharramendi
+42	42154	Utracán	42154030	Colonia Santa María
+42	42154	Utracán	42154040	General Acha
+42	42154	Utracán	42154050	Quehué
+42	42154	Utracán	42154060	Unanué
+46	46007	Arauco	46007010	Aimogasta
+46	46007	Arauco	46007030	Bañado de los Pantanos
+46	46007	Arauco	46007040	Estación Mazán
+46	46007	Arauco	46007045	Termas de Santa Teresita
+46	46007	Arauco	46007050	Villa Mazán
+46	46014	Capital	46014010	La Rioja
+46	46021	Castro Barros	46021010	Aminga
+46	46021	Castro Barros	46021020	Anillaco
+46	46021	Castro Barros	46021030	Anjullón
+46	46021	Castro Barros	46021040	Chuquis
+46	46021	Castro Barros	46021050	Los Molinos
+46	46021	Castro Barros	46021060	Pinchas
+46	46021	Castro Barros	46021070	San Pedro
+46	46021	Castro Barros	46021080	Santa Vera Cruz
+46	46035	Chamical	46035010	Chamical
+46	46035	Chamical	46035020	Polco
+46	46042	Chilecito	46042010	Chilecito
+46	46042	Chilecito	46042020	Colonia Anguinán
+46	46042	Chilecito	46042040	Colonia Malligasta
+46	46042	Chilecito	46042050	Colonia Vichigasta
+46	46042	Chilecito	46042060	Guanchín
+46	46042	Chilecito	46042070	Malligasta
+46	46042	Chilecito	46042080	Miranda
+46	46042	Chilecito	46042090	Nonogasta
+46	46042	Chilecito	46042100	San Nicolás
+46	46042	Chilecito	46042110	Santa Florentina
+46	46042	Chilecito	46042120	Sañogasta
+46	46042	Chilecito	46042130	Tilimuqui
+46	46042	Chilecito	46042140	Vichigasta
+46	46049	Famatina	46049010	Alto Carrizal
+46	46049	Famatina	46049020	Angulos
+46	46049	Famatina	46049030	Antinaco
+46	46049	Famatina	46049040	Bajo Carrizal
+46	46049	Famatina	46049050	Campanas
+46	46049	Famatina	46049060	Chañarmuyo
+46	46049	Famatina	46049070	Famatina
+46	46049	Famatina	46049080	La Cuadra
+46	46049	Famatina	46049090	Pituil
+46	46049	Famatina	46049100	Plaza Vieja
+46	46049	Famatina	46049110	Santa Cruz
+46	46049	Famatina	46049120	Santo Domingo
+46	46056	Ángel Vicente Peñaloza	46056010	Punta de los Llanos
+46	46056	Ángel Vicente Peñaloza	46056020	Tama
+46	46063	General Belgrano	46063010	Castro Barros
+46	46063	General Belgrano	46063020	Chañar
+46	46063	General Belgrano	46063030	Loma Blanca
+46	46063	General Belgrano	46063040	Olta
+46	46028	General Felipe Varela	46028010	Aicuña
+46	46028	General Felipe Varela	46028020	Guandacol
+46	46028	General Felipe Varela	46028030	Los Palacios
+46	46028	General Felipe Varela	46028040	Pagancillo
+46	46028	General Felipe Varela	46028050	Villa Unión
+46	46070	General Juan Facundo Quiroga	46070010	Malanzán
+46	46070	General Juan Facundo Quiroga	46070020	Nácate
+46	46070	General Juan Facundo Quiroga	46070030	Portezuelo
+46	46070	General Juan Facundo Quiroga	46070040	San Antonio
+46	46077	General Lamadrid	46077010	Villa Castelli
+46	46084	General Ortiz de Ocampo	46084010	Ambil
+46	46084	General Ortiz de Ocampo	46084020	Colonia Ortiz de Ocampo
+46	46084	General Ortiz de Ocampo	46084030	Milagro
+46	46084	General Ortiz de Ocampo	46084040	Olpas
+46	46084	General Ortiz de Ocampo	46084050	Santa Rita de Catuna
+46	46091	General San Martín	46091010	Ulapes
+46	46105	Independencia	46105010	Amaná
+46	46105	Independencia	46105020	Patquía
+46	46112	Rosario Vera Peñaloza	46112010	Chepes
+46	46112	Rosario Vera Peñaloza	46112020	Desiderio Tello
+46	46119	San Blas de los Sauces	46119010	Salicas - San Blas
+46	46126	Sanagasta	46126010	Villa Sanagasta
+46	46098	Vinchina	46098010	Jagüé
+46	46098	Vinchina	46098020	Villa San José de Vinchina
+50	50007	Capital	50007010	Mendoza
+50	50014	General Alvear	50014010	Bowen
+50	50014	General Alvear	50014015	Canalejas
+50	50014	General Alvear	50014020	Carmensa
+50	50014	General Alvear	50014025	El Ceibo
+50	50014	General Alvear	50014030	General Alvear
+50	50014	General Alvear	50014040	Los Compartos
+50	50021	Godoy Cruz	50021010	Godoy Cruz
+50	50028	Guaymallén	50028010	Colonia Segovia
+50	50028	Guaymallén	50028020	Guaymallén
+50	50028	Guaymallén	50028030	La Primavera
+50	50028	Guaymallén	50028040	Los Corralitos
+50	50028	Guaymallén	50028050	Puente de Hierro
+50	50035	Junín	50035010	Ingeniero Giagnoni
+50	50035	Junín	50035020	Junín
+50	50035	Junín	50035030	La Colonia
+50	50035	Junín	50035040	Los Barriales
+50	50035	Junín	50035050	Medrano
+50	50035	Junín	50035120	Mundo Nuevo
+50	50035	Junín	50035060	Phillips
+50	50035	Junín	50035070	Rodríguez Peña
+50	50042	La Paz	50042010	Desaguadero
+50	50042	La Paz	50042020	La Paz
+50	50042	La Paz	50042030	Villa Antigua
+50	50049	Las Heras	50049015	Cacheuta
+50	50049	Las Heras	50049030	Jocolí
+50	50049	Las Heras	50049040	Las Cuevas
+50	50049	Las Heras	50049050	Las Heras
+50	50049	Las Heras	50049060	Los Penitentes
+50	50049	Las Heras	50049080	Polvaredas
+50	50049	Las Heras	50049090	Puente del Inca
+50	50049	Las Heras	50049100	Punta de Vacas
+50	50049	Las Heras	50049110	Uspallata
+50	50049	Las Heras	50049120	Villa Clarita
+50	50056	Lavalle	50056010	Barrio Alto del Olvido
+50	50056	Lavalle	50056015	Barrio El Carmen
+50	50056	Lavalle	50056020	Barrio Jocolí II
+50	50056	Lavalle	50056030	Barrio La Palmera
+50	50056	Lavalle	50056040	Barrio La Pega
+50	50056	Lavalle	50056050	Barrio Lagunas de Bartoluzzi
+50	50056	Lavalle	50056060	Barrio Los Jarilleros
+50	50056	Lavalle	50056070	Barrio Los Olivos
+50	50056	Lavalle	50056072	Barrio Santa María
+50	50056	Lavalle	50056073	Barrio Santa Rita
+50	50056	Lavalle	50056075	Barrio Virgen del Rosario
+50	50056	Lavalle	50056078	Colonia Italia
+50	50056	Lavalle	50056080	Costa de Araujo
+50	50056	Lavalle	50056085	El Chilcal
+50	50056	Lavalle	50056090	El Paramillo
+50	50056	Lavalle	50056100	El Vergel
+50	50056	Lavalle	50056110	Ingeniero Gustavo André
+50	50056	Lavalle	50056120	Jocolí
+50	50056	Lavalle	50056130	Jocolí Viejo
+50	50056	Lavalle	50056135	La Asunción
+50	50056	Lavalle	50056140	Las Violetas
+50	50056	Lavalle	50056150	3 de Mayo
+50	50056	Lavalle	50056160	Villa Tulumaya
+50	50063	Luján de Cuyo	50063010	Agrelo
+50	50063	Luján de Cuyo	50063020	Barrio Perdriel IV
+50	50063	Luján de Cuyo	50063030	Cacheuta
+50	50063	Luján de Cuyo	50063040	Costa Flores
+50	50063	Luján de Cuyo	50063050	El Carrizal
+50	50063	Luján de Cuyo	50063060	El Salto
+50	50063	Luján de Cuyo	50063080	Las Vegas
+50	50063	Luján de Cuyo	50063090	Luján de Cuyo
+50	50063	Luján de Cuyo	50063070	Las Compuertas
+50	50063	Luján de Cuyo	50063100	Perdriel
+50	50063	Luján de Cuyo	50063095	Mayor Drummond Este
+50	50063	Luján de Cuyo	50063110	Potrerillos
+50	50063	Luján de Cuyo	50063120	Ugarteche
+50	50070	Maipú	50070010	Barrancas
+50	50070	Maipú	50070025	Barrio 9 de Julio
+50	50070	Maipú	50070020	Barrio Jesús de Nazaret
+50	50070	Maipú	50070030	Cruz de Piedra
+50	50070	Maipú	50070040	El Pedregal
+50	50070	Maipú	50070050	Fray Luis Beltrán
+50	50070	Maipú	50070060	Maipú
+50	50070	Maipú	50070080	Russell
+50	50070	Maipú	50070070	Rodeo del Medio
+50	50070	Maipú	50070090	San Roque
+50	50077	Malargüe	50077010	Agua Escondida
+50	50077	Malargüe	50077020	Bardas Blancas
+50	50077	Malargüe	50077025	El Manzano
+50	50077	Malargüe	50077028	La Junta
+50	50077	Malargüe	50077030	Las Leñas
+50	50077	Malargüe	50077040	Malargüe
+50	50077	Malargüe	50077050	Ranquil Norte
+50	50084	Rivadavia	50084140	Rivadavia
+50	50084	Rivadavia	50084110	Medrano
+50	50084	Rivadavia	50084010	Andrade
+50	50084	Rivadavia	50084017	Barrio Cooperativa Eléctrica
+50	50084	Rivadavia	50084020	Barrio Cooperativa Los Campamentos
+50	50084	Rivadavia	50084023	Barrio Cooperativa Reducción
+50	50084	Rivadavia	50084030	Barrio Rivadavia
+50	50084	Rivadavia	50084040	El Mirador
+50	50084	Rivadavia	50084050	La Central
+50	50084	Rivadavia	50084060	La Esperanza
+50	50084	Rivadavia	50084070	La Florida
+50	50084	Rivadavia	50084080	La Libertad
+50	50084	Rivadavia	50084090	Los Árboles
+50	50084	Rivadavia	50084100	Los Campamentos
+50	50084	Rivadavia	50084120	Mundo Nuevo
+50	50084	Rivadavia	50084130	Reducción de Abajo
+50	50084	Rivadavia	50084150	Santa María de Oro
+50	50091	San Carlos	50091005	Barrio Carrasco
+50	50091	San Carlos	50091010	Barrio El Cepillo
+50	50091	San Carlos	50091020	Chilecito
+50	50091	San Carlos	50091060	San Carlos
+50	50091	San Carlos	50091040	La Consulta
+50	50091	San Carlos	50091050	Pareditas
+50	50091	San Carlos	50091070	Tres Esquinas
+50	50091	San Carlos	50091080	Villa El Chacón
+50	50098	San Martín	50098010	Alto Salvador
+50	50098	San Martín	50098012	Alto Salvador Sur
+50	50098	San Martín	50098020	Alto Verde
+50	50098	San Martín	50098030	Barrio Chivilcoy
+50	50098	San Martín	50098040	Barrio Emanuel
+50	50098	San Martín	50098045	Barrio La Estación
+50	50098	San Martín	50098050	Barrio Los Charabones
+50	50098	San Martín	50098055	Barrio Nuestra Señora de Fátima
+50	50098	San Martín	50098057	Capilla San Expedito
+50	50098	San Martín	50098060	Chapanay
+50	50098	San Martín	50098070	Chivilcoy
+50	50098	San Martín	50098073	El Espino
+50	50098	San Martín	50098077	El Ramblón
+50	50098	San Martín	50098079	Las Chimbas
+50	50098	San Martín	50098080	Montecaseros
+50	50098	San Martín	50098090	Nueva California
+50	50098	San Martín	50098100	San Martín
+50	50098	San Martín	50098110	Tres Porteñas
+50	50098	San Martín	50098111	Barrio Nueva California Sur
+50	50105	San Rafael	50105020	Barrio El Nevado
+50	50105	San Rafael	50105030	Barrio Empleados de Comercio
+50	50105	San Rafael	50105040	Barrio Intendencia
+50	50105	San Rafael	50105050	Capitán Montoya
+50	50105	San Rafael	50105060	Cuadro Benegas
+50	50105	San Rafael	50105070	El Nihuil
+50	50105	San Rafael	50105080	El Sosneado
+50	50105	San Rafael	50105090	El Tropezón
+50	50105	San Rafael	50105100	Goudge
+50	50105	San Rafael	50105110	Jaime Prats
+50	50105	San Rafael	50105120	La Llave Nueva
+50	50105	San Rafael	50105130	Las Malvinas
+50	50105	San Rafael	50105150	Monte Comán
+50	50105	San Rafael	50105160	Pobre Diablo
+50	50105	San Rafael	50105170	Punta del Agua
+50	50105	San Rafael	50105180	Rama Caída
+50	50105	San Rafael	50105190	Real del Padre
+50	50105	San Rafael	50105200	Salto de las Rosas
+50	50105	San Rafael	50105210	San Rafael
+50	50105	San Rafael	50105215	El Toledano Norte
+50	50105	San Rafael	50105220	25 de Mayo
+50	50105	San Rafael	50105230	Villa Atuel
+50	50105	San Rafael	50105240	Villa Atuel Norte
+50	50112	Santa Rosa	50112010	Barrio 12 de Octubre
+50	50112	Santa Rosa	50112020	Barrio María Auxiliadora
+50	50112	Santa Rosa	50112030	Barrio Molina Cabrera
+50	50112	Santa Rosa	50112040	La Dormida
+50	50112	Santa Rosa	50112050	Las Catitas
+50	50112	Santa Rosa	50112060	Santa Rosa
+50	50112	Santa Rosa	50112077	El Ramblón
+50	50119	Tunuyán	50119010	Barrio San Cayetano
+50	50119	Tunuyán	50119020	Campo Los Andes
+50	50119	Tunuyán	50119030	Colonia Las Rosas
+50	50119	Tunuyán	50119035	El Algarrobo
+50	50119	Tunuyán	50119040	El Manzano
+50	50119	Tunuyán	50119045	La Riojita
+50	50119	Tunuyán	50119050	Los Sauces
+50	50119	Tunuyán	50119060	Tunuyán
+50	50119	Tunuyán	50119065	Villa Arroyo Grande
+50	50119	Tunuyán	50119067	Villa Seca
+50	50119	Tunuyán	50119070	Vista Flores
+50	50126	Tupungato	50126010	Barrio Belgrano Norte
+50	50126	Tupungato	50126015	Barrio José Hernández
+50	50126	Tupungato	50126020	Cordón del Plata
+50	50126	Tupungato	50126030	El Peral
+50	50126	Tupungato	50126035	El Zampal
+50	50126	Tupungato	50126040	La Arboleda
+50	50126	Tupungato	50126043	La Arboleda Sur
+50	50126	Tupungato	50126045	Loteo Moyano
+50	50126	Tupungato	50126050	San José
+50	50126	Tupungato	50126060	Tupungato
+54	54007	Apóstoles	54007010	Apóstoles
+54	54007	Apóstoles	54007020	Azara
+54	54007	Apóstoles	54007025	Barrio Rural
+54	54007	Apóstoles	54007030	Estación Apóstoles
+54	54007	Apóstoles	54007037	Paraje Monyolito
+54	54007	Apóstoles	54007040	Pindapoy
+54	54007	Apóstoles	54007050	Rincón de Azara
+54	54007	Apóstoles	54007060	San José
+54	54007	Apóstoles	54007070	Tres Capones
+54	54014	Cainguás	54014010	Aristóbulo del Valle
+54	54014	Cainguás	54014020	Campo Grande
+54	54014	Cainguás	54014025	Cerro Moreno
+54	54014	Cainguás	54014030	Dos de Mayo
+54	54014	Cainguás	54014050	Barrio Bernardino Rivadavia
+54	54014	Cainguás	54014055	Kilómetro 17
+54	54014	Cainguás	54014060	1° de Mayo
+54	54014	Cainguás	54014070	Pueblo Illia
+54	54014	Cainguás	54014080	Salto Encantado
+54	54021	Candelaria	54021005	Barrio del Lago
+54	54021	Candelaria	54021010	Bonpland
+54	54021	Candelaria	54021020	Candelaria
+54	54021	Candelaria	54021030	Cerro Corá
+54	54021	Candelaria	54021040	Loreto
+54	54021	Candelaria	54021050	Mártires
+54	54021	Candelaria	54021060	Profundidad
+54	54021	Candelaria	54021070	Puerto Santa Ana
+54	54021	Candelaria	54021080	Santa Ana
+54	54028	Capital	54028010	Garupá
+54	54028	Capital	54028020	Nemesio Parma
+54	54028	Capital	54028030	Posadas
+54	54028	Capital	54028040	Posadas (Expansión)
+54	54028	Capital	54028007	Fachinal
+54	54035	Concepción	54035010	Barra Concepción
+54	54035	Concepción	54035020	Concepción de la Sierra
+54	54035	Concepción	54035030	La Corita
+54	54035	Concepción	54035040	Santa María
+54	54042	Eldorado	54042010	Colonia Victoria
+54	54042	Eldorado	54042020	Eldorado
+54	54042	Eldorado	54042030	María Magdalena
+54	54042	Eldorado	54042035	Nueva Delicia
+54	54042	Eldorado	54042040	9 de Julio Kilómetro 28
+54	54042	Eldorado	54042050	9 de Julio Kilómetro 20
+54	54042	Eldorado	54042055	Pueblo Nuevo
+54	54042	Eldorado	54042060	Puerto Mado
+54	54042	Eldorado	54042070	Puerto Pinares
+54	54042	Eldorado	54042080	Santiago de Liniers
+54	54042	Eldorado	54042090	Valle Hermoso
+54	54042	Eldorado	54042100	Villa Roulet
+54	54049	General Manuel Belgrano	54049020	Bernardo de Irigoyen
+54	54049	General Manuel Belgrano	54049025	Caburei
+54	54049	General Manuel Belgrano	54049010	Comandante Andresito
+54	54049	General Manuel Belgrano	54049030	Dos Hermanas
+54	54049	General Manuel Belgrano	54049035	Escuela 357
+54	54049	General Manuel Belgrano	54049040	Integración
+54	54049	General Manuel Belgrano	54049041	Juan Manuel de Rosas
+54	54049	General Manuel Belgrano	54049042	Kilómetro 130
+54	54049	General Manuel Belgrano	54049060	Laguna Azul
+54	54049	General Manuel Belgrano	54049043	Piñalito Norte
+54	54049	General Manuel Belgrano	54049045	Puerto Andresito
+54	54049	General Manuel Belgrano	54049047	Puerto Deseado
+54	54049	General Manuel Belgrano	54049050	San Antonio
+54	54056	Guaraní	54056005	Barrio San Isidro
+54	54056	Guaraní	54056010	El Soberbio
+54	54056	Guaraní	54056020	Fracrán
+54	54056	Guaraní	54056022	Kilómetro 74
+54	54056	Guaraní	54056023	Kilómetro 84
+54	54056	Guaraní	54056025	Margarita
+54	54056	Guaraní	54056026	Paraíso
+54	54056	Guaraní	54056027	Picada 37
+54	54056	Guaraní	54056029	San Alfonso
+54	54056	Guaraní	54056030	San Vicente
+54	54056	Guaraní	54056040	Sargento Cabral
+54	54063	Iguazú	54063040	Colonia Wanda
+54	54063	Iguazú	54063020	Puerto Libertad
+54	54063	Iguazú	54063010	Puerto Esperanza
+54	54063	Iguazú	54063030	Puerto Iguazú
+54	54063	Iguazú	54063033	San Cayetano
+54	54063	Iguazú	54063035	Villa Cooperativa
+54	54070	Leandro N. Alem	54070010	Almafuerte
+54	54070	Leandro N. Alem	54070020	Arroyo del Medio
+54	54070	Leandro N. Alem	54070030	Caá Yarí
+54	54070	Leandro N. Alem	54070040	Cerro Azul
+54	54070	Leandro N. Alem	54070050	Dos Arroyos
+54	54070	Leandro N. Alem	54070060	Gobernador López
+54	54070	Leandro N. Alem	54070065	Kilómetro 26
+54	54070	Leandro N. Alem	54070070	Leandro N. Alem
+54	54070	Leandro N. Alem	54070090	Villa Libertad
+54	54070	Leandro N. Alem	54070080	Olegario V. Andrade
+54	54077	Libertador General San Martín	54077005	Aldea Perutí
+54	54077	Libertador General San Martín	54077010	Capioví
+54	54077	Libertador General San Martín	54077015	Capioviciño
+54	54077	Libertador General San Martín	54077020	El Alcázar
+54	54077	Libertador General San Martín	54077030	Garuhapé
+54	54077	Libertador General San Martín	54077035	Los Teales
+54	54077	Libertador General San Martín	54077040	Mbopicuá
+54	54077	Libertador General San Martín	54077050	Puerto Leoni
+54	54077	Libertador General San Martín	54077060	Puerto Rico
+54	54077	Libertador General San Martín	54077070	Ruiz de Montoya
+54	54077	Libertador General San Martín	54077080	San Alberto
+54	54077	Libertador General San Martín	54077090	San Gotardo
+54	54077	Libertador General San Martín	54077100	San Miguel
+54	54077	Libertador General San Martín	54077110	Villa Akerman
+54	54077	Libertador General San Martín	54077120	Villa Urrutia
+54	54084	Montecarlo	54084003	Barrio Cuatro Bocas
+54	54084	Montecarlo	54084005	Barrio Guatambú
+54	54084	Montecarlo	54084007	Barrio Itá
+54	54084	Montecarlo	54084008	Barrio Santa Teresita
+54	54084	Montecarlo	54084010	Caraguatay
+54	54084	Montecarlo	54084020	Laharrague
+54	54084	Montecarlo	54084030	Montecarlo
+54	54084	Montecarlo	54084040	Piray Kilómetro 18
+54	54084	Montecarlo	54084050	Puerto Piray
+54	54084	Montecarlo	54084060	Tarumá
+54	54084	Montecarlo	54084070	Villa Parodi
+54	54084	Montecarlo	54084071	Villa Parodi
+54	54091	Oberá	54091013	Barrio Escuela 461
+54	54091	Oberá	54091014	Barrio Escuela 461
+54	54091	Oberá	54091020	Campo Ramón
+54	54091	Oberá	54091030	Campo Viera
+54	54091	Oberá	54091010	Colonia Alberdi
+54	54091	Oberá	54091033	Colonia Finlandesa
+54	54091	Oberá	54091035	Colonia Julio U. Martín
+54	54091	Oberá	54091040	El Salto
+54	54091	Oberá	54091050	General Alvear
+54	54091	Oberá	54091060	Guaraní
+54	54091	Oberá	54091065	La Africana
+54	54091	Oberá	54091070	Los Helechos
+54	54091	Oberá	54091080	Oberá
+54	54091	Oberá	54091017	Barrio Escuela 633
+54	54091	Oberá	54091090	Panambí
+54	54091	Oberá	54091100	Panambí Kilómetro 8
+54	54091	Oberá	54091105	Panambí Kilómetro 15
+54	54091	Oberá	54091106	Paraje Itá Chica
+54	54091	Oberá	54091107	Paraje La Reserva
+54	54091	Oberá	54091108	Paraje Ruta 6
+54	54091	Oberá	54091109	Paraje Sargento Cabral
+54	54091	Oberá	54091110	San Martín
+54	54091	Oberá	54091120	Villa Bonita
+54	54098	San Ignacio	54098003	Barrio El Francés
+54	54098	San Ignacio	54098005	Barrio Tungoil
+54	54098	San Ignacio	54098006	Barrio 20 de Junio
+54	54098	San Ignacio	54098007	Colonia Gisela
+54	54098	San Ignacio	54098008	Colonia Gisela
+54	54098	San Ignacio	54098010	Colonia Polana
+54	54098	San Ignacio	54098020	Corpus Christi
+54	54098	San Ignacio	54098030	Domingo Savio
+54	54098	San Ignacio	54098040	General Urquiza
+54	54098	San Ignacio	54098050	Gobernador Roca
+54	54098	San Ignacio	54098060	Helvecia
+54	54098	San Ignacio	54098070	Hipólito Yrigoyen
+54	54098	San Ignacio	54098080	Jardín América
+54	54098	San Ignacio	54098085	Los Teales
+54	54098	San Ignacio	54098090	Oasis
+54	54098	San Ignacio	54098093	Paraje Teyú Cuaré
+54	54098	San Ignacio	54098095	Pastoreo
+54	54098	San Ignacio	54098097	Puerto Nuevo
+54	54098	San Ignacio	54098100	Roca Chica
+54	54098	San Ignacio	54098110	San Ignacio
+54	54098	San Ignacio	54098120	Santo Pipó
+54	54098	San Ignacio	54098130	Tacuara
+54	54098	San Ignacio	54098140	Yacutinga
+54	54105	San Javier	54105010	Florentino Ameghino
+54	54105	San Javier	54105020	Itacaruaré
+54	54105	San Javier	54105030	Mojón Grande
+54	54105	San Javier	54105035	Paraje Los Cedros
+54	54105	San Javier	54105040	San Javier
+54	54112	San Pedro	54112010	Cruce Caballero
+54	54112	San Pedro	54112012	Escuela 357
+54	54112	San Pedro	54112020	Paraíso
+54	54112	San Pedro	54112030	Piñalito Sur
+54	54112	San Pedro	54112035	Pozo Azul
+54	54112	San Pedro	54112040	San Pedro
+54	54112	San Pedro	54112050	Tobuna
+54	54119	25 de Mayo	54119010	Alba Posse
+54	54119	25 de Mayo	54119020	Alicia Alta
+54	54119	25 de Mayo	54119025	Alicia Baja
+54	54119	25 de Mayo	54119028	Colonia Acaraguá
+54	54119	25 de Mayo	54119030	Colonia Aurora
+54	54119	25 de Mayo	54119032	Colonia 9 de Julio
+54	54119	25 de Mayo	54119034	Mai Bao
+54	54119	25 de Mayo	54119035	Paraje Aristóbulo Chico
+54	54119	25 de Mayo	54119036	Paraje Dorado
+54	54119	25 de Mayo	54119037	Primavera
+54	54119	25 de Mayo	54119040	San Francisco de Asís
+54	54119	25 de Mayo	54119050	Santa Rita
+54	54119	25 de Mayo	54119060	25 de Mayo
+58	58007	Aluminé	58007010	Aluminé
+58	58007	Aluminé	58007015	Moquehue
+58	58007	Aluminé	58007020	Villa Pehuenia
+58	58014	Añelo	58014005	Aguada San Roque
+58	58014	Añelo	58014010	Añelo
+58	58014	Añelo	58014015	Los Chihuidos
+58	58014	Añelo	58014020	San Patricio del Chañar
+58	58021	Catán Lil	58021010	Las Coloradas
+58	58021	Catán Lil	58021020	Pilo Lil
+58	58042	Chos Malal	58042010	Chos Malal
+58	58042	Chos Malal	58042013	Cochico
+58	58042	Chos Malal	58042015	El Alamito
+58	58042	Chos Malal	58042020	Tricao Malal
+58	58042	Chos Malal	58042030	Los Menucos
+58	58028	Collón Curá	58028010	Piedra del Águila
+58	58028	Collón Curá	58028020	Santo Tomás
+58	58035	Confluencia	58035010	Arroyito
+58	58035	Confluencia	58035012	Azul Pescador
+58	58035	Confluencia	58035014	Bahía Bonita
+58	58035	Confluencia	58035016	Bahía de Playas
+58	58035	Confluencia	58035040	Cutral Co
+58	58035	Confluencia	58035090	Plaza Huincul
+58	58035	Confluencia	58035055	La Península
+58	58035	Confluencia	58035057	Los Barreales
+58	58035	Confluencia	58035060	Mari Menuco
+58	58035	Confluencia	58035070	Neuquén
+58	58035	Confluencia	58035100	Plottier
+58	58035	Confluencia	58035030	Centenario
+58	58035	Confluencia	58035140	Vista Alegre Sur
+58	58035	Confluencia	58035107	Sauzal Bonito
+58	58035	Confluencia	58035110	Senillosa
+58	58035	Confluencia	58035115	Villa del Sol
+58	58035	Confluencia	58035120	Villa El Chocón
+58	58035	Confluencia	58035125	Villa Tenis Club Neuquén
+58	58035	Confluencia	58035130	Vista Alegre Norte
+58	58035	Confluencia	58035150	Yacht Club Neuquén
+58	58049	Huiliches	58049010	Junín de los Andes
+58	58049	Huiliches	58049020	Villa Huechulafquen
+58	58049	Huiliches	58049030	Villa Lolog
+58	58056	Lácar	58056003	Aeropuerto Chapelco
+58	58056	Lácar	58056005	Parque Diana
+58	58056	Lácar	58056010	San Martín de los Andes
+58	58056	Lácar	58056020	Villa Lago Meliquina
+58	58063	Loncopué	58063010	Chorriaca
+58	58063	Loncopué	58063020	Loncopué
+58	58070	Los Lagos	58070010	Villa La Angostura
+58	58070	Los Lagos	58070020	Villa Traful
+58	58077	Minas	58077010	Andacollo
+58	58077	Minas	58077013	Butalón Norte
+58	58077	Minas	58077017	Guañacos
+58	58077	Minas	58077020	Huinganco
+58	58077	Minas	58077030	Las Ovejas
+58	58077	Minas	58077040	Los Miches
+58	58077	Minas	58077050	Manzano Amargo
+58	58077	Minas	58077060	Varvarco
+58	58077	Minas	58077070	Los Carrizos
+58	58084	Ñorquín	58084010	Caviahue
+58	58084	Ñorquín	58084020	Copahue
+58	58084	Ñorquín	58084030	El Cholar
+58	58084	Ñorquín	58084040	El Huecú
+58	58084	Ñorquín	58084050	Taquimilán
+58	58091	Pehuenches	58091010	Barrancas
+58	58091	Pehuenches	58091020	Buta Ranquil
+58	58091	Pehuenches	58091030	Octavio Pico
+58	58091	Pehuenches	58091040	Rincón de los Sauces
+58	58098	Picún Leufú	58098003	Chocón Medio
+58	58098	Picún Leufú	58098005	El Sauce
+58	58098	Picún Leufú	58098010	Paso Aguerre
+58	58098	Picún Leufú	58098020	Picún Leufú
+58	58105	Picunches	58105010	Bajada del Agrio
+58	58105	Picunches	58105020	La Buitrera
+58	58105	Picunches	58105030	Las Lajas
+58	58105	Picunches	58105040	Quili Malal
+58	58112	Zapala	58112005	El Cristo
+58	58112	Zapala	58112010	Los Catutos
+58	58112	Zapala	58112020	Mariano Moreno
+58	58112	Zapala	58112030	Ramón M. Castro
+58	58112	Zapala	58112040	Zapala
+62	62007	Adolfo Alsina	62007010	Bahía Creek
+62	62007	Adolfo Alsina	62007020	El Cóndor
+62	62007	Adolfo Alsina	62007030	El Juncal
+62	62007	Adolfo Alsina	62007035	El Pescadero
+62	62007	Adolfo Alsina	62007080	Fuerte San Javier
+62	62007	Adolfo Alsina	62007040	Guardia Mitre
+62	62007	Adolfo Alsina	62007050	La Lobería
+62	62007	Adolfo Alsina	62007060	Loteo Costa de Río
+62	62007	Adolfo Alsina	62007070	Pozo Salado
+62	62007	Adolfo Alsina	62007090	Viedma
+62	62014	Avellaneda	62014010	Barrio Unión
+62	62014	Avellaneda	62014020	Chelforó
+62	62014	Avellaneda	62014030	Chimpay
+62	62014	Avellaneda	62014040	Choele Choel
+62	62014	Avellaneda	62014050	Coronel Belisle
+62	62014	Avellaneda	62014060	Darwin
+62	62014	Avellaneda	62014070	Lamarque
+62	62014	Avellaneda	62014080	Luis Beltrán
+62	62014	Avellaneda	62014090	Pomona
+62	62021	Bariloche	62021020	Colonia Suiza
+62	62021	Bariloche	62021030	El Bolsón
+62	62021	Bariloche	62021040	El Foyel
+62	62021	Bariloche	62021042	Lago Moreno
+62	62021	Bariloche	62021044	Las Cartas
+62	62021	Bariloche	62021045	Los Repollos
+62	62021	Bariloche	62021047	Mallín Ahogado
+62	62021	Bariloche	62021050	Río Villegas
+62	62021	Bariloche	62021060	San Carlos de Bariloche
+62	62021	Bariloche	62021080	Villa Catedral
+62	62021	Bariloche	62021110	Villa Mascardi
+62	62028	Conesa	62028010	Barrio Colonia Conesa
+62	62028	Conesa	62028030	Barrio Planta Compresora de Gas
+62	62028	Conesa	62028020	General Conesa
+62	62035	El Cuy	62035010	Aguada Guzmán
+62	62035	El Cuy	62035020	Cerro Policía
+62	62035	El Cuy	62035030	El Cuy
+62	62035	El Cuy	62035040	Las Perlas
+62	62035	El Cuy	62035050	Mencué
+62	62035	El Cuy	62035060	Naupa Huen
+62	62035	El Cuy	62035070	Paso Córdova
+62	62035	El Cuy	62035080	Valle Azul
+62	62042	General Roca	62042010	Allen
+62	62042	General Roca	62042030	Barda del Medio
+62	62042	General Roca	62042035	Barrio Alta Barda
+62	62042	General Roca	62042040	Barrio Blanco
+62	62042	General Roca	62042045	Barrio Buenos Aires Chico
+62	62042	General Roca	62042050	Barrio Calle Ciega N° 10
+62	62042	General Roca	62042060	Barrio Calle Ciega N° 6
+62	62042	General Roca	62042070	Barrio Canale
+62	62042	General Roca	62042075	Barrio Ceferino
+62	62042	General Roca	62042080	Barrio Chacra Monte
+62	62042	General Roca	62042090	Barrio Costa Este
+62	62042	General Roca	62042110	Barrio Costa Oeste
+62	62042	General Roca	62042115	Barrio Destacamento
+62	62042	General Roca	62042120	Barrio El Labrador
+62	62042	General Roca	62042130	Barrio El Maruchito
+62	62042	General Roca	62042140	Barrio El Petróleo
+62	62042	General Roca	62042143	Barrio Emergente
+62	62042	General Roca	62042147	Barrio Fátima
+62	62042	General Roca	62042150	Barrio Frontera
+62	62042	General Roca	62042160	Barrio Guerrico
+62	62042	General Roca	62042170	Barrio Isla 10
+62	62042	General Roca	62042180	Barrio La Barda
+62	62042	General Roca	62042200	Barrio La Costa
+62	62042	General Roca	62042201	Barrio La Costa
+62	62042	General Roca	62042210	Barrio La Defensa
+62	62042	General Roca	62042213	Barrio La Herminia
+62	62042	General Roca	62042215	Barrio La Herradura
+62	62042	General Roca	62042224	Barrio La Luna
+62	62042	General Roca	62042227	Barrio La Pasarela
+62	62042	General Roca	62042245	Barrio Luisillo
+62	62042	General Roca	62042250	Barrio Mar del Plata
+62	62042	General Roca	62042255	Barrio Marengo
+62	62042	General Roca	62042260	Barrio María Elvira
+62	62042	General Roca	62042265	Barrio Moño Azul
+62	62042	General Roca	62042280	Barrio Norte
+62	62042	General Roca	62042297	Barrio Pinar
+62	62042	General Roca	62042310	Barrio Porvenir
+62	62042	General Roca	62042335	Barrio Santa Lucía
+62	62042	General Roca	62042340	Barrio Santa Rita
+62	62042	General Roca	62042345	Barrio Tronelli
+62	62042	General Roca	62042350	Barrio Unión
+62	62042	General Roca	62042360	Catriel
+62	62042	General Roca	62042370	Cervantes
+62	62042	General Roca	62042380	Chichinales
+62	62042	General Roca	62042390	Cinco Saltos
+62	62042	General Roca	62042400	Cipolletti
+62	62042	General Roca	62042440	General Fernández Oro
+62	62042	General Roca	62042410	Contralmirante Cordero
+62	62042	General Roca	62042415	Costa Blanco
+62	62042	General Roca	62042420	Ferri
+62	62042	General Roca	62042430	General Enrique Godoy
+62	62042	General Roca	62042450	General Roca
+62	62042	General Roca	62042460	Ingeniero Luis A. Huergo
+62	62042	General Roca	62042470	Ingeniero Otto Krause
+62	62042	General Roca	62042480	Mainqué
+62	62042	General Roca	62042485	Martín Fierro
+62	62042	General Roca	62042020	Paraje Arroyón (Bajo San Cayetano)
+62	62042	General Roca	62042490	Paso Córdova
+62	62042	General Roca	62042500	Península Ruca Co
+62	62042	General Roca	62042240	Puente Cero
+62	62042	General Roca	62042520	Sargento Vidal
+62	62042	General Roca	62042530	Villa Alberdi
+62	62042	General Roca	62042540	Villa del Parque
+62	62042	General Roca	62042550	Villa Manzano
+62	62042	General Roca	62042560	Villa Regina
+62	62042	General Roca	62042570	Villa San Isidro
+62	62049	9 de Julio	62049010	Comicó
+62	62049	9 de Julio	62049020	Cona Niyeu
+62	62049	9 de Julio	62049030	Ministro Ramos Mexía
+62	62049	9 de Julio	62049040	Prahuaniyeu
+62	62049	9 de Julio	62049060	Rincón Treneta
+62	62049	9 de Julio	62049050	Sierra Colorada
+62	62049	9 de Julio	62049070	Yaminué
+62	62056	Ñorquinco	62056005	Estación Ñorquinco
+62	62056	Ñorquinco	62056010	Las Bayas
+62	62056	Ñorquinco	62056020	Mamuel Choique
+62	62056	Ñorquinco	62056030	Ñorquinco
+62	62056	Ñorquinco	62056040	Ojos de Agua
+62	62056	Ñorquinco	62056050	Río Chico
+62	62063	Pichi Mahuida	62063005	Barrio Esperanza
+62	62063	Pichi Mahuida	62063010	Colonia Juliá y Echarren
+62	62063	Pichi Mahuida	62063013	Juventud Unida
+62	62063	Pichi Mahuida	62063017	Pichi Mahuida
+62	62063	Pichi Mahuida	62063020	Río Colorado
+62	62063	Pichi Mahuida	62063060	Salto Andersen
+62	62070	Pilcaniyeu	62070003	Blancura Centro
+62	62070	Pilcaniyeu	62070005	Cañadón Chileno
+62	62070	Pilcaniyeu	62070010	Comallo
+62	62070	Pilcaniyeu	62070015	Corralito
+62	62070	Pilcaniyeu	62070020	Dina Huapi
+62	62070	Pilcaniyeu	62070030	Laguna Blanca
+62	62070	Pilcaniyeu	62070040	Ñirihuau
+62	62070	Pilcaniyeu	62070060	Pilcaniyeu
+62	62070	Pilcaniyeu	62070070	Pilquiniyeu del Limay
+62	62070	Pilcaniyeu	62070080	Villa Llanquín
+62	62077	San Antonio	62077005	El Empalme
+62	62077	San Antonio	62077007	El Sótano
+62	62077	San Antonio	62077010	Las Grutas
+62	62077	San Antonio	62077020	Playas Doradas
+62	62077	San Antonio	62077030	Puerto San Antonio Este
+62	62077	San Antonio	62077040	Punta Colorada
+62	62077	San Antonio	62077045	Saco Viejo
+62	62077	San Antonio	62077050	San Antonio Oeste
+62	62077	San Antonio	62077060	Sierra Grande
+62	62084	Valcheta	62084010	Aguada Cecilio
+62	62084	Valcheta	62084020	Arroyo Los Berros
+62	62084	Valcheta	62084030	Arroyo Ventana
+62	62084	Valcheta	62084040	Nahuel Niyeu
+62	62084	Valcheta	62084050	Sierra Pailemán
+62	62084	Valcheta	62084060	Valcheta
+62	62091	25 de Mayo	62091010	Aguada de Guerra
+62	62091	25 de Mayo	62091020	Clemente Onelli
+62	62091	25 de Mayo	62091030	Colán Conhué
+62	62091	25 de Mayo	62091040	El Caín
+62	62091	25 de Mayo	62091050	Ingeniero Jacobacci
+62	62091	25 de Mayo	62091060	Los Menucos
+62	62091	25 de Mayo	62091070	Maquinchao
+62	62091	25 de Mayo	62091090	Pilquiniyeu
+66	66007	Anta	66007010	Apolinario Saravia
+66	66007	Anta	66007110	Luis Burela
+66	66007	Anta	66007020	Ceibalito
+66	66007	Anta	66007030	Centro 25 de Junio
+66	66007	Anta	66007040	Coronel Mollinedo
+66	66007	Anta	66007050	Coronel Olleros
+66	66007	Anta	66007060	El Quebrachal
+66	66007	Anta	66007070	Gaona
+66	66007	Anta	66007080	General Pizarro
+66	66007	Anta	66007090	Joaquín V. González
+66	66007	Anta	66007100	Las Lajitas
+66	66007	Anta	66007120	Macapillo
+66	66007	Anta	66007130	Nuestra Señora de Talavera
+66	66007	Anta	66007140	Piquete Cabado
+66	66007	Anta	66007150	Río del Valle
+66	66007	Anta	66007160	Tolloche
+66	66014	Cachi	66014010	Cachi
+66	66014	Cachi	66014017	Palermo Oeste
+66	66014	Cachi	66014020	Payogasta
+66	66014	Cachi	66014030	San José de Escalchi
+66	66021	Cafayate	66021010	Cafayate
+66	66021	Cafayate	66021020	Tolombón
+66	66028	Capital	66028015	Cobos
+66	66028	Capital	66028050	Salta
+66	66028	Capital	66028060	San Lorenzo
+66	66035	Cerrillos	66035010	San José de los Cerrillos
+66	66035	Cerrillos	66035012	Cielos del Sur
+66	66035	Cerrillos	66035020	La Merced
+66	66035	Cerrillos	66035023	La Pedrera
+66	66035	Cerrillos	66035025	Las Palmas
+66	66035	Cerrillos	66035030	San Agustín
+66	66035	Cerrillos	66035035	Terrazas del Río
+66	66035	Cerrillos	66035050	Villa Sarmiento
+66	66042	Chicoana	66042003	Barrio Finca La Maroma
+66	66042	Chicoana	66042007	El Mollar
+66	66042	Chicoana	66042008	El Mollar
+66	66042	Chicoana	66042010	Chicoana
+66	66042	Chicoana	66042020	El Carril
+66	66042	Chicoana	66042005	Barrio La Rotonda
+66	66049	General Güemes	66049005	Betania
+66	66049	General Güemes	66049007	Cabeza de Buey
+66	66049	General Güemes	66049010	Campo Santo
+66	66049	General Güemes	66049020	Cobos
+66	66049	General Güemes	66049030	El Bordo
+66	66049	General Güemes	66049035	El Sauce
+66	66049	General Güemes	66049040	General Güemes
+66	66056	General José de San Martín	66056010	Aguaray
+66	66056	General José de San Martín	66056030	Campichuelo
+66	66056	General José de San Martín	66056040	Campo Durán
+66	66056	General José de San Martín	66056050	Capiazuti
+66	66056	General José de San Martín	66056055	Caraparí
+66	66056	General José de San Martín	66056060	Carboncito
+66	66056	General José de San Martín	66056070	Coronel Cornejo
+66	66056	General José de San Martín	66056080	Dragones
+66	66056	General José de San Martín	66056090	Embarcación
+66	66056	General José de San Martín	66056100	General Ballivián
+66	66056	General José de San Martín	66056120	Hickman
+66	66056	General José de San Martín	66056130	Misión Chaqueña
+66	66056	General José de San Martín	66056170	Pacará
+66	66056	General José de San Martín	66056180	Padre Lozano
+66	66056	General José de San Martín	66056190	Piquirenda
+66	66056	General José de San Martín	66056200	Profesor Salvador Mazza
+66	66056	General José de San Martín	66056215	Santa María de Yariguarenda
+66	66056	General José de San Martín	66056220	Tartagal
+66	66056	General José de San Martín	66056150	Misión Kilómetro 6
+66	66056	General José de San Martín	66056110	General Mosconi
+66	66056	General José de San Martín	66056230	Tobantirenda
+66	66056	General José de San Martín	66056240	Tranquitas
+66	66056	General José de San Martín	66056250	Yacuy
+66	66056	General José de San Martín	66056260	Zanja Honda
+66	66063	Guachipas	66063003	Alemanía
+66	66063	Guachipas	66063007	Coropampa
+66	66063	Guachipas	66063010	Guachipas
+66	66070	Iruya	66070005	Cortaderas
+66	66070	Iruya	66070010	Iruya
+66	66070	Iruya	66070020	Isla de Cañas
+66	66070	Iruya	66070030	Pueblo Viejo
+66	66070	Iruya	66070040	Rodeo Colorado
+66	66070	Iruya	66070050	San Isidro
+66	66077	La Caldera	66077010	La Caldera
+66	66077	La Caldera	66077013	La Calderilla
+66	66077	La Caldera	66077020	Vaqueros
+66	66084	La Candelaria	66084010	El Jardín
+66	66084	La Candelaria	66084020	El Tala
+66	66084	La Candelaria	66084030	La Candelaria
+66	66091	La Poma	66091005	Cerro Negro
+66	66091	La Poma	66091010	Cobres
+66	66091	La Poma	66091020	La Poma
+66	66098	La Viña	66098010	Ampascachi
+66	66098	La Viña	66098020	Cabra Corral
+66	66098	La Viña	66098030	Coronel Moldes
+66	66098	La Viña	66098035	El Carmen
+66	66098	La Viña	66098037	El Préstamo
+66	66098	La Viña	66098040	La Viña
+66	66098	La Viña	66098045	Saladillo
+66	66098	La Viña	66098050	Talapampa
+66	66105	Los Andes	66105010	Olacapato
+66	66105	Los Andes	66105017	Salar de Pocitos
+66	66105	Los Andes	66105020	San Antonio de los Cobres
+66	66105	Los Andes	66105030	Santa Rosa de los Pastos Grandes
+66	66105	Los Andes	66105040	Tolar Grande
+66	66112	Metán	66112010	El Galpón
+66	66112	Metán	66112020	El Tunal
+66	66112	Metán	66112030	Lumbreras
+66	66112	Metán	66112070	Río Piedras
+66	66112	Metán	66112040	San José de Metán
+66	66112	Metán	66112080	San José de Orquera
+66	66119	Molinos	66119010	La Puerta
+66	66119	Molinos	66119020	Molinos
+66	66119	Molinos	66119030	Seclantás
+66	66126	Orán	66126010	Aguas Blancas
+66	66126	Orán	66126020	Colonia Santa Rosa
+66	66126	Orán	66126030	El Tabacal
+66	66126	Orán	66126040	Hipólito Yrigoyen
+66	66126	Orán	66126055	Los Naranjos
+66	66126	Orán	66126060	Pichanal
+66	66126	Orán	66126065	Río Blanquito
+66	66126	Orán	66126070	San Ramón de la Nueva Orán
+66	66126	Orán	66126080	Urundel
+66	66133	Rivadavia	66133010	Alto de la Sierra
+66	66133	Rivadavia	66133020	Capitán Juan Pagé
+66	66133	Rivadavia	66133030	Coronel Juan Solá
+66	66133	Rivadavia	66133035	Hito 1
+66	66133	Rivadavia	66133037	La Merced
+66	66133	Rivadavia	66133040	La Unión
+66	66133	Rivadavia	66133050	Los Blancos
+66	66133	Rivadavia	66133055	Misión La Paz
+66	66133	Rivadavia	66133060	Pluma de Pato
+66	66133	Rivadavia	66133070	Rivadavia
+66	66133	Rivadavia	66133080	Santa María
+66	66133	Rivadavia	66133090	Santa Rosa
+66	66133	Rivadavia	66133100	Santa Victoria Este
+66	66140	Rosario de la Frontera	66140005	Almirante Brown
+66	66140	Rosario de la Frontera	66140010	Antilla
+66	66140	Rosario de la Frontera	66140020	Copo Quile
+66	66140	Rosario de la Frontera	66140030	El Naranjo
+66	66140	Rosario de la Frontera	66140040	El Potrero
+66	66140	Rosario de la Frontera	66140045	Los Baños
+66	66140	Rosario de la Frontera	66140050	Rosario de la Frontera
+66	66140	Rosario de la Frontera	66140060	San Felipe
+66	66140	Rosario de la Frontera	66140070	San Lorenzo
+66	66147	Rosario de Lerma	66147005	Barrio Retoños de Colón
+66	66147	Rosario de Lerma	66147010	Campo Quijano
+66	66147	Rosario de Lerma	66147013	El Pucará
+66	66147	Rosario de Lerma	66147015	La Merced del Encón
+66	66147	Rosario de Lerma	66147020	La Silleta
+66	66147	Rosario de Lerma	66147030	Rosario de Lerma
+66	66154	San Carlos	66154005	Amblayo
+66	66154	San Carlos	66154010	Angastaco
+66	66154	San Carlos	66154020	Animaná
+66	66154	San Carlos	66154040	San Carlos
+66	66161	Santa Victoria	66161010	Acoyte
+66	66161	Santa Victoria	66161015	Cuesta Azul
+66	66161	Santa Victoria	66161020	Campo La Cruz
+66	66161	Santa Victoria	66161023	Campo La Paz
+66	66161	Santa Victoria	66161027	Lizoite
+66	66161	Santa Victoria	66161030	Los Toldos
+66	66161	Santa Victoria	66161035	Mecoyita
+66	66161	Santa Victoria	66161040	Nazareno
+66	66161	Santa Victoria	66161050	Poscaya
+66	66161	Santa Victoria	66161060	San Marcos
+66	66161	Santa Victoria	66161070	Santa Victoria
+66	66161	Santa Victoria	66161080	Vizcachani
+70	70007	Albardón	70007010	El Rincón
+70	70007	Albardón	70007020	Villa General San Martín - Campo Afuera
+70	70014	Angaco	70014010	Las Tapias
+70	70014	Angaco	70014020	Villa El Salvador - Villa Sefair
+70	70021	Calingasta	70021010	Barreal - Villa Pituil
+70	70021	Calingasta	70021020	Calingasta
+70	70021	Calingasta	70021025	Barrio El Carrizal
+70	70021	Calingasta	70021027	La Isla
+70	70021	Calingasta	70021030	Tamberías
+70	70028	Capital	70028010	San Juan
+70	70035	Caucete	70035010	Bermejo
+70	70035	Caucete	70035020	Caucete
+70	70035	Caucete	70035025	Divisoria
+70	70035	Caucete	70035030	El Rincón
+70	70035	Caucete	70035037	La Puntilla
+70	70035	Caucete	70035040	Las Talas - Los Médanos
+70	70035	Caucete	70035050	Marayes
+70	70035	Caucete	70035060	Pie de Palo
+70	70035	Caucete	70035063	Pozo de los Algarrobos
+70	70035	Caucete	70035070	Vallecito
+70	70035	Caucete	70035080	Villa Independencia
+70	70042	Chimbas	70042010	Chimbas
+70	70049	Iglesia	70049010	Angualasto
+70	70049	Iglesia	70049030	Iglesia - Bella Vista
+70	70049	Iglesia	70049040	Las Flores
+70	70049	Iglesia	70049050	Pismanta
+70	70049	Iglesia	70049060	Rodeo
+70	70049	Iglesia	70049070	Tudcum
+70	70056	Jáchal	70056010	El Médano
+70	70056	Jáchal	70056015	Entre Ríos
+70	70056	Jáchal	70056020	Gran China
+70	70056	Jáchal	70056030	Huaco
+70	70056	Jáchal	70056040	Mogna
+70	70056	Jáchal	70056050	Niquivil
+70	70056	Jáchal	70056060	Pampa Vieja
+70	70056	Jáchal	70056070	San Isidro
+70	70056	Jáchal	70056080	San José de Jáchal
+70	70056	Jáchal	70056090	Tamberías
+70	70056	Jáchal	70056100	Villa Malvinas Argentinas
+70	70056	Jáchal	70056110	Villa Mercedes
+70	70063	9 de Julio	70063010	Alto de Sierra
+70	70063	9 de Julio	70063030	Las Chacritas
+70	70063	9 de Julio	70063040	9 de Julio
+70	70070	Pocito	70070005	Barrio Municipal
+70	70070	Pocito	70070010	Barrio Ruta 40
+70	70070	Pocito	70070020	Carpintería
+70	70070	Pocito	70070030	Quinto Cuartel
+70	70070	Pocito	70070040	Villa Aberastain - La Rinconada
+70	70070	Pocito	70070050	Villa Barboza - Villa Nacusi
+70	70070	Pocito	70070060	Villa Centenario
+70	70077	Rawson	70077003	Colonia Sarmiento
+70	70077	Rawson	70077007	Punta del Monte
+70	70077	Rawson	70077010	Rawson
+70	70077	Rawson	70077020	Villa Bolaños
+70	70084	Rivadavia	70084010	Rivadavia
+70	70091	San Martín	70091010	Barrio SADOP - Bella Vista
+70	70091	San Martín	70091020	Dos Acequias
+70	70091	San Martín	70091030	San Isidro
+70	70091	San Martín	70091040	Villa del Salvador
+70	70091	San Martín	70091050	Villa Dominguito
+70	70091	San Martín	70091060	Villa Don Bosco
+70	70091	San Martín	70091070	Villa San Martín
+70	70098	Santa Lucía	70098010	Santa Lucía
+70	70105	Sarmiento	70105010	Cañada Honda
+70	70105	Sarmiento	70105020	Cienaguita
+70	70105	Sarmiento	70105025	Cochagual
+70	70105	Sarmiento	70105030	Colonia Fiscal
+70	70105	Sarmiento	70105040	Divisadero
+70	70105	Sarmiento	70105060	Las Lagunas
+70	70105	Sarmiento	70105070	Los Berros
+70	70105	Sarmiento	70105080	Pedernal
+70	70105	Sarmiento	70105090	Punta del Médano
+70	70105	Sarmiento	70105095	Tres Esquinas
+70	70105	Sarmiento	70105100	Villa Media Agua
+70	70112	Ullum	70112003	Costa del Lago
+70	70112	Ullum	70112010	Villa Ibáñez
+70	70119	Valle Fértil	70119010	Astica
+70	70119	Valle Fértil	70119020	Balde del Rosario
+70	70119	Valle Fértil	70119030	Chucuma
+70	70119	Valle Fértil	70119040	Los Baldecitos
+70	70119	Valle Fértil	70119050	Usno
+70	70119	Valle Fértil	70119060	Villa San Agustín
+70	70126	25 de Mayo	70126010	El Encón
+70	70126	25 de Mayo	70126020	Tupelí
+70	70126	25 de Mayo	70126030	Villa Borjas - La Chimbera
+70	70126	25 de Mayo	70126040	Villa El Tango
+70	70126	25 de Mayo	70126050	Villa Santa Rosa
+70	70133	Zonda	70133010	Villa Basilio Nievas
+74	74007	Ayacucho	74007010	Candelaria
+74	74007	Ayacucho	74007020	La Majada
+74	74007	Ayacucho	74007030	Leandro N. Alem
+74	74007	Ayacucho	74007040	Luján
+74	74007	Ayacucho	74007050	Quines
+74	74007	Ayacucho	74007060	Río Juan Gómez
+74	74007	Ayacucho	74007070	San Francisco del Monte de Oro
+74	74014	Belgrano	74014005	El Milagro
+74	74014	Belgrano	74014010	La Calera
+74	74014	Belgrano	74014015	Los Molles
+74	74014	Belgrano	74014020	Nogolí
+74	74014	Belgrano	74014030	Villa de la Quebrada
+74	74014	Belgrano	74014040	Los Manantiales
+74	74028	Chacabuco	74028010	Concarán
+74	74028	Chacabuco	74028020	Cortaderas
+74	74028	Chacabuco	74028030	Naschel
+74	74028	Chacabuco	74028040	Papagayos
+74	74028	Chacabuco	74028050	Renca
+74	74028	Chacabuco	74028060	San Pablo
+74	74028	Chacabuco	74028070	Tilisarao
+74	74028	Chacabuco	74028080	Villa del Carmen
+74	74028	Chacabuco	74028090	Villa Larca
+74	74021	Coronel Pringles	74021020	El Trapiche
+74	74021	Coronel Pringles	74021025	Estancia Grande
+74	74021	Coronel Pringles	74021030	Fraga
+74	74021	Coronel Pringles	74021010	La Carolina
+74	74021	Coronel Pringles	74021050	La Florida
+74	74021	Coronel Pringles	74021060	La Toma
+74	74021	Coronel Pringles	74021063	Las Barranquitas
+74	74021	Coronel Pringles	74021065	Paso de las Carretas
+74	74021	Coronel Pringles	74021070	Riocito
+74	74021	Coronel Pringles	74021090	Saladillo
+74	74035	General Pedernera	74035010	Juan Jorba
+74	74035	General Pedernera	74035020	Juan Llerena
+74	74035	General Pedernera	74035030	Justo Daract
+74	74035	General Pedernera	74035040	La Punilla
+74	74035	General Pedernera	74035050	Lavaisse
+74	74035	General Pedernera	74035055	Nación Ranquel
+74	74035	General Pedernera	74035060	San José del Morro
+74	74035	General Pedernera	74035070	Villa Mercedes
+74	74035	General Pedernera	74035080	Villa Reynolds
+74	74035	General Pedernera	74035090	Villa Salles
+74	74042	Gobernador Dupuy	74042010	Anchorena
+74	74042	Gobernador Dupuy	74042020	Arizona
+74	74042	Gobernador Dupuy	74042030	Bagual
+74	74042	Gobernador Dupuy	74042040	Batavia
+74	74042	Gobernador Dupuy	74042050	Buena Esperanza
+74	74042	Gobernador Dupuy	74042060	Fortín El Patria
+74	74042	Gobernador Dupuy	74042070	Fortuna
+74	74042	Gobernador Dupuy	74042080	La Maroma
+74	74042	Gobernador Dupuy	74042090	Los Overos
+74	74042	Gobernador Dupuy	74042100	Martín de Loyola
+74	74042	Gobernador Dupuy	74042110	Nahuel Mapá
+74	74042	Gobernador Dupuy	74042120	Navia
+74	74042	Gobernador Dupuy	74042130	Nueva Galia
+74	74042	Gobernador Dupuy	74042140	Unión
+74	74056	Juan Martín de Pueyrredón	74056005	Aguadita del Portezuelo
+74	74056	Juan Martín de Pueyrredón	74056010	Alto Pelado
+74	74056	Juan Martín de Pueyrredón	74056020	Alto Pencoso
+74	74056	Juan Martín de Pueyrredón	74056030	Balde
+74	74056	Juan Martín de Pueyrredón	74056040	Beazley
+74	74056	Juan Martín de Pueyrredón	74056050	Cazador
+74	74056	Juan Martín de Pueyrredón	74056060	Chosmes
+74	74056	Juan Martín de Pueyrredón	74056065	Daniel Donovan
+74	74056	Juan Martín de Pueyrredón	74056066	Daniel Donovan
+74	74056	Juan Martín de Pueyrredón	74056070	Desaguadero
+74	74056	Juan Martín de Pueyrredón	74056080	El Volcán
+74	74056	Juan Martín de Pueyrredón	74056090	Jarilla
+74	74056	Juan Martín de Pueyrredón	74056095	Juan Wenceslao Gez
+74	74056	Juan Martín de Pueyrredón	74056105	La Punta
+74	74056	Juan Martín de Pueyrredón	74056107	Los Puquios
+74	74056	Juan Martín de Pueyrredón	74056108	Los Puquios
+74	74056	Juan Martín de Pueyrredón	74056110	Mosmota
+74	74056	Juan Martín de Pueyrredón	74056120	Potrero de los Funes
+74	74056	Juan Martín de Pueyrredón	74056130	Salinas del Bebedero
+74	74056	Juan Martín de Pueyrredón	74056140	San Jerónimo
+74	74056	Juan Martín de Pueyrredón	74056150	San Luis
+74	74056	Juan Martín de Pueyrredón	74056100	Juana Koslay
+74	74056	Juan Martín de Pueyrredón	74056153	Suyuque Nuevo
+74	74056	Juan Martín de Pueyrredón	74056160	Zanjitas
+74	74049	Junín	74049005	Barrio 272 Viviendas
+74	74049	Junín	74049030	Lafinur
+74	74049	Junín	74049040	Los Cajones
+74	74049	Junín	74049060	Villa de Merlo
+74	74049	Junín	74049010	Carpintería
+74	74049	Junín	74049050	Los Molles
+74	74049	Junín	74049070	Santa Rosa del Conlara
+74	74049	Junín	74049080	Talita
+74	74063	Libertador General San Martín	74063010	La Vertiente
+74	74063	Libertador General San Martín	74063020	Las Aguadas
+74	74063	Libertador General San Martín	74063030	Las Chacras
+74	74063	Libertador General San Martín	74063040	Las Lagunas
+74	74063	Libertador General San Martín	74063050	Paso Grande
+74	74063	Libertador General San Martín	74063060	Potrerillo
+74	74063	Libertador General San Martín	74063070	San Martín
+74	74063	Libertador General San Martín	74063080	Villa de Praga
+78	78007	Corpen Aike	78007010	Comandante Luis Piedra Buena
+78	78007	Corpen Aike	78007020	Puerto Santa Cruz
+78	78014	Deseado	78014010	Caleta Olivia
+78	78014	Deseado	78014020	Cañadón Seco
+78	78014	Deseado	78014030	Fitz Roy
+78	78014	Deseado	78014040	Jaramillo
+78	78014	Deseado	78014060	Las Heras
+78	78014	Deseado	78014050	Nuestra Señora de los Dolores de Koluel Kaike
+78	78014	Deseado	78014070	Pico Truncado
+78	78014	Deseado	78014080	Puerto Deseado
+78	78014	Deseado	78014090	Tellier
+78	78021	Güer Aike	78021005	Chimen Aike
+78	78021	Güer Aike	78021010	El Turbio
+78	78021	Güer Aike	78021015	Esperanza
+78	78021	Güer Aike	78021020	Julia Dufour
+78	78021	Güer Aike	78021040	Río Gallegos
+78	78021	Güer Aike	78021070	Río Turbio
+78	78021	Güer Aike	78021050	Rospentek
+78	78021	Güer Aike	78021060	28 de Noviembre
+78	78028	Lago Argentino	78028010	El Calafate
+78	78028	Lago Argentino	78028020	El Chaltén
+78	78028	Lago Argentino	78028030	Tres Lagos
+78	78035	Lago Buenos Aires	78035010	Los Antiguos
+78	78035	Lago Buenos Aires	78035020	Perito Moreno
+78	78042	Magallanes	78042010	Puerto San Julián
+78	78049	Río Chico	78049010	Bajo Caracoles
+78	78049	Río Chico	78049020	Gobernador Gregores
+78	78049	Río Chico	78049030	Lago Posadas
+82	82007	Belgrano	82007010	Armstrong
+82	82007	Belgrano	82007020	Bouquet
+82	82007	Belgrano	82007030	Las Parejas
+82	82007	Belgrano	82007040	Las Rosas
+82	82007	Belgrano	82007050	Montes de Oca
+82	82007	Belgrano	82007060	Tortugas
+82	82014	Caseros	82014010	Arequito
+82	82014	Caseros	82014020	Arteaga
+82	82014	Caseros	82014030	Berabevú
+82	82014	Caseros	82014040	Bigand
+82	82014	Caseros	82014050	Casilda
+82	82014	Caseros	82014060	Chabas
+82	82014	Caseros	82014070	Chañar Ladeado
+82	82014	Caseros	82014080	Gödeken
+82	82014	Caseros	82014090	Los Molinos
+82	82014	Caseros	82014100	Los Nogales
+82	82014	Caseros	82014110	Los Quirquinchos
+82	82014	Caseros	82014120	San José de la Esquina
+82	82014	Caseros	82014130	Sanford
+82	82014	Caseros	82014140	Villada
+82	82021	Castellanos	82021010	Aldao
+82	82021	Castellanos	82021020	Angélica
+82	82021	Castellanos	82021030	Ataliva
+82	82021	Castellanos	82021040	Aurelia
+82	82021	Castellanos	82021060	Bauer y Sigel
+82	82021	Castellanos	82021070	Bella Italia
+82	82021	Castellanos	82021090	Colonia Bicha
+82	82021	Castellanos	82021100	Colonia Cello
+82	82021	Castellanos	82021110	Colonia Margarita
+82	82021	Castellanos	82021120	Colonia Raquel
+82	82021	Castellanos	82021125	Colonia Tacurales
+82	82021	Castellanos	82021130	Coronel Fraga
+82	82021	Castellanos	82021140	Egusquiza
+82	82021	Castellanos	82021150	Esmeralda
+82	82021	Castellanos	82021160	Estación Clucellas
+82	82021	Castellanos	82021163	Estación Kilómetro 501
+82	82021	Castellanos	82021170	Estación Saguier
+82	82021	Castellanos	82021180	Eusebia y Carolina
+82	82021	Castellanos	82021190	Eustolia
+82	82021	Castellanos	82021200	Frontera
+82	82021	Castellanos	82021050	Barrios Acapulco y Veracruz
+82	82021	Castellanos	82021210	Garibaldi
+82	82021	Castellanos	82021220	Humberto Primo
+82	82021	Castellanos	82021230	Josefina
+82	82021	Castellanos	82021240	Lehmann
+82	82021	Castellanos	82021245	Los Sembrados
+82	82021	Castellanos	82021250	María Juana
+82	82021	Castellanos	82021260	Nueva Lehmann
+82	82021	Castellanos	82021270	Plaza Clucellas
+82	82021	Castellanos	82021280	Plaza Saguier
+82	82021	Castellanos	82021290	Presidente Roca
+82	82021	Castellanos	82021300	Pueblo Marini
+82	82021	Castellanos	82021310	Rafaela
+82	82021	Castellanos	82021320	Ramona
+82	82021	Castellanos	82021330	San Antonio
+82	82021	Castellanos	82021080	Castellanos
+82	82021	Castellanos	82021340	San Vicente
+82	82021	Castellanos	82021350	Santa Clara de Saguier
+82	82021	Castellanos	82021360	Sunchales
+82	82021	Castellanos	82021370	Susana
+82	82021	Castellanos	82021380	Tacural
+82	82021	Castellanos	82021390	Vila
+82	82021	Castellanos	82021400	Villa Josefina
+82	82021	Castellanos	82021410	Villa San José
+82	82021	Castellanos	82021420	Virginia
+82	82021	Castellanos	82021430	Zenón Pereyra
+82	82028	Constitución	82028010	Alcorta
+82	82028	Constitución	82028020	Barrio Arroyo del Medio
+82	82028	Constitución	82028040	Bombal
+82	82028	Constitución	82028050	Cañada Rica
+82	82028	Constitución	82028060	Cepeda
+82	82028	Constitución	82028070	Empalme Villa Constitución
+82	82028	Constitución	82028030	Barrio Mitre
+82	82028	Constitución	82028090	General Gelly
+82	82028	Constitución	82028100	Godoy
+82	82028	Constitución	82028110	Juan B. Molina
+82	82028	Constitución	82028120	Juncal
+82	82028	Constitución	82028130	La Vanguardia
+82	82028	Constitución	82028140	Máximo Paz
+82	82028	Constitución	82028150	Pavón
+82	82028	Constitución	82028160	Pavón Arriba
+82	82028	Constitución	82028170	Peyrano
+82	82028	Constitución	82028180	Rueda
+82	82028	Constitución	82028190	Santa Teresa
+82	82028	Constitución	82028200	Sargento Cabral
+82	82028	Constitución	82028210	Stephenson
+82	82028	Constitución	82028220	Theobald
+82	82028	Constitución	82028230	Villa Constitución
+82	82035	Garay	82035010	Cayastá
+82	82035	Garay	82035015	Colonia Mascías
+82	82035	Garay	82035020	Helvecia
+82	82035	Garay	82035030	Los Zapallos
+82	82035	Garay	82035040	Saladero Mariano Cabal
+82	82035	Garay	82035045	Colonia San Joaquín
+82	82035	Garay	82035050	Santa Rosa de Calchines
+82	82042	General López	82042010	Aarón Castellanos
+82	82042	General López	82042020	Amenábar
+82	82042	General López	82042030	Cafferata
+82	82042	General López	82042040	Cañada del Ucle
+82	82042	General López	82042050	Carmen
+82	82042	General López	82042060	Carreras
+82	82042	General López	82042070	Chapuy
+82	82042	General López	82042080	Chovet
+82	82042	General López	82042090	Christophersen
+82	82042	General López	82042100	Diego de Alvear
+82	82042	General López	82042110	Elortondo
+82	82042	General López	82042120	Firmat
+82	82042	General López	82042130	Hughes
+82	82042	General López	82042140	La Chispa
+82	82042	General López	82042150	Labordeboy
+82	82042	General López	82042160	Lazzarino
+82	82042	General López	82042170	Maggiolo
+82	82042	General López	82042180	María Teresa
+82	82042	General López	82042190	Melincué
+82	82042	General López	82042200	Miguel Torres
+82	82042	General López	82042210	Murphy
+82	82042	General López	82042220	Rufino
+82	82042	General López	82042230	San Eduardo
+82	82042	General López	82042240	San Francisco de Santa Fe
+82	82042	General López	82042250	San Gregorio
+82	82042	General López	82042260	Sancti Spiritu
+82	82042	General López	82042270	Santa Isabel
+82	82042	General López	82042280	Teodelina
+82	82042	General López	82042290	Venado Tuerto
+82	82042	General López	82042300	Villa Cañás
+82	82042	General López	82042305	Villa Divisa de Mayo
+82	82042	General López	82042310	Wheelwright
+82	82049	General Obligado	82049010	Arroyo Ceibal
+82	82049	General Obligado	82049030	Berna
+82	82049	General Obligado	82049035	Campo Siete Provincias
+82	82049	General Obligado	82049040	El Araza
+82	82049	General Obligado	82049045	El Carmen de Avellaneda
+82	82049	General Obligado	82049050	El Rabón
+82	82049	General Obligado	82049053	El Sombrerito
+82	82049	General Obligado	82049055	Estación Kilómetro 403
+82	82049	General Obligado	82049058	Flor de Oro
+82	82049	General Obligado	82049060	Florencia
+82	82049	General Obligado	82049070	Guadalupe Norte
+82	82049	General Obligado	82049075	Campo Hardy
+82	82049	General Obligado	82049080	Ingeniero Chanourdie
+82	82049	General Obligado	82049090	La Isleta
+82	82049	General Obligado	82049095	La Reserva
+82	82049	General Obligado	82049100	La Sarita
+82	82049	General Obligado	82049110	Lanteri
+82	82049	General Obligado	82049120	Las Garzas
+82	82049	General Obligado	82049127	Las Palmas
+82	82049	General Obligado	82049130	Las Toscas
+82	82049	General Obligado	82049190	San Antonio de Obligado
+82	82049	General Obligado	82049140	Los Laureles
+82	82049	General Obligado	82049150	Malabrigo
+82	82049	General Obligado	82049153	Moussy
+82	82049	General Obligado	82049155	Nicanor Molinas
+82	82049	General Obligado	82049160	Paraje San Manuel
+82	82049	General Obligado	82049170	Puerto Reconquista
+82	82049	General Obligado	82049180	Reconquista
+82	82049	General Obligado	82049020	Avellaneda
+82	82049	General Obligado	82049200	Tacuarendi
+82	82049	General Obligado	82049207	Villa Adela
+82	82049	General Obligado	82049210	Villa Ana
+82	82049	General Obligado	82049220	Villa Guillermina
+82	82049	General Obligado	82049230	Villa Ocampo
+82	82056	Iriondo	82056010	Barrio Cicarelli
+82	82056	Iriondo	82056020	Bustinza
+82	82056	Iriondo	82056030	Cañada de Gómez
+82	82056	Iriondo	82056040	Carrizales
+82	82056	Iriondo	82056050	Classon
+82	82056	Iriondo	82056060	Colonia Médici
+82	82056	Iriondo	82056070	Correa
+82	82056	Iriondo	82056080	Larguía
+82	82056	Iriondo	82056090	Lucio V. López
+82	82056	Iriondo	82056100	Oliveros
+82	82056	Iriondo	82056110	Pueblo Andino
+82	82056	Iriondo	82056160	Villa La Ribera
+82	82056	Iriondo	82056170	Villa La Ribera
+82	82056	Iriondo	82056120	Salto Grande
+82	82056	Iriondo	82056125	San Ricardo
+82	82056	Iriondo	82056130	Serodino
+82	82056	Iriondo	82056140	Totoras
+82	82056	Iriondo	82056150	Villa Eloísa
+82	82063	La Capital	82063010	Ángel Gallardo
+82	82063	La Capital	82063020	Arroyo Aguiar
+82	82063	La Capital	82063040	Cabal
+82	82063	La Capital	82063050	Campo Andino
+82	82063	La Capital	82063060	Candioti
+82	82063	La Capital	82063070	Emilia
+82	82063	La Capital	82063080	Laguna Paiva
+82	82063	La Capital	82063090	Llambí Campbell
+82	82063	La Capital	82063095	Manucho
+82	82063	La Capital	82063100	Monte Vera
+82	82063	La Capital	82063110	Nelson
+82	82063	La Capital	82063120	Paraje Chaco Chico
+82	82063	La Capital	82063130	Paraje La Costa
+82	82063	La Capital	82063150	Rincón Potrero
+82	82063	La Capital	82063030	Arroyo Leyes
+82	82063	La Capital	82063140	Recreo
+82	82063	La Capital	82063160	San José del Rincón
+82	82063	La Capital	82063170	Santa Fe
+82	82063	La Capital	82063180	Santo Tomé
+82	82063	La Capital	82063190	Sauce Viejo
+82	82063	La Capital	82063200	Villa Laura
+82	82070	Las Colonias	82070010	Cavour
+82	82070	Las Colonias	82070015	Colonia Nueva
+82	82070	Las Colonias	82070017	Colonia San José
+82	82070	Las Colonias	82070020	Cululú
+82	82070	Las Colonias	82070030	Elisa
+82	82070	Las Colonias	82070040	Empalme San Carlos
+82	82070	Las Colonias	82070050	Esperanza
+82	82070	Las Colonias	82070060	Felicia
+82	82070	Las Colonias	82070070	Franck
+82	82070	Las Colonias	82070080	Grutly
+82	82070	Las Colonias	82070090	Hipatía
+82	82070	Las Colonias	82070100	Humboldt
+82	82070	Las Colonias	82070110	Jacinto L. Aráuz
+82	82070	Las Colonias	82070120	La Pelada
+82	82070	Las Colonias	82070130	Las Tunas
+82	82070	Las Colonias	82070140	María Luisa
+82	82070	Las Colonias	82070150	Matilde
+82	82070	Las Colonias	82070160	Nuevo Torino
+82	82070	Las Colonias	82070170	Pilar
+82	82070	Las Colonias	82070180	Plaza Matilde
+82	82070	Las Colonias	82070190	Progreso
+82	82070	Las Colonias	82070200	Providencia
+82	82070	Las Colonias	82070205	Pujato Norte
+82	82070	Las Colonias	82070210	Sa Pereira
+82	82070	Las Colonias	82070220	San Agustín
+82	82070	Las Colonias	82070230	San Carlos Centro
+82	82070	Las Colonias	82070250	San Carlos Sud
+82	82070	Las Colonias	82070240	San Carlos Norte
+82	82070	Las Colonias	82070260	San Jerónimo del Sauce
+82	82070	Las Colonias	82070270	San Jerónimo Norte
+82	82070	Las Colonias	82070280	San Mariano
+82	82070	Las Colonias	82070290	Santa Clara de Buena Vista
+82	82070	Las Colonias	82070300	Santo Domingo
+82	82070	Las Colonias	82070310	Sarmiento
+82	82077	9 de Julio	82077010	Esteban Rams
+82	82077	9 de Julio	82077020	Gato Colorado
+82	82077	9 de Julio	82077030	Gregoria Pérez de Denis
+82	82077	9 de Julio	82077040	Logroño
+82	82077	9 de Julio	82077050	Montefiore
+82	82077	9 de Julio	82077060	Pozo Borrado
+82	82077	9 de Julio	82077065	San Bernardo
+82	82077	9 de Julio	82077070	Santa Margarita
+82	82077	9 de Julio	82077080	Tostado
+82	82077	9 de Julio	82077090	Villa Minetti
+82	82084	Rosario	82084010	Acebal
+82	82084	Rosario	82084020	Albarellos
+82	82084	Rosario	82084030	Álvarez
+82	82084	Rosario	82084050	Arbilla
+82	82084	Rosario	82084060	Arminda
+82	82084	Rosario	82084070	Arroyo Seco
+82	82084	Rosario	82084080	Carmen del Sauce
+82	82084	Rosario	82084090	Coronel Bogado
+82	82084	Rosario	82084100	Coronel Domínguez
+82	82084	Rosario	82084110	Cuatro Esquinas
+82	82084	Rosario	82084130	Fighiera
+82	82084	Rosario	82084150	General Lagos
+82	82084	Rosario	82084180	Kilómetro 101
+82	82084	Rosario	82084190	Los Muchachos - La Alborada
+82	82084	Rosario	82084200	Monte Flores
+82	82084	Rosario	82084220	Piñero
+82	82084	Rosario	82084240	Pueblo Muñoz
+82	82084	Rosario	82084250	Pueblo Uranga
+82	82084	Rosario	82084260	Puerto Arroyo Seco
+82	82084	Rosario	82084040	Alvear
+82	82084	Rosario	82084140	Funes
+82	82084	Rosario	82084170	Ibarlucea
+82	82084	Rosario	82084160	Granadero Baigorria
+82	82084	Rosario	82084210	Pérez
+82	82084	Rosario	82084230	Pueblo Esther
+82	82084	Rosario	82084270	Rosario
+82	82084	Rosario	82084280	Soldini
+82	82084	Rosario	82084310	Villa Gobernador Gálvez
+82	82084	Rosario	82084290	Villa Amelia
+82	82084	Rosario	82084300	Villa del Plata
+82	82084	Rosario	82084120	El Caramelo
+82	82084	Rosario	82084320	Zavalla
+82	82091	San Cristóbal	82091010	Aguará Grande
+82	82091	San Cristóbal	82091020	Ambrosetti
+82	82091	San Cristóbal	82091030	Arrufo
+82	82091	San Cristóbal	82091040	Balneario La Verde
+82	82091	San Cristóbal	82091050	Capivara
+82	82091	San Cristóbal	82091060	Ceres
+82	82091	San Cristóbal	82091070	Colonia Ana
+82	82091	San Cristóbal	82091080	Colonia Bossi
+82	82091	San Cristóbal	82091090	Colonia Rosa
+82	82091	San Cristóbal	82091100	Constanza
+82	82091	San Cristóbal	82091110	Curupaity
+82	82091	San Cristóbal	82091120	Hersilia
+82	82091	San Cristóbal	82091130	Huanqueros
+82	82091	San Cristóbal	82091140	La Cabral
+82	82091	San Cristóbal	82091150	La Rubia
+82	82091	San Cristóbal	82091160	Las Avispas
+82	82091	San Cristóbal	82091170	Las Palmeras
+82	82091	San Cristóbal	82091180	Moisés Ville
+82	82091	San Cristóbal	82091190	Monigotes
+82	82091	San Cristóbal	82091200	Ñanducita
+82	82091	San Cristóbal	82091210	Palacios
+82	82091	San Cristóbal	82091220	San Cristóbal
+82	82091	San Cristóbal	82091230	San Guillermo
+82	82091	San Cristóbal	82091240	Santurce
+82	82091	San Cristóbal	82091250	Soledad
+82	82091	San Cristóbal	82091260	Suardi
+82	82091	San Cristóbal	82091270	Villa Saralegui
+82	82091	San Cristóbal	82091280	Villa Trinidad
+82	82098	San Javier	82098010	Alejandra
+82	82098	San Javier	82098020	Cacique Ariacaiquín
+82	82098	San Javier	82098030	Colonia Durán
+82	82098	San Javier	82098033	Colonia San José
+82	82098	San Javier	82098035	Colonia Teresa
+82	82098	San Javier	82098040	La Brava
+82	82098	San Javier	82098050	Romang
+82	82098	San Javier	82098060	San Javier
+82	82105	San Jerónimo	82105010	Arocena
+82	82105	San Jerónimo	82105020	Balneario Monje
+82	82105	San Jerónimo	82105030	Barrancas
+82	82105	San Jerónimo	82105040	Barrio Caima
+82	82105	San Jerónimo	82105050	Barrio El Pacaá - Barrio Comipini
+82	82105	San Jerónimo	82105060	Bernardo de Irigoyen
+82	82105	San Jerónimo	82105070	Casalegno
+82	82105	San Jerónimo	82105080	Centeno
+82	82105	San Jerónimo	82105090	Coronda
+82	82105	San Jerónimo	82105100	Desvío Arijón
+82	82105	San Jerónimo	82105110	Díaz
+82	82105	San Jerónimo	82105120	Gaboto
+82	82105	San Jerónimo	82105130	Gálvez
+82	82105	San Jerónimo	82105140	Gessler
+82	82105	San Jerónimo	82105150	Irigoyen
+82	82105	San Jerónimo	82105160	Larrechea
+82	82105	San Jerónimo	82105170	Loma Alta
+82	82105	San Jerónimo	82105180	López
+82	82105	San Jerónimo	82105190	Maciel
+82	82105	San Jerónimo	82105200	Monje
+82	82105	San Jerónimo	82105210	Puerto Aragón
+82	82105	San Jerónimo	82105220	San Eugenio
+82	82105	San Jerónimo	82105230	San Fabián
+82	82105	San Jerónimo	82105240	San Genaro
+82	82112	San Justo	82112010	Angeloni
+82	82112	San Justo	82112020	Cayastacito
+82	82112	San Justo	82112030	Colonia Dolores
+82	82112	San Justo	82112040	Esther
+82	82112	San Justo	82112050	Gobernador Crespo
+82	82112	San Justo	82112060	La Criolla
+82	82112	San Justo	82112070	La Penca y Caraguatá
+82	82112	San Justo	82112080	Marcelino Escalada
+82	82112	San Justo	82112090	Naré
+82	82112	San Justo	82112100	Pedro Gómez Cello
+82	82112	San Justo	82112110	Ramayón
+82	82112	San Justo	82112120	San Bernardo
+82	82112	San Justo	82112130	San Justo
+82	82112	San Justo	82112140	San Martín Norte
+82	82112	San Justo	82112150	Silva
+82	82112	San Justo	82112160	Vera y Pintado
+82	82112	San Justo	82112170	Videla
+82	82119	San Lorenzo	82119010	Aldao
+82	82119	San Lorenzo	82119030	Carcarañá
+82	82119	San Lorenzo	82119040	Coronel Arnold
+82	82119	San Lorenzo	82119060	Fuentes
+82	82119	San Lorenzo	82119070	Luis Palacios
+82	82119	San Lorenzo	82119090	Pujato
+82	82119	San Lorenzo	82119020	Capitán Bermúdez
+82	82119	San Lorenzo	82119050	Fray Luis Beltrán
+82	82119	San Lorenzo	82119080	Puerto General San Martín
+82	82119	San Lorenzo	82119100	Ricardone
+82	82119	San Lorenzo	82119110	Roldán
+82	82119	San Lorenzo	82119130	San Lorenzo
+82	82119	San Lorenzo	82119140	Timbúes
+82	82119	San Lorenzo	82119150	Villa Elvira
+82	82119	San Lorenzo	82119120	San Jerónimo Sud
+82	82119	San Lorenzo	82119145	Vicente A. Echeverría
+82	82119	San Lorenzo	82119160	Villa Mugueta
+82	82126	San Martín	82126010	Cañada Rosquín
+82	82126	San Martín	82126020	Carlos Pellegrini
+82	82126	San Martín	82126030	Casas
+82	82126	San Martín	82126040	Castelar
+82	82126	San Martín	82126050	Colonia Belgrano
+82	82126	San Martín	82126060	Crispi
+82	82126	San Martín	82126070	El Trébol
+82	82126	San Martín	82126080	Landeta
+82	82126	San Martín	82126090	Las Bandurrias
+82	82126	San Martín	82126100	Las Petacas
+82	82126	San Martín	82126110	Los Cardos
+82	82126	San Martín	82126120	María Susana
+82	82126	San Martín	82126130	Piamonte
+82	82126	San Martín	82126140	San Jorge
+82	82126	San Martín	82126150	San Martín de las Escobas
+82	82126	San Martín	82126160	Sastre
+82	82126	San Martín	82126065	Schiffner
+82	82126	San Martín	82126170	Traill
+82	82126	San Martín	82126180	Wildermuth
+82	82133	Vera	82133010	Calchaquí
+82	82133	Vera	82133020	Cañada Ombú
+82	82133	Vera	82133030	Colmena
+82	82133	Vera	82133037	Fortín Charrúa
+82	82133	Vera	82133040	Fortín Olmos
+82	82133	Vera	82133050	Garabato
+82	82133	Vera	82133060	Golondrina
+82	82133	Vera	82133070	Intiyaco
+82	82133	Vera	82133075	Kilómetro 12
+82	82133	Vera	82133080	Kilómetro 115
+82	82133	Vera	82133085	Kilómetro 302
+82	82133	Vera	82133090	La Gallareta
+82	82133	Vera	82133100	Los Amores
+82	82133	Vera	82133105	Los Tábanos
+82	82133	Vera	82133110	Margarita
+82	82133	Vera	82133120	Paraje 29
+82	82133	Vera	82133130	Pozo de los Indios
+82	82133	Vera	82133135	Pueblo Luis Berli
+82	82133	Vera	82133140	Pueblo Santa Lucía
+82	82133	Vera	82133145	Santa Felicia
+82	82133	Vera	82133150	Tartagal
+82	82133	Vera	82133160	Toba
+82	82133	Vera	82133170	Vera
+86	86007	Aguirre	86007010	Argentina
+86	86007	Aguirre	86007020	Casares
+86	86007	Aguirre	86007030	Malbrán
+86	86007	Aguirre	86007040	Pinto
+86	86014	Alberdi	86014005	Agustina Libarona
+86	86014	Alberdi	86014010	Campo Gallo
+86	86014	Alberdi	86014020	Coronel Manuel L. Rico
+86	86014	Alberdi	86014030	Donadeu
+86	86014	Alberdi	86014035	Huachana
+86	86014	Alberdi	86014040	Sachayoj
+86	86014	Alberdi	86014050	Santos Lugares
+86	86021	Atamisqui	86021010	Estación Atamisqui
+86	86021	Atamisqui	86021015	Juanillo
+86	86021	Atamisqui	86021020	Medellín
+86	86021	Atamisqui	86021030	Villa Atamisqui
+86	86028	Avellaneda	86028010	Colonia Dora
+86	86028	Avellaneda	86028020	Herrera
+86	86028	Avellaneda	86028030	Icaño
+86	86028	Avellaneda	86028040	Lugones
+86	86028	Avellaneda	86028050	Real Sayana
+86	86028	Avellaneda	86028060	Villa Mailín
+86	86035	Banda	86035010	Abra Grande
+86	86035	Banda	86035020	Antajé
+86	86035	Banda	86035030	Ardiles
+86	86035	Banda	86035035	Bajo Grande
+86	86035	Banda	86035040	Cañada Escobar
+86	86035	Banda	86035050	Chaupi Pozo
+86	86035	Banda	86035060	Clodomira
+86	86035	Banda	86035070	Huyamampa
+86	86035	Banda	86035080	La Aurora
+86	86035	Banda	86035090	La Banda
+86	86035	Banda	86035100	San Ramón - La Dársena
+86	86035	Banda	86035105	Los Acosta
+86	86035	Banda	86035107	Los Gómez
+86	86035	Banda	86035110	Los Quiroga
+86	86035	Banda	86035120	Los Soria
+86	86035	Banda	86035124	Pampa Mayo
+86	86035	Banda	86035127	Sauce Bajada
+86	86035	Banda	86035130	Simbolar
+86	86035	Banda	86035140	Tramo 16
+86	86035	Banda	86035150	Tramo 20
+86	86042	Belgrano	86042010	Bandera
+86	86042	Belgrano	86042020	Cuatro Bocas
+86	86042	Belgrano	86042030	Fortín Inca
+86	86042	Belgrano	86042040	Guardia Escolta
+86	86049	Capital	86049010	El Deán
+86	86049	Capital	86049015	El Deancito
+86	86049	Capital	86049020	El Mojón
+86	86049	Capital	86049070	Morales
+86	86049	Capital	86049080	Puesto de San Antonio
+86	86049	Capital	86049090	San Pedro
+86	86049	Capital	86049100	Santa María
+86	86049	Capital	86049110	Santiago del Estero
+86	86049	Capital	86049030	El Zanjón
+86	86049	Capital	86049040	Los Cardozos
+86	86049	Capital	86049050	Maco
+86	86049	Capital	86049060	Maquito
+86	86049	Capital	86049120	Vuelta de la Barranca
+86	86049	Capital	86049130	Yanda
+86	86063	Choya	86063010	Ancaján
+86	86063	Choya	86063020	Choya
+86	86063	Choya	86063025	El Rodeo
+86	86063	Choya	86063030	Estación La Punta
+86	86063	Choya	86063040	Frías
+86	86063	Choya	86063050	Laprida
+86	86063	Choya	86063070	San Pedro
+86	86063	Choya	86063075	Sol de Mayo
+86	86063	Choya	86063080	Tapso
+86	86063	Choya	86063090	Villa La Punta
+86	86056	Copo	86056010	El Caburé
+86	86056	Copo	86056030	Los Pirpintos
+86	86056	Copo	86056040	Los Tigres
+86	86056	Copo	86056050	Monte Quemado
+86	86056	Copo	86056070	Pampa de los Guanacos
+86	86056	Copo	86056080	San José del Boquerón
+86	86056	Copo	86056090	Urutaú
+86	86070	Figueroa	86070010	Bandera Bajada
+86	86070	Figueroa	86070015	Cardón Esquina
+86	86070	Figueroa	86070020	Caspi Corral
+86	86070	Figueroa	86070030	Colonia San Juan
+86	86070	Figueroa	86070040	El Cruce
+86	86070	Figueroa	86070060	La Cañada
+86	86070	Figueroa	86070073	La Invernada Sur
+86	86070	Figueroa	86070080	Minerva
+86	86070	Figueroa	86070085	Quimilioj
+86	86070	Figueroa	86070090	Vaca Huañuna
+86	86070	Figueroa	86070100	Villa Figueroa
+86	86077	General Taboada	86077010	Añatuya
+86	86077	General Taboada	86077020	Averías
+86	86077	General Taboada	86077040	La Nena
+86	86077	General Taboada	86077050	Los Juríes
+86	86077	General Taboada	86077030	Tacañitas
+86	86077	General Taboada	86077060	Tomás Young
+86	86084	Guasayán	86084004	Doña Luisa
+86	86084	Guasayán	86084006	Guampacha
+86	86084	Guasayán	86084010	Lavalle
+86	86084	Guasayán	86084020	San Pedro
+86	86084	Guasayán	86084030	Villa Guasayán
+86	86091	Jiménez	86091005	El Arenal
+86	86091	Jiménez	86091008	El Bagual
+86	86091	Jiménez	86091010	El Bobadal
+86	86091	Jiménez	86091020	El Charco
+86	86091	Jiménez	86091023	El Churqui
+86	86091	Jiménez	86091026	El Palomar
+86	86091	Jiménez	86091030	El Rincón
+86	86091	Jiménez	86091040	Gramilla
+86	86091	Jiménez	86091050	Isca Yacu
+86	86091	Jiménez	86091060	Isca Yacu Semaul
+86	86091	Jiménez	86091070	Pozo Hondo
+86	86091	Jiménez	86091076	San Félix
+86	86091	Jiménez	86091080	San Pedro
+86	86091	Jiménez	86091090	Tres Cruces
+86	86098	Juan Felipe Ibarra	86098010	El Colorado
+86	86098	Juan Felipe Ibarra	86098020	El Cuadrado
+86	86098	Juan Felipe Ibarra	86098035	Pozo del Toba
+86	86098	Juan Felipe Ibarra	86098040	Suncho Corral
+86	86098	Juan Felipe Ibarra	86098050	Vilelas
+86	86098	Juan Felipe Ibarra	86098030	Villa Matará
+86	86098	Juan Felipe Ibarra	86098060	Yuchán
+86	86105	Loreto	86105010	Villa San Martín
+86	86112	Mitre	86112010	Villa Unión
+86	86119	Moreno	86119010	Aerolito
+86	86119	Moreno	86119020	Alhuampa
+86	86119	Moreno	86119021	Amamá
+86	86119	Moreno	86119023	Cejolao
+86	86119	Moreno	86119025	Granadero Gatica
+86	86119	Moreno	86119030	Hasse
+86	86119	Moreno	86119040	Hernán Mejía Miraval
+86	86119	Moreno	86119050	Las Tinajas
+86	86119	Moreno	86119060	Libertad
+86	86119	Moreno	86119070	Lilo Viejo
+86	86119	Moreno	86119080	Patay
+86	86119	Moreno	86119090	Pueblo Pablo Torelo
+86	86119	Moreno	86119100	Quimilí
+86	86119	Moreno	86119110	Roversi
+86	86119	Moreno	86119120	Tintina
+86	86119	Moreno	86119125	Villa Brana
+86	86119	Moreno	86119130	Weisburd
+86	86126	Ojo de Agua	86126005	Ambargasta
+86	86126	Ojo de Agua	86126010	El 49
+86	86126	Ojo de Agua	86126020	Sol de Julio
+86	86126	Ojo de Agua	86126030	Villa Ojo de Agua
+86	86133	Pellegrini	86133005	Agua Amarga
+86	86133	Pellegrini	86133006	Ahí Veremos
+86	86133	Pellegrini	86133008	Balde
+86	86133	Pellegrini	86133010	El Mojón
+86	86133	Pellegrini	86133013	El Quemado
+86	86133	Pellegrini	86133015	El Remate
+86	86133	Pellegrini	86133017	La Fragua
+86	86133	Pellegrini	86133020	Las Delicias
+86	86133	Pellegrini	86133030	Nueva Esperanza
+86	86133	Pellegrini	86133040	Pozo Betbeder
+86	86133	Pellegrini	86133045	Quebracho Coto
+86	86133	Pellegrini	86133050	Rapelli
+86	86133	Pellegrini	86133060	Santo Domingo
+86	86140	Quebrachos	86140010	Ramírez de Velazco
+86	86140	Quebrachos	86140020	Sumampa
+86	86140	Quebrachos	86140030	Sumampa Viejo
+86	86140	Quebrachos	86140040	Villa Quebrachos
+86	86147	Río Hondo	86147007	Cañada de la Costa
+86	86147	Río Hondo	86147020	Chauchillas
+86	86147	Río Hondo	86147030	Colonia Tinco
+86	86147	Río Hondo	86147040	El Charco
+86	86147	Río Hondo	86147120	El Sauzal
+86	86147	Río Hondo	86147050	Gramilla
+86	86147	Río Hondo	86147060	La Nueva Donosa
+86	86147	Río Hondo	86147070	Los Miranda
+86	86147	Río Hondo	86147080	Los Núñez
+86	86147	Río Hondo	86147090	Mansupa
+86	86147	Río Hondo	86147095	Pérez de Zurita
+86	86147	Río Hondo	86147100	Pozuelos
+86	86147	Río Hondo	86147105	Puesto La Soledad
+86	86147	Río Hondo	86147110	Rodeo de Valdez
+86	86147	Río Hondo	86147126	Sotelos
+86	86147	Río Hondo	86147130	Termas de Río Hondo
+86	86147	Río Hondo	86147123	San Pablo
+86	86147	Río Hondo	86147140	Villa Jiménez
+86	86147	Río Hondo	86147150	Villa Río Hondo
+86	86147	Río Hondo	86147160	Villa Turística del Embalse
+86	86147	Río Hondo	86147170	Vinará
+86	86154	Rivadavia	86154010	Colonia Alpina
+86	86154	Rivadavia	86154020	Palo Negro
+86	86154	Rivadavia	86154030	Selva
+86	86161	Robles	86161010	Beltrán
+86	86161	Robles	86161020	Colonia El Simbolar
+86	86161	Robles	86161030	Fernández
+86	86161	Robles	86161040	Ingeniero Forres
+86	86161	Robles	86161043	Los Pereyra
+86	86161	Robles	86161045	Los Romanos
+86	86161	Robles	86161048	Villa Robles
+86	86161	Robles	86161050	Vilmer
+86	86168	Salavina	86168010	Chilca Juliana
+86	86168	Salavina	86168020	Los Telares
+86	86168	Salavina	86168030	Villa Salavina
+86	86175	San Martín	86175010	Brea Pozo
+86	86175	San Martín	86175020	Estación Robles
+86	86175	San Martín	86175030	Estación Taboada
+86	86175	San Martín	86175040	Villa Nueva
+86	86182	Sarmiento	86182010	Garza
+86	86189	Silípica	86189010	Árraga
+86	86189	Silípica	86189020	Nueva Francia
+86	86189	Silípica	86189030	Simbol
+86	86189	Silípica	86189040	Sumamao
+86	86189	Silípica	86189050	Villa Silípica
+90	90007	Burruyacú	90007010	Barrio San Jorge
+90	90007	Burruyacú	90007011	Barrio San Martín
+90	90007	Burruyacú	90007013	Boca del Tigre
+90	90007	Burruyacú	90007018	El Cajón
+90	90007	Burruyacú	90007020	El Chañar
+90	90007	Burruyacú	90007030	El Naranjo
+90	90007	Burruyacú	90007033	El Puestito
+90	90007	Burruyacú	90007035	El Rodeo
+90	90007	Burruyacú	90007037	El Timbó
+90	90007	Burruyacú	90007040	Garmendia
+90	90007	Burruyacú	90007043	La Angostura
+90	90007	Burruyacú	90007060	Macomitas
+90	90007	Burruyacú	90007045	La Cañada
+90	90007	Burruyacú	90007047	La Cruz
+90	90007	Burruyacú	90007050	La Ramada
+90	90007	Burruyacú	90007053	La Ramada de Abajo
+90	90007	Burruyacú	90007055	La Salina
+90	90007	Burruyacú	90007065	Paso de las Lanzas
+90	90007	Burruyacú	90007070	Gobernador Piedrabuena
+90	90007	Burruyacú	90007075	Río Nío
+90	90007	Burruyacú	90007080	7 de Abril
+90	90007	Burruyacú	90007085	Taruca Pampa
+90	90007	Burruyacú	90007087	Timbó Nuevo
+90	90007	Burruyacú	90007088	Timbó Viejo
+90	90007	Burruyacú	90007090	Villa Benjamín Aráoz
+90	90007	Burruyacú	90007100	Villa Burruyacú
+90	90007	Burruyacú	90007110	Villa Padre Monti
+90	90084	Capital	90084010	San Miguel de Tucumán
+90	90021	Chicligasta	90021020	Alto Verde
+90	90021	Chicligasta	90021030	Arcadia
+90	90021	Chicligasta	90021050	Concepción
+90	90021	Chicligasta	90021057	Gastonilla
+90	90021	Chicligasta	90021070	La Trinidad
+90	90021	Chicligasta	90021080	Medina
+90	90021	Chicligasta	90021010	Alpachiri
+90	90021	Chicligasta	90021045	Barrio Santa Emilia
+90	90021	Chicligasta	90021053	El Molino
+90	90021	Chicligasta	90021055	Gastona Norte
+90	90021	Chicligasta	90021056	Gastona Sud
+90	90021	Chicligasta	90021060	Iltico
+90	90021	Chicligasta	90021073	Los Guchea
+90	90014	Cruz Alta	90014010	Alderetes
+90	90014	Cruz Alta	90014020	Banda del Río Salí
+90	90014	Cruz Alta	90014130	San Andrés
+90	90014	Cruz Alta	90014040	Colombres
+90	90014	Cruz Alta	90014060	Delfín Gallo
+90	90014	Cruz Alta	90014080	La Florida
+90	90014	Cruz Alta	90014035	Boca del Tigre
+90	90014	Cruz Alta	90014015	Bajo Grande
+90	90014	Cruz Alta	90014050	Colonia Mayo - Barrio La Milagrosa
+90	90014	Cruz Alta	90014070	El Bracho
+90	90014	Cruz Alta	90014073	El Cevilar
+90	90014	Cruz Alta	90014074	El Empalme
+90	90014	Cruz Alta	90014075	El Empalme
+90	90014	Cruz Alta	90014077	El Naranjito
+90	90014	Cruz Alta	90014090	Las Cejas
+90	90014	Cruz Alta	90014093	Las Piedritas
+90	90014	Cruz Alta	90014095	Los Bulacio
+90	90014	Cruz Alta	90014097	Los Pereyra
+90	90014	Cruz Alta	90014100	Los Ralos
+90	90014	Cruz Alta	90014105	Los Villagra
+90	90014	Cruz Alta	90014110	Pacará
+90	90014	Cruz Alta	90014120	Ranchillos
+90	90028	Famaillá	90028020	Campo de Herrera
+90	90028	Famaillá	90028030	Famaillá
+90	90028	Famaillá	90028040	Ingenio Fronterita
+90	90028	Famaillá	90028060	Los Laureles Sur
+90	90028	Famaillá	90028070	Padilla
+90	90028	Famaillá	90028080	San Gabriel
+90	90035	Graneros	90035010	Graneros
+90	90035	Graneros	90035017	La Cañada
+90	90035	Graneros	90035020	Lamadrid
+90	90035	Graneros	90035030	Taco Ralo
+90	90042	Juan Bautista Alberdi	90042010	Juan Bautista Alberdi
+90	90042	Juan Bautista Alberdi	90042020	Villa Belgrano
+90	90049	La Cocha	90049001	Alto de la Cocha
+90	90049	La Cocha	90049010	La Cocha
+90	90049	La Cocha	90049003	Domingo Millán
+90	90049	La Cocha	90049004	El Corralito
+90	90049	La Cocha	90049005	El Sacrificio
+90	90049	La Cocha	90049006	Huasa Pampa Norte
+90	90049	La Cocha	90049007	Huasa Pampa Sur
+90	90049	La Cocha	90049013	Los Pizarros
+90	90049	La Cocha	90049016	Rumi Punco
+90	90049	La Cocha	90049020	San José de la Cocha
+90	90049	La Cocha	90049030	Yánima
+90	90056	Leales	90056010	Bella Vista
+90	90056	Leales	90056013	Cruce Río Colorado
+90	90056	Leales	90056016	El Porvenir
+90	90056	Leales	90056018	Esquina
+90	90056	Leales	90056020	Estación Aráoz
+90	90056	Leales	90056025	Las Talas
+90	90056	Leales	90056027	Los Gómez
+90	90056	Leales	90056030	Los Puestos
+90	90056	Leales	90056032	Los Romano
+90	90056	Leales	90056034	Los Sueldos
+90	90056	Leales	90056038	Mancopa
+90	90056	Leales	90056040	Manuel García Fernández
+90	90056	Leales	90056060	Río Colorado
+90	90056	Leales	90056065	San José de Buena Vista
+90	90056	Leales	90056067	San Ramón
+90	90056	Leales	90056070	Santa Rosa de Leales
+90	90056	Leales	90056075	Tacanas
+90	90056	Leales	90056090	Villa de Leales
+90	90056	Leales	90056080	Villa Fiad - Ingenio Leales
+90	90056	Leales	90056100	Villa Regina
+90	90063	Lules	90063010	Barrio San Felipe
+90	90063	Lules	90063020	El Manantial
+90	90063	Lules	90063045	Los Aguirre
+90	90063	Lules	90063030	San Pablo
+90	90063	Lules	90063090	Yerba Buena
+90	90063	Lules	90063040	La Reducción
+90	90063	Lules	90063050	San Isidro de Lules
+90	90063	Lules	90063080	Villa Nougués
+90	90070	Monteros	90070050	Río Seco
+90	90070	Monteros	90070100	Villa Quinteros
+90	90070	Monteros	90070080	Soldado Maldonado
+90	90070	Monteros	90070028	Los Sosa
+90	90070	Monteros	90070010	Acheral
+90	90070	Monteros	90070015	Amberes
+90	90070	Monteros	90070020	Capitán Cáceres
+90	90070	Monteros	90070023	El Cercado
+90	90070	Monteros	90070025	Los Costilla
+90	90070	Monteros	90070030	Monteros
+90	90070	Monteros	90070040	Pueblo Independencia
+90	90070	Monteros	90070060	Santa Lucía
+90	90070	Monteros	90070070	Sargento Moya
+90	90070	Monteros	90070090	Teniente Berdina
+90	90070	Monteros	90070110	Zavalía
+90	90077	Río Chico	90077010	Aguilares
+90	90077	Río Chico	90077020	Los Sarmiento
+90	90077	Río Chico	90077011	Colonia 1
+90	90077	Río Chico	90077013	Colonia 6
+90	90077	Río Chico	90077014	Colonia 10
+90	90077	Río Chico	90077015	Colonia 14
+90	90077	Río Chico	90077016	Colonia 17
+90	90077	Río Chico	90077018	El Polear
+90	90077	Río Chico	90077019	La Tipa
+90	90077	Río Chico	90077025	Monte Bello
+90	90077	Río Chico	90077030	Río Chico
+90	90077	Río Chico	90077040	Santa Ana
+90	90077	Río Chico	90077050	Villa Clodomiro Hileret
+90	90091	Simoca	90091010	Atahona
+90	90091	Simoca	90091017	Manuela Pedraza
+90	90091	Simoca	90091020	Monteagudo
+90	90091	Simoca	90091030	Nueva Trinidad
+90	90091	Simoca	90091037	San Pedro Mártir
+90	90091	Simoca	90091040	Santa Cruz
+90	90091	Simoca	90091050	Simoca
+90	90091	Simoca	90091060	Villa Chicligasta
+90	90098	Tafí del Valle	90098010	Amaicha del Valle
+90	90098	Tafí del Valle	90098013	Ampimpa
+90	90098	Tafí del Valle	90098015	Barrio Malvinas
+90	90098	Tafí del Valle	90098020	Colalao del Valle
+90	90098	Tafí del Valle	90098030	El Mollar
+90	90098	Tafí del Valle	90098032	El Rodeo
+90	90098	Tafí del Valle	90098037	Las Carreras
+90	90098	Tafí del Valle	90098036	Las Siringuillas
+90	90098	Tafí del Valle	90098038	Los Zazos
+90	90098	Tafí del Valle	90098035	La Costa
+90	90098	Tafí del Valle	90098040	Tafí del Valle
+90	90105	Tafí Viejo	90105075	La Esperanza
+90	90105	Tafí Viejo	90105100	Las Talitas
+90	90105	Tafí Viejo	90105030	Los Nogales
+90	90105	Tafí Viejo	90105080	Tafí Viejo
+90	90105	Tafí Viejo	90105070	El Cadillal
+90	90105	Tafí Viejo	90105045	Barrio Santa Rita
+90	90105	Tafí Viejo	90105072	El Siambón
+90	90105	Tafí Viejo	90105074	La Tuquita
+90	90105	Tafí Viejo	90105078	Raco
+90	90105	Tafí Viejo	90105079	San Javier
+90	90112	Trancas	90112005	Benjamín Paz
+90	90112	Trancas	90112010	Choromoro
+90	90112	Trancas	90112013	Chuscha
+90	90112	Trancas	90112020	San Pedro de Colalao
+90	90112	Trancas	90112025	Tapia
+90	90112	Trancas	90112030	Villa de Trancas
+90	90112	Trancas	90112040	Vipos
+90	90119	Yerba Buena	90119020	Cevil Redondo
+90	90119	Yerba Buena	90119030	Yerba Buena
+90	90119	Yerba Buena	90119025	Villa San Javier
+94	94008	Río Grande	94008003	Country Club San Justo
+94	94008	Río Grande	94008010	Río Grande
+94	94011	Tolhuin	94011010	Tolhuin
+94	94015	Ushuaia	94015010	Laguna Escondida
+94	94015	Ushuaia	94015015	Puerto Almanza
+94	94015	Ushuaia	94015020	Ushuaia
+94	94021	Islas del Atlántico Sur	94021010	Bahía Fox
+94	94021	Islas del Atlántico Sur	94021020	Brazo Norte
+94	94021	Islas del Atlántico Sur	94021030	Chartres
+94	94021	Islas del Atlántico Sur	94021040	Grytviken
+94	94021	Islas del Atlántico Sur	94021050	Monte Agradable
+94	94021	Islas del Atlántico Sur	94021060	Pradera del Ganso
+94	94021	Islas del Atlántico Sur	94021070	Puerto Argentino
+94	94021	Islas del Atlántico Sur	94021080	Puerto Mitre
